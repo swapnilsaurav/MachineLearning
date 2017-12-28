@@ -1,4 +1,4 @@
-Region,Age,Sales,TargetAchieved
+Region,Salesperson,Quotation,Win
 North,44,72000,No
 South,27,48000,Yes
 East,30,54000,No
