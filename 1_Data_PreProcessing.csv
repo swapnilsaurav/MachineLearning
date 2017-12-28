@@ -1,0 +1,15 @@
+Region,Age,Sales,TargetAchieved
+North,44,72000,No
+South,27,48000,Yes
+East,30,54000,No
+South,38,61000,No
+East,40,,Yes
+North,35,58000,Yes
+North,,52000,No
+West,48,79000,Yes
+West,50,83000,No
+West,37,67000,Yes
+North,44,72000,Yes
+South,27,48000,No
+East,30,54000,Yes
+South,38,61000,No
