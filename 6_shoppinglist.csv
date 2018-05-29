@@ -1,2135 +1,261 @@
-
-
-
-
-
-
-<!DOCTYPE html>
-<html lang="en">
-  <head>
-    <meta charset="utf-8">
-  <link rel="dns-prefetch" href="https://assets-cdn.github.com">
-  <link rel="dns-prefetch" href="https://avatars0.githubusercontent.com">
-  <link rel="dns-prefetch" href="https://avatars1.githubusercontent.com">
-  <link rel="dns-prefetch" href="https://avatars2.githubusercontent.com">
-  <link rel="dns-prefetch" href="https://avatars3.githubusercontent.com">
-  <link rel="dns-prefetch" href="https://github-cloud.s3.amazonaws.com">
-  <link rel="dns-prefetch" href="https://user-images.githubusercontent.com/">
-
-
-
-  <link crossorigin="anonymous" media="all" integrity="sha512-hqbuBb0QOOmiWgl8a1V1N5q6TI/G0A2hVt/lCFYafR+fYsuXeRUcsdcb/yUyVEHYXktmUXl0Mx9s/BOUNZVq4w==" rel="stylesheet" href="https://assets-cdn.github.com/assets/frameworks-23c9e7262eee71bc6f67f6950190a162.css" />
-  <link crossorigin="anonymous" media="all" integrity="sha512-eIYYJSKqUtZ1wca1cjvRpEFVDVFlRed6ZF1jtZ0E+plPCBYpZd78jUtSlGbFFouH9uhlhGRztTLDLwmNU6rL8w==" rel="stylesheet" href="https://assets-cdn.github.com/assets/github-50c729cf7e55c7554c6d0ceae2a0e938.css" />
-  
-  
-  <link crossorigin="anonymous" media="all" integrity="sha512-cCY9KKeDzfGd+snVDZwcOIrTjK+JAFW4FR1c4OGJo1Z2QZNbAGVD6JlcnHL19LBcdByWHVxwrAPwigT/v/DWyQ==" rel="stylesheet" href="https://assets-cdn.github.com/assets/site-7472e7b4603d4095447d49d428375ab8.css" />
-  
-
-  <meta name="viewport" content="width=device-width">
-  
-  <title>RProjects/groceries.csv at master · nupur1492/RProjects · GitHub</title>
-    <meta name="description" content="GitHub is where people build software. More than 27 million people use GitHub to discover, fork, and contribute to over 80 million projects.">
-    <link rel="search" type="application/opensearchdescription+xml" href="/opensearch.xml" title="GitHub">
-  <link rel="fluid-icon" href="https://github.com/fluidicon.png" title="GitHub">
-  <meta property="fb:app_id" content="1401488693436528">
-
-    
-    <meta property="og:image" content="https://avatars2.githubusercontent.com/u/7491748?s=400&amp;v=4" /><meta property="og:site_name" content="GitHub" /><meta property="og:type" content="object" /><meta property="og:title" content="nupur1492/RProjects" /><meta property="og:url" content="https://github.com/nupur1492/RProjects" /><meta property="og:description" content="RProjects - Repo for R Data Science projects" />
-
-  <link rel="assets" href="https://assets-cdn.github.com/">
-  
-  <meta name="pjax-timeout" content="1000">
-  
-  <meta name="request-id" content="70C8:3FA7:2C968E6:51EA676:5B0C3628" data-pjax-transient>
-
-
-  
-
-  <meta name="selected-link" value="repo_source" data-pjax-transient>
-
-    <meta name="google-site-verification" content="KT5gs8h0wvaagLKAVWq8bbeNwnZZK1r1XQysX3xurLU">
-  <meta name="google-site-verification" content="ZzhVyEFwb7w3e0-uOTltm8Jsck2F5StVihD0exw2fsA">
-  <meta name="google-site-verification" content="GXs5KoUUkNCoaAZn7wPN-t01Pywp9M3sEjnt_3_ZWPc">
-    <meta name="google-analytics" content="UA-3769691-2">
-
-<meta name="octolytics-host" content="collector.githubapp.com" /><meta name="octolytics-app-id" content="github" /><meta name="octolytics-event-url" content="https://collector.githubapp.com/github-external/browser_event" /><meta name="octolytics-dimension-request_id" content="70C8:3FA7:2C968E6:51EA676:5B0C3628" /><meta name="octolytics-dimension-region_edge" content="iad" /><meta name="octolytics-dimension-region_render" content="iad" />
-<meta name="analytics-location" content="/&lt;user-name&gt;/&lt;repo-name&gt;/blob/show" data-pjax-transient="true" />
-
-
-
-
-  <meta class="js-ga-set" name="dimension1" content="Logged Out">
-
-
-  
-
-      <meta name="hostname" content="github.com">
-    <meta name="user-login" content="">
-
-      <meta name="expected-hostname" content="github.com">
-    <meta name="js-proxy-site-detection-payload" content="MDI1OWRkOTk2OWU0N2ZjNDg4M2Q1NjA3OGI1ZDY0OTg2MTY1MGYwZDZkOWQyYzFmYTQ2Mjg1ZTY1NThjN2IzY3x7InJlbW90ZV9hZGRyZXNzIjoiMTgzLjgzLjIyMi44NiIsInJlcXVlc3RfaWQiOiI3MEM4OjNGQTc6MkM5NjhFNjo1MUVBNjc2OjVCMEMzNjI4IiwidGltZXN0YW1wIjoxNTI3NTI3MDA3LCJob3N0IjoiZ2l0aHViLmNvbSJ9">
-
-    <meta name="enabled-features" content="UNIVERSE_BANNER,FREE_TRIALS,MARKETPLACE_INSIGHTS,MARKETPLACE_INSIGHTS_CONVERSION_PERCENTAGES,JUMP_TO">
-
-  <meta name="html-safe-nonce" content="83ed9a741f8f86437424b10d789b7127a7d94f9f">
-
-  <meta http-equiv="x-pjax-version" content="cb731f9d27da2ae3c5aaf1474ffe5d0a">
-  
-
-      <link href="https://github.com/nupur1492/RProjects/commits/master.atom" rel="alternate" title="Recent Commits to RProjects:master" type="application/atom+xml">
-
-  <meta name="description" content="RProjects - Repo for R Data Science projects">
-  <meta name="go-import" content="github.com/nupur1492/RProjects git https://github.com/nupur1492/RProjects.git">
-
-  <meta name="octolytics-dimension-user_id" content="7491748" /><meta name="octolytics-dimension-user_login" content="nupur1492" /><meta name="octolytics-dimension-repository_id" content="60392725" /><meta name="octolytics-dimension-repository_nwo" content="nupur1492/RProjects" /><meta name="octolytics-dimension-repository_public" content="true" /><meta name="octolytics-dimension-repository_is_fork" content="false" /><meta name="octolytics-dimension-repository_network_root_id" content="60392725" /><meta name="octolytics-dimension-repository_network_root_nwo" content="nupur1492/RProjects" /><meta name="octolytics-dimension-repository_explore_github_marketplace_ci_cta_shown" content="false" />
-
-
-    <link rel="canonical" href="https://github.com/nupur1492/RProjects/blob/master/MarketBasketAnalysis/groceries.csv" data-pjax-transient>
-
-
-  <meta name="browser-stats-url" content="https://api.github.com/_private/browser/stats">
-
-  <meta name="browser-errors-url" content="https://api.github.com/_private/browser/errors">
-
-  <link rel="mask-icon" href="https://assets-cdn.github.com/pinned-octocat.svg" color="#000000">
-  <link rel="icon" type="image/x-icon" class="js-site-favicon" href="https://assets-cdn.github.com/favicon.ico">
-
-<meta name="theme-color" content="#1e2327">
-
-
-  <meta name="u2f-support" content="true">
-
-<link rel="manifest" href="/manifest.json" crossOrigin="use-credentials">
-
-  </head>
-
-  <body class="logged-out env-production page-blob">
-    
-
-  <div class="position-relative js-header-wrapper ">
-    <a href="#start-of-content" tabindex="1" class="px-2 py-4 bg-blue text-white show-on-focus js-skip-to-content">Skip to content</a>
-    <div id="js-pjax-loader-bar" class="pjax-loader-bar"><div class="progress"></div></div>
-
-    
-    
-    
-
-
-
-        <header class="Header header-logged-out  position-relative f4 py-3" role="banner">
-  <div class="container-lg d-flex px-3">
-    <div class="d-flex flex-justify-between flex-items-center">
-      <a class="header-logo-invertocat my-0" href="https://github.com/" aria-label="Homepage" data-ga-click="(Logged out) Header, go to homepage, icon:logo-wordmark">
-        <svg height="32" class="octicon octicon-mark-github" viewBox="0 0 16 16" version="1.1" width="32" aria-hidden="true"><path fill-rule="evenodd" d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27.68 0 1.36.09 2 .27 1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.013 8.013 0 0 0 16 8c0-4.42-3.58-8-8-8z"/></svg>
-      </a>
-
-    </div>
-
-    <div class="HeaderMenu HeaderMenu--bright d-flex flex-justify-between flex-auto">
-        <nav class="mt-0">
-          <ul class="d-flex list-style-none">
-              <li class="ml-2">
-                <a class="js-selected-navigation-item HeaderNavlink px-0 py-2 m-0" data-ga-click="Header, click, Nav menu - item:features" data-selected-links="/features /features/project-management /features/code-review /features/project-management /features/integrations /features" href="/features">
-                  Features
-</a>              </li>
-              <li class="ml-4">
-                <a class="js-selected-navigation-item HeaderNavlink px-0 py-2 m-0" data-ga-click="Header, click, Nav menu - item:business" data-selected-links="/business /business/security /business/customers /business" href="/business">
-                  Business
-</a>              </li>
-
-              <li class="ml-4">
-                <a class="js-selected-navigation-item HeaderNavlink px-0 py-2 m-0" data-ga-click="Header, click, Nav menu - item:explore" data-selected-links="/explore /trending /trending/developers /integrations /integrations/feature/code /integrations/feature/collaborate /integrations/feature/ship showcases showcases_search showcases_landing /explore" href="/explore">
-                  Explore
-</a>              </li>
-
-              <li class="ml-4">
-                    <a class="js-selected-navigation-item HeaderNavlink px-0 py-2 m-0" data-ga-click="Header, click, Nav menu - item:marketplace" data-selected-links=" /marketplace" href="/marketplace">
-                      Marketplace
-</a>              </li>
-              <li class="ml-4">
-                <a class="js-selected-navigation-item HeaderNavlink px-0 py-2 m-0" data-ga-click="Header, click, Nav menu - item:pricing" data-selected-links="/pricing /pricing/developer /pricing/team /pricing/business-hosted /pricing/business-enterprise /pricing" href="/pricing">
-                  Pricing
-</a>              </li>
-          </ul>
-        </nav>
-
-      <div class="d-flex">
-          <div class="d-lg-flex flex-items-center mr-3">
-            <div class="header-search scoped-search site-scoped-search js-site-search position-relative" role="search">
-  <div class="position-relative">
-    <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="js-site-search-form" data-scope-type="Repository" data-scope-id="60392725" data-scoped-search-url="/nupur1492/RProjects/search" data-unscoped-search-url="/search" action="/nupur1492/RProjects/search" accept-charset="UTF-8" method="get"><input name="utf8" type="hidden" value="&#x2713;" />
-      <label class="form-control header-search-wrapper  js-chromeless-input-container">
-            <a class="header-search-scope no-underline" href="/nupur1492/RProjects/blob/master/MarketBasketAnalysis/groceries.csv">This repository</a>
-        <input type="text"
-          class="form-control header-search-input  js-site-search-focus js-site-search-field is-clearable"
-          data-hotkey="s,/"
-          name="q"
-          value=""
-          placeholder="Search"
-          aria-label="Search this repository"
-          data-unscoped-placeholder="Search GitHub"
-          data-scoped-placeholder="Search"
-          autocapitalize="off"
-          >
-          <input type="hidden" class="js-site-search-type-field" name="type" >
-      </label>
-</form>  </div>
-</div>
-
-          </div>
-
-        <span class="d-inline-block">
-            <div class="HeaderNavlink px-0 py-2 m-0">
-              <a class="text-bold text-white no-underline" href="/login?return_to=%2Fnupur1492%2FRProjects%2Fblob%2Fmaster%2FMarketBasketAnalysis%2Fgroceries.csv" data-ga-click="(Logged out) Header, clicked Sign in, text:sign-in">Sign in</a>
-                <span class="text-gray">or</span>
-                <a class="text-bold text-white no-underline" href="/join?source=header-repo" data-ga-click="(Logged out) Header, clicked Sign up, text:sign-up">Sign up</a>
-            </div>
-        </span>
-      </div>
-    </div>
-  </div>
-</header>
-
-  </div>
-
-  <div id="start-of-content" class="show-on-focus"></div>
-
-    <div id="js-flash-container">
-</div>
-
-
-
-  <div role="main" class="application-main ">
-        <div itemscope itemtype="http://schema.org/SoftwareSourceCode" class="">
-    <div id="js-repo-pjax-container" data-pjax-container >
-      
-
-
-
-
-
-
-
-  <div class="pagehead repohead instapaper_ignore readability-menu experiment-repo-nav  ">
-    <div class="repohead-details-container clearfix container">
-
-      <ul class="pagehead-actions">
-  <li>
-      <a href="/login?return_to=%2Fnupur1492%2FRProjects"
-    class="btn btn-sm btn-with-count tooltipped tooltipped-n"
-    aria-label="You must be signed in to watch a repository" rel="nofollow">
-    <svg class="octicon octicon-eye" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M8.06 2C3 2 0 8 0 8s3 6 8.06 6C13 14 16 8 16 8s-3-6-7.94-6zM8 12c-2.2 0-4-1.78-4-4 0-2.2 1.8-4 4-4 2.22 0 4 1.8 4 4 0 2.22-1.78 4-4 4zm2-4c0 1.11-.89 2-2 2-1.11 0-2-.89-2-2 0-1.11.89-2 2-2 1.11 0 2 .89 2 2z"/></svg>
-    Watch
-  </a>
-  <a class="social-count" href="/nupur1492/RProjects/watchers"
-     aria-label="7 users are watching this repository">
-    7
-  </a>
-
-  </li>
-
-  <li>
-      <a href="/login?return_to=%2Fnupur1492%2FRProjects"
-    class="btn btn-sm btn-with-count tooltipped tooltipped-n"
-    aria-label="You must be signed in to star a repository" rel="nofollow">
-    <svg class="octicon octicon-star" viewBox="0 0 14 16" version="1.1" width="14" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M14 6l-4.9-.64L7 1 4.9 5.36 0 6l3.6 3.26L2.67 14 7 11.67 11.33 14l-.93-4.74L14 6z"/></svg>
-    Star
-  </a>
-
-    <a class="social-count js-social-count" href="/nupur1492/RProjects/stargazers"
-      aria-label="13 users starred this repository">
-      13
-    </a>
-
-  </li>
-
-  <li>
-      <a href="/login?return_to=%2Fnupur1492%2FRProjects"
-        class="btn btn-sm btn-with-count tooltipped tooltipped-n"
-        aria-label="You must be signed in to fork a repository" rel="nofollow">
-        <svg class="octicon octicon-repo-forked" viewBox="0 0 10 16" version="1.1" width="10" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M8 1a1.993 1.993 0 0 0-1 3.72V6L5 8 3 6V4.72A1.993 1.993 0 0 0 2 1a1.993 1.993 0 0 0-1 3.72V6.5l3 3v1.78A1.993 1.993 0 0 0 5 15a1.993 1.993 0 0 0 1-3.72V9.5l3-3V4.72A1.993 1.993 0 0 0 8 1zM2 4.2C1.34 4.2.8 3.65.8 3c0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2 0 .65-.55 1.2-1.2 1.2zm3 10c-.66 0-1.2-.55-1.2-1.2 0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2 0 .65-.55 1.2-1.2 1.2zm3-10c-.66 0-1.2-.55-1.2-1.2 0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2 0 .65-.55 1.2-1.2 1.2z"/></svg>
-        Fork
-      </a>
-
-    <a href="/nupur1492/RProjects/network" class="social-count"
-       aria-label="70 users forked this repository">
-      70
-    </a>
-  </li>
-</ul>
-
-      <h1 class="public ">
-  <svg class="octicon octicon-repo" viewBox="0 0 12 16" version="1.1" width="12" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M4 9H3V8h1v1zm0-3H3v1h1V6zm0-2H3v1h1V4zm0-2H3v1h1V2zm8-1v12c0 .55-.45 1-1 1H6v2l-1.5-1.5L3 16v-2H1c-.55 0-1-.45-1-1V1c0-.55.45-1 1-1h10c.55 0 1 .45 1 1zm-1 10H1v2h2v-1h3v1h5v-2zm0-10H2v9h9V1z"/></svg>
-  <span class="author" itemprop="author"><a class="url fn" rel="author" href="/nupur1492">nupur1492</a></span><!--
---><span class="path-divider">/</span><!--
---><strong itemprop="name"><a data-pjax="#js-repo-pjax-container" href="/nupur1492/RProjects">RProjects</a></strong>
-
-</h1>
-
-    </div>
-    
-<nav class="reponav js-repo-nav js-sidenav-container-pjax container"
-     itemscope
-     itemtype="http://schema.org/BreadcrumbList"
-     role="navigation"
-     data-pjax="#js-repo-pjax-container">
-
-  <span itemscope itemtype="http://schema.org/ListItem" itemprop="itemListElement">
-    <a class="js-selected-navigation-item selected reponav-item" itemprop="url" data-hotkey="g c" data-selected-links="repo_source repo_downloads repo_commits repo_releases repo_tags repo_branches repo_packages /nupur1492/RProjects" href="/nupur1492/RProjects">
-      <svg class="octicon octicon-code" viewBox="0 0 14 16" version="1.1" width="14" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M9.5 3L8 4.5 11.5 8 8 11.5 9.5 13 14 8 9.5 3zm-5 0L0 8l4.5 5L6 11.5 2.5 8 6 4.5 4.5 3z"/></svg>
-      <span itemprop="name">Code</span>
-      <meta itemprop="position" content="1">
-</a>  </span>
-
-    <span itemscope itemtype="http://schema.org/ListItem" itemprop="itemListElement">
-      <a itemprop="url" data-hotkey="g i" class="js-selected-navigation-item reponav-item" data-selected-links="repo_issues repo_labels repo_milestones /nupur1492/RProjects/issues" href="/nupur1492/RProjects/issues">
-        <svg class="octicon octicon-issue-opened" viewBox="0 0 14 16" version="1.1" width="14" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7 2.3c3.14 0 5.7 2.56 5.7 5.7s-2.56 5.7-5.7 5.7A5.71 5.71 0 0 1 1.3 8c0-3.14 2.56-5.7 5.7-5.7zM7 1C3.14 1 0 4.14 0 8s3.14 7 7 7 7-3.14 7-7-3.14-7-7-7zm1 3H6v5h2V4zm0 6H6v2h2v-2z"/></svg>
-        <span itemprop="name">Issues</span>
-        <span class="Counter">0</span>
-        <meta itemprop="position" content="2">
-</a>    </span>
-
-  <span itemscope itemtype="http://schema.org/ListItem" itemprop="itemListElement">
-    <a data-hotkey="g p" itemprop="url" class="js-selected-navigation-item reponav-item" data-selected-links="repo_pulls checks /nupur1492/RProjects/pulls" href="/nupur1492/RProjects/pulls">
-      <svg class="octicon octicon-git-pull-request" viewBox="0 0 12 16" version="1.1" width="12" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M11 11.28V5c-.03-.78-.34-1.47-.94-2.06C9.46 2.35 8.78 2.03 8 2H7V0L4 3l3 3V4h1c.27.02.48.11.69.31.21.2.3.42.31.69v6.28A1.993 1.993 0 0 0 10 15a1.993 1.993 0 0 0 1-3.72zm-1 2.92c-.66 0-1.2-.55-1.2-1.2 0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2 0 .65-.55 1.2-1.2 1.2zM4 3c0-1.11-.89-2-2-2a1.993 1.993 0 0 0-1 3.72v6.56A1.993 1.993 0 0 0 2 15a1.993 1.993 0 0 0 1-3.72V4.72c.59-.34 1-.98 1-1.72zm-.8 10c0 .66-.55 1.2-1.2 1.2-.65 0-1.2-.55-1.2-1.2 0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2zM2 4.2C1.34 4.2.8 3.65.8 3c0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2 0 .65-.55 1.2-1.2 1.2z"/></svg>
-      <span itemprop="name">Pull requests</span>
-      <span class="Counter">0</span>
-      <meta itemprop="position" content="3">
-</a>  </span>
-
-    <a data-hotkey="g b" class="js-selected-navigation-item reponav-item" data-selected-links="repo_projects new_repo_project repo_project /nupur1492/RProjects/projects" href="/nupur1492/RProjects/projects">
-      <svg class="octicon octicon-project" viewBox="0 0 15 16" version="1.1" width="15" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M10 12h3V2h-3v10zm-4-2h3V2H6v8zm-4 4h3V2H2v12zm-1 1h13V1H1v14zM14 0H1a1 1 0 0 0-1 1v14a1 1 0 0 0 1 1h13a1 1 0 0 0 1-1V1a1 1 0 0 0-1-1z"/></svg>
-      Projects
-      <span class="Counter" >0</span>
-</a>
-
-
-  <a class="js-selected-navigation-item reponav-item" data-selected-links="repo_graphs repo_contributors dependency_graph pulse /nupur1492/RProjects/pulse" href="/nupur1492/RProjects/pulse">
-    <svg class="octicon octicon-graph" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M16 14v1H0V0h1v14h15zM5 13H3V8h2v5zm4 0H7V3h2v10zm4 0h-2V6h2v7z"/></svg>
-    Insights
-</a>
-
-</nav>
-
-
-  </div>
-
-<div class="container new-discussion-timeline experiment-repo-nav  ">
-  <div class="repository-content ">
-
-    
-  <a class="d-none js-permalink-shortcut" data-hotkey="y" href="/nupur1492/RProjects/blob/002aea06c5cba7a3440d5e8adc0ad33d17b15829/MarketBasketAnalysis/groceries.csv">Permalink</a>
-
-  <!-- blob contrib key: blob_contributors:v21:ba8b373409ff384072f40ea8324014c6 -->
-
-  <div class="file-navigation">
-    
-<div class="select-menu branch-select-menu js-menu-container js-select-menu float-left">
-  <button class=" btn btn-sm select-menu-button js-menu-target css-truncate" data-hotkey="w"
-    
-    type="button" aria-label="Switch branches or tags" aria-expanded="false" aria-haspopup="true">
-      <i>Branch:</i>
-      <span class="js-select-button css-truncate-target">master</span>
-  </button>
-
-  <div class="select-menu-modal-holder js-menu-content js-navigation-container" data-pjax>
-
-    <div class="select-menu-modal">
-      <div class="select-menu-header">
-        <svg class="octicon octicon-x js-menu-close" role="img" aria-label="Close" viewBox="0 0 12 16" version="1.1" width="12" height="16"><path fill-rule="evenodd" d="M7.48 8l3.75 3.75-1.48 1.48L6 9.48l-3.75 3.75-1.48-1.48L4.52 8 .77 4.25l1.48-1.48L6 6.52l3.75-3.75 1.48 1.48L7.48 8z"/></svg>
-        <span class="select-menu-title">Switch branches/tags</span>
-      </div>
-
-      <div class="select-menu-filters">
-        <div class="select-menu-text-filter">
-          <input type="text" aria-label="Filter branches/tags" id="context-commitish-filter-field" class="form-control js-filterable-field js-navigation-enable" placeholder="Filter branches/tags">
-        </div>
-        <div class="select-menu-tabs">
-          <ul>
-            <li class="select-menu-tab">
-              <a href="#" data-tab-filter="branches" data-filter-placeholder="Filter branches/tags" class="js-select-menu-tab" role="tab">Branches</a>
-            </li>
-            <li class="select-menu-tab">
-              <a href="#" data-tab-filter="tags" data-filter-placeholder="Find a tag…" class="js-select-menu-tab" role="tab">Tags</a>
-            </li>
-          </ul>
-        </div>
-      </div>
-
-      <div class="select-menu-list select-menu-tab-bucket js-select-menu-tab-bucket" data-tab-filter="branches" role="menu">
-
-        <div data-filterable-for="context-commitish-filter-field" data-filterable-type="substring">
-
-
-            <a class="select-menu-item js-navigation-item js-navigation-open selected"
-               href="/nupur1492/RProjects/blob/master/MarketBasketAnalysis/groceries.csv"
-               data-name="master"
-               data-skip-pjax="true"
-               rel="nofollow">
-              <svg class="octicon octicon-check select-menu-item-icon" viewBox="0 0 12 16" version="1.1" width="12" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M12 5l-8 8-4-4 1.5-1.5L4 10l6.5-6.5L12 5z"/></svg>
-              <span class="select-menu-item-text css-truncate-target js-select-menu-filter-text">
-                master
-              </span>
-            </a>
-        </div>
-
-          <div class="select-menu-no-results">Nothing to show</div>
-      </div>
-
-      <div class="select-menu-list select-menu-tab-bucket js-select-menu-tab-bucket" data-tab-filter="tags">
-        <div data-filterable-for="context-commitish-filter-field" data-filterable-type="substring">
-
-
-        </div>
-
-        <div class="select-menu-no-results">Nothing to show</div>
-      </div>
-
-    </div>
-  </div>
-</div>
-
-    <div class="BtnGroup float-right">
-      <a href="/nupur1492/RProjects/find/master"
-            class="js-pjax-capture-input btn btn-sm BtnGroup-item"
-            data-pjax
-            data-hotkey="t">
-        Find file
-      </a>
-      <clipboard-copy for="blob-path" class="btn btn-sm BtnGroup-item">
-        Copy path
-      </clipboard-copy>
-    </div>
-    <div id="blob-path" class="breadcrumb">
-      <span class="repo-root js-repo-root"><span class="js-path-segment"><a data-pjax="true" href="/nupur1492/RProjects"><span>RProjects</span></a></span></span><span class="separator">/</span><span class="js-path-segment"><a data-pjax="true" href="/nupur1492/RProjects/tree/master/MarketBasketAnalysis"><span>MarketBasketAnalysis</span></a></span><span class="separator">/</span><strong class="final-path">groceries.csv</strong>
-    </div>
-  </div>
-
-
-  <include-fragment src="/nupur1492/RProjects/contributors/master/MarketBasketAnalysis/groceries.csv" class="commit-tease">
-    <div>
-      Fetching contributors&hellip;
-    </div>
-
-    <div class="commit-tease-contributors">
-      <img alt="" class="loader-loading float-left" src="https://assets-cdn.github.com/images/spinners/octocat-spinner-32-EAF2F5.gif" width="16" height="16" />
-      <span class="loader-error">Cannot retrieve contributors at this time</span>
-    </div>
-</include-fragment>
-
-
-  <div class="file">
-    <div class="file-header">
-  <div class="file-actions">
-
-    <div class="BtnGroup">
-      <a id="raw-url" class="btn btn-sm BtnGroup-item" href="/nupur1492/RProjects/raw/master/MarketBasketAnalysis/groceries.csv">Raw</a>
-        <a class="btn btn-sm js-update-url-with-hash BtnGroup-item" data-hotkey="b" href="/nupur1492/RProjects/blame/master/MarketBasketAnalysis/groceries.csv">Blame</a>
-      <a rel="nofollow" class="btn btn-sm BtnGroup-item" href="/nupur1492/RProjects/commits/master/MarketBasketAnalysis/groceries.csv">History</a>
-    </div>
-
-        <a class="btn-octicon tooltipped tooltipped-nw"
-           href="https://desktop.github.com"
-           aria-label="Open this file in GitHub Desktop"
-           data-ga-click="Repository, open with desktop, type:windows">
-            <svg class="octicon octicon-device-desktop" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M15 2H1c-.55 0-1 .45-1 1v9c0 .55.45 1 1 1h5.34c-.25.61-.86 1.39-2.34 2h8c-1.48-.61-2.09-1.39-2.34-2H15c.55 0 1-.45 1-1V3c0-.55-.45-1-1-1zm0 9H1V3h14v8z"/></svg>
-        </a>
-
-        <button type="button" class="btn-octicon disabled tooltipped tooltipped-nw"
-          aria-label="You must be signed in to make or propose changes">
-          <svg class="octicon octicon-pencil" viewBox="0 0 14 16" version="1.1" width="14" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M0 12v3h3l8-8-3-3-8 8zm3 2H1v-2h1v1h1v1zm10.3-9.3L12 6 9 3l1.3-1.3a.996.996 0 0 1 1.41 0l1.59 1.59c.39.39.39 1.02 0 1.41z"/></svg>
-        </button>
-        <button type="button" class="btn-octicon btn-octicon-danger disabled tooltipped tooltipped-nw"
-          aria-label="You must be signed in to make or propose changes">
-          <svg class="octicon octicon-trashcan" viewBox="0 0 12 16" version="1.1" width="12" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M11 2H9c0-.55-.45-1-1-1H5c-.55 0-1 .45-1 1H2c-.55 0-1 .45-1 1v1c0 .55.45 1 1 1v9c0 .55.45 1 1 1h7c.55 0 1-.45 1-1V5c.55 0 1-.45 1-1V3c0-.55-.45-1-1-1zm-1 12H3V5h1v8h1V5h1v8h1V5h1v8h1V5h1v9zm1-10H2V3h9v1z"/></svg>
-        </button>
-  </div>
-
-  <div class="file-info">
-      262 lines (261 sloc)
-      <span class="file-info-divider"></span>
-    10.4 KB
-  </div>
-</div>
-
-    
-
-  <div itemprop="text" class="blob-wrapper data type-csv">
-      <div class="blob-interaction-bar">
-  <svg class="octicon octicon-search" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M15.7 13.3l-3.81-3.83A5.93 5.93 0 0 0 13 6c0-3.31-2.69-6-6-6S1 2.69 1 6s2.69 6 6 6c1.3 0 2.48-.41 3.47-1.11l3.83 3.81c.19.2.45.3.7.3.25 0 .52-.09.7-.3a.996.996 0 0 0 0-1.41v.01zM7 10.7c-2.59 0-4.7-2.11-4.7-4.7 0-2.59 2.11-4.7 4.7-4.7 2.59 0 4.7 2.11 4.7 4.7 0 2.59-2.11 4.7-4.7 4.7z"/></svg>
-  <input type="text" name="filter" class="form-control js-csv-filter-field blob-filter" autocapitalize="off"
-         placeholder="Search this file…" aria-label="Search this file…">
-</div>
-
-<div class="markdown-body">
-  <table class="js-csv-data csv-data js-file-line-container">
-    <thead>
-      <tr id="LC1" class="js-file-line">
-        <td id="L1" class="blob-num js-line-number" data-line-number="1"></td>
-        <th>Member_number</th>
-        <th>Date</th>
-        <th>itemDescription</th>
-      </tr>
-    </thead>
-    <tbody>
-      <tr id="LC2" class="js-file-line">
-        <td id="L2" class="blob-num js-line-number" data-line-number="2"></td>
-        <td>1619052826499</td>
-        <td>10/22/2012</td>
-        <td>citrus fruit</td>
-      </tr>
-      <tr id="LC3" class="js-file-line">
-        <td id="L3" class="blob-num js-line-number" data-line-number="3"></td>
-        <td>1679031673299</td>
-        <td>10/03/2010</td>
-        <td>tropical fruit</td>
-      </tr>
-      <tr id="LC4" class="js-file-line">
-        <td id="L4" class="blob-num js-line-number" data-line-number="4"></td>
-        <td>1634042851699</td>
-        <td>07/07/2011</td>
-        <td>whole milk</td>
-      </tr>
-      <tr id="LC5" class="js-file-line">
-        <td id="L5" class="blob-num js-line-number" data-line-number="5"></td>
-        <td>1656022021999</td>
-        <td>03/13/2010</td>
-        <td>pip fruit</td>
-      </tr>
-      <tr id="LC6" class="js-file-line">
-        <td id="L6" class="blob-num js-line-number" data-line-number="6"></td>
-        <td>1612011328599</td>
-        <td>09/07/2013</td>
-        <td>other vegetables</td>
-      </tr>
-      <tr id="LC7" class="js-file-line">
-        <td id="L7" class="blob-num js-line-number" data-line-number="7"></td>
-        <td>1660042076699</td>
-        <td>06/06/2010</td>
-        <td>whole milk</td>
-      </tr>
-      <tr id="LC8" class="js-file-line">
-        <td id="L8" class="blob-num js-line-number" data-line-number="8"></td>
-        <td>1634062916299</td>
-        <td>02/15/2014</td>
-        <td>abrasive cleaner</td>
-      </tr>
-      <tr id="LC9" class="js-file-line">
-        <td id="L9" class="blob-num js-line-number" data-line-number="9"></td>
-        <td>1616070832799</td>
-        <td>12/30/2012</td>
-        <td>rolls/buns</td>
-      </tr>
-      <tr id="LC10" class="js-file-line">
-        <td id="L10" class="blob-num js-line-number" data-line-number="10"></td>
-        <td>1655052493299</td>
-        <td>10/24/2011</td>
-        <td>other vegetables</td>
-      </tr>
-      <tr id="LC11" class="js-file-line">
-        <td id="L11" class="blob-num js-line-number" data-line-number="11"></td>
-        <td>1615111911399</td>
-        <td>12/15/2011</td>
-        <td>liquor (appetizer)</td>
-      </tr>
-      <tr id="LC12" class="js-file-line">
-        <td id="L12" class="blob-num js-line-number" data-line-number="12"></td>
-        <td>1651110523499</td>
-        <td>11/15/2013</td>
-        <td>pot plants</td>
-      </tr>
-      <tr id="LC13" class="js-file-line">
-        <td id="L13" class="blob-num js-line-number" data-line-number="13"></td>
-        <td>1659030116999</td>
-        <td>12/17/2012</td>
-        <td>whole milk</td>
-      </tr>
-      <tr id="LC14" class="js-file-line">
-        <td id="L14" class="blob-num js-line-number" data-line-number="14"></td>
-        <td>1606041259699</td>
-        <td>08/19/2010</td>
-        <td>tropical fruit</td>
-      </tr>
-      <tr id="LC15" class="js-file-line">
-        <td id="L15" class="blob-num js-line-number" data-line-number="15"></td>
-        <td>1626091280899</td>
-        <td>07/20/2010</td>
-        <td>chocolate</td>
-      </tr>
-      <tr id="LC16" class="js-file-line">
-        <td id="L16" class="blob-num js-line-number" data-line-number="16"></td>
-        <td>1689081758199</td>
-        <td>04/10/2013</td>
-        <td>citrus fruit</td>
-      </tr>
-      <tr id="LC17" class="js-file-line">
-        <td id="L17" class="blob-num js-line-number" data-line-number="17"></td>
-        <td>1640041714599</td>
-        <td>03/05/2014</td>
-        <td>curd</td>
-      </tr>
-      <tr id="LC18" class="js-file-line">
-        <td id="L18" class="blob-num js-line-number" data-line-number="18"></td>
-        <td>1630051469899</td>
-        <td>10/22/2012</td>
-        <td>dishes</td>
-      </tr>
-      <tr id="LC19" class="js-file-line">
-        <td id="L19" class="blob-num js-line-number" data-line-number="19"></td>
-        <td>1681021693299</td>
-        <td>05/31/2013</td>
-        <td>beef</td>
-      </tr>
-      <tr id="LC20" class="js-file-line">
-        <td id="L20" class="blob-num js-line-number" data-line-number="20"></td>
-        <td>1627050218699</td>
-        <td>08/16/2014</td>
-        <td>frankfurter</td>
-      </tr>
-      <tr id="LC21" class="js-file-line">
-        <td id="L21" class="blob-num js-line-number" data-line-number="21"></td>
-        <td>1647060986799</td>
-        <td>06/19/2013</td>
-        <td>chicken</td>
-      </tr>
-      <tr id="LC22" class="js-file-line">
-        <td id="L22" class="blob-num js-line-number" data-line-number="22"></td>
-        <td>1612011328599</td>
-        <td>09/07/2013</td>
-        <td>butter</td>
-      </tr>
-      <tr id="LC23" class="js-file-line">
-        <td id="L23" class="blob-num js-line-number" data-line-number="23"></td>
-        <td>1611032908799</td>
-        <td>12/03/2012</td>
-        <td>fruit/vegetable juice</td>
-      </tr>
-      <tr id="LC24" class="js-file-line">
-        <td id="L24" class="blob-num js-line-number" data-line-number="24"></td>
-        <td>1657011295699</td>
-        <td>10/09/2013</td>
-        <td>packaged fruit/vegetables</td>
-      </tr>
-      <tr id="LC25" class="js-file-line">
-        <td id="L25" class="blob-num js-line-number" data-line-number="25"></td>
-        <td>1640041714599</td>
-        <td>03/05/2014</td>
-        <td>chocolate</td>
-      </tr>
-      <tr id="LC26" class="js-file-line">
-        <td id="L26" class="blob-num js-line-number" data-line-number="26"></td>
-        <td>1616070832799</td>
-        <td>12/30/2012</td>
-        <td>specialty bar</td>
-      </tr>
-      <tr id="LC27" class="js-file-line">
-        <td id="L27" class="blob-num js-line-number" data-line-number="27"></td>
-        <td>1616070832799</td>
-        <td>12/30/2012</td>
-        <td>other vegetables</td>
-      </tr>
-      <tr id="LC28" class="js-file-line">
-        <td id="L28" class="blob-num js-line-number" data-line-number="28"></td>
-        <td>1627050218699</td>
-        <td>08/16/2014</td>
-        <td>butter milk</td>
-      </tr>
-      <tr id="LC29" class="js-file-line">
-        <td id="L29" class="blob-num js-line-number" data-line-number="29"></td>
-        <td>1626042228999</td>
-        <td>01/17/2010</td>
-        <td>whole milk</td>
-      </tr>
-      <tr id="LC30" class="js-file-line">
-        <td id="L30" class="blob-num js-line-number" data-line-number="30"></td>
-        <td>1651110523499</td>
-        <td>11/15/2013</td>
-        <td>tropical fruit</td>
-      </tr>
-      <tr id="LC31" class="js-file-line">
-        <td id="L31" class="blob-num js-line-number" data-line-number="31"></td>
-        <td>1647060986799</td>
-        <td>06/19/2013</td>
-        <td>newspapers</td>
-      </tr>
-      <tr id="LC32" class="js-file-line">
-        <td id="L32" class="blob-num js-line-number" data-line-number="32"></td>
-        <td>1630051469899</td>
-        <td>10/22/2012</td>
-        <td>tropical fruit</td>
-      </tr>
-      <tr id="LC33" class="js-file-line">
-        <td id="L33" class="blob-num js-line-number" data-line-number="33"></td>
-        <td>1681021693299</td>
-        <td>05/31/2013</td>
-        <td>rolls/buns</td>
-      </tr>
-      <tr id="LC34" class="js-file-line">
-        <td id="L34" class="blob-num js-line-number" data-line-number="34"></td>
-        <td>1685101155599</td>
-        <td>08/04/2010</td>
-        <td>waffles</td>
-      </tr>
-      <tr id="LC35" class="js-file-line">
-        <td id="L35" class="blob-num js-line-number" data-line-number="35"></td>
-        <td>1630051469899</td>
-        <td>10/22/2012</td>
-        <td>bottled water</td>
-      </tr>
-      <tr id="LC36" class="js-file-line">
-        <td id="L36" class="blob-num js-line-number" data-line-number="36"></td>
-        <td>1656012667099</td>
-        <td>03/11/2010</td>
-        <td>yogurt</td>
-      </tr>
-      <tr id="LC37" class="js-file-line">
-        <td id="L37" class="blob-num js-line-number" data-line-number="37"></td>
-        <td>1651110523499</td>
-        <td>11/15/2013</td>
-        <td>sausage</td>
-      </tr>
-      <tr id="LC38" class="js-file-line">
-        <td id="L38" class="blob-num js-line-number" data-line-number="38"></td>
-        <td>1688081821499</td>
-        <td>10/20/2010</td>
-        <td>other vegetables</td>
-      </tr>
-      <tr id="LC39" class="js-file-line">
-        <td id="L39" class="blob-num js-line-number" data-line-number="39"></td>
-        <td>1617081511799</td>
-        <td>11/23/2014</td>
-        <td>brown bread</td>
-      </tr>
-      <tr id="LC40" class="js-file-line">
-        <td id="L40" class="blob-num js-line-number" data-line-number="40"></td>
-        <td>1692012598499</td>
-        <td>01/30/2011</td>
-        <td>newspapers</td>
-      </tr>
-      <tr id="LC41" class="js-file-line">
-        <td id="L41" class="blob-num js-line-number" data-line-number="41"></td>
-        <td>1655052493299</td>
-        <td>10/24/2011</td>
-        <td>yogurt</td>
-      </tr>
-      <tr id="LC42" class="js-file-line">
-        <td id="L42" class="blob-num js-line-number" data-line-number="42"></td>
-        <td>1670051155999</td>
-        <td>10/25/2012</td>
-        <td>hamburger meat</td>
-      </tr>
-      <tr id="LC43" class="js-file-line">
-        <td id="L43" class="blob-num js-line-number" data-line-number="43"></td>
-        <td>1677121935999</td>
-        <td>10/28/2010</td>
-        <td>bottled water</td>
-      </tr>
-      <tr id="LC44" class="js-file-line">
-        <td id="L44" class="blob-num js-line-number" data-line-number="44"></td>
-        <td>1668070593399</td>
-        <td>02/05/2013</td>
-        <td>root vegetables</td>
-      </tr>
-      <tr id="LC45" class="js-file-line">
-        <td id="L45" class="blob-num js-line-number" data-line-number="45"></td>
-        <td>1604042540799</td>
-        <td>08/09/2012</td>
-        <td>sugar</td>
-      </tr>
-      <tr id="LC46" class="js-file-line">
-        <td id="L46" class="blob-num js-line-number" data-line-number="46"></td>
-        <td>1624090693999</td>
-        <td>02/07/2014</td>
-        <td>pork</td>
-      </tr>
-      <tr id="LC47" class="js-file-line">
-        <td id="L47" class="blob-num js-line-number" data-line-number="47"></td>
-        <td>1640092051699</td>
-        <td>01/28/2011</td>
-        <td>whipped/sour cream</td>
-      </tr>
-      <tr id="LC48" class="js-file-line">
-        <td id="L48" class="blob-num js-line-number" data-line-number="48"></td>
-        <td>1615041962899</td>
-        <td>08/01/2011</td>
-        <td>beef</td>
-      </tr>
-      <tr id="LC49" class="js-file-line">
-        <td id="L49" class="blob-num js-line-number" data-line-number="49"></td>
-        <td>1609040411099</td>
-        <td>08/01/2014</td>
-        <td>pastry</td>
-      </tr>
-      <tr id="LC50" class="js-file-line">
-        <td id="L50" class="blob-num js-line-number" data-line-number="50"></td>
-        <td>1604032908399</td>
-        <td>10/12/2013</td>
-        <td>fruit/vegetable juice</td>
-      </tr>
-      <tr id="LC51" class="js-file-line">
-        <td id="L51" class="blob-num js-line-number" data-line-number="51"></td>
-        <td>1655052493299</td>
-        <td>10/24/2011</td>
-        <td>canned beer</td>
-      </tr>
-      <tr id="LC52" class="js-file-line">
-        <td id="L52" class="blob-num js-line-number" data-line-number="52"></td>
-        <td>1618072441999</td>
-        <td>05/29/2012</td>
-        <td>root vegetables</td>
-      </tr>
-      <tr id="LC53" class="js-file-line">
-        <td id="L53" class="blob-num js-line-number" data-line-number="53"></td>
-        <td>1681031185999</td>
-        <td>03/25/2013</td>
-        <td>citrus fruit</td>
-      </tr>
-      <tr id="LC54" class="js-file-line">
-        <td id="L54" class="blob-num js-line-number" data-line-number="54"></td>
-        <td>1649121242599</td>
-        <td>07/16/2010</td>
-        <td>sausage</td>
-      </tr>
-      <tr id="LC55" class="js-file-line">
-        <td id="L55" class="blob-num js-line-number" data-line-number="55"></td>
-        <td>1612022797599</td>
-        <td>06/03/2011</td>
-        <td>specialty bar</td>
-      </tr>
-      <tr id="LC56" class="js-file-line">
-        <td id="L56" class="blob-num js-line-number" data-line-number="56"></td>
-        <td>1689081758199</td>
-        <td>04/10/2013</td>
-        <td>tropical fruit</td>
-      </tr>
-      <tr id="LC57" class="js-file-line">
-        <td id="L57" class="blob-num js-line-number" data-line-number="57"></td>
-        <td>1603030743699</td>
-        <td>05/23/2014</td>
-        <td>domestic eggs</td>
-      </tr>
-      <tr id="LC58" class="js-file-line">
-        <td id="L58" class="blob-num js-line-number" data-line-number="58"></td>
-        <td>1657062009099</td>
-        <td>01/09/2012</td>
-        <td>cereals</td>
-      </tr>
-      <tr id="LC59" class="js-file-line">
-        <td id="L59" class="blob-num js-line-number" data-line-number="59"></td>
-        <td>1616070832799</td>
-        <td>12/30/2012</td>
-        <td>candy</td>
-      </tr>
-      <tr id="LC60" class="js-file-line">
-        <td id="L60" class="blob-num js-line-number" data-line-number="60"></td>
-        <td>1634031902399</td>
-        <td>05/26/2013</td>
-        <td>berries</td>
-      </tr>
-      <tr id="LC61" class="js-file-line">
-        <td id="L61" class="blob-num js-line-number" data-line-number="61"></td>
-        <td>1636082045699</td>
-        <td>11/30/2010</td>
-        <td>canned beer</td>
-      </tr>
-      <tr id="LC62" class="js-file-line">
-        <td id="L62" class="blob-num js-line-number" data-line-number="62"></td>
-        <td>1606071956499</td>
-        <td>11/11/2013</td>
-        <td>butter milk</td>
-      </tr>
-      <tr id="LC63" class="js-file-line">
-        <td id="L63" class="blob-num js-line-number" data-line-number="63"></td>
-        <td>1614020538699</td>
-        <td>12/02/2014</td>
-        <td>rolls/buns</td>
-      </tr>
-      <tr id="LC64" class="js-file-line">
-        <td id="L64" class="blob-num js-line-number" data-line-number="64"></td>
-        <td>1679041239599</td>
-        <td>05/23/2013</td>
-        <td>coffee</td>
-      </tr>
-      <tr id="LC65" class="js-file-line">
-        <td id="L65" class="blob-num js-line-number" data-line-number="65"></td>
-        <td>1675062410699</td>
-        <td>05/13/2010</td>
-        <td>pastry</td>
-      </tr>
-      <tr id="LC66" class="js-file-line">
-        <td id="L66" class="blob-num js-line-number" data-line-number="66"></td>
-        <td>1610032098599</td>
-        <td>10/13/2014</td>
-        <td>rolls/buns</td>
-      </tr>
-      <tr id="LC67" class="js-file-line">
-        <td id="L67" class="blob-num js-line-number" data-line-number="67"></td>
-        <td>1651110523499</td>
-        <td>11/15/2013</td>
-        <td>misc. beverages</td>
-      </tr>
-      <tr id="LC68" class="js-file-line">
-        <td id="L68" class="blob-num js-line-number" data-line-number="68"></td>
-        <td>1647072709099</td>
-        <td>05/12/2014</td>
-        <td>root vegetables</td>
-      </tr>
-      <tr id="LC69" class="js-file-line">
-        <td id="L69" class="blob-num js-line-number" data-line-number="69"></td>
-        <td>1696092655099</td>
-        <td>11/23/2013</td>
-        <td>whipped/sour cream</td>
-      </tr>
-      <tr id="LC70" class="js-file-line">
-        <td id="L70" class="blob-num js-line-number" data-line-number="70"></td>
-        <td>1630051469899</td>
-        <td>10/22/2012</td>
-        <td>bottled water</td>
-      </tr>
-      <tr id="LC71" class="js-file-line">
-        <td id="L71" class="blob-num js-line-number" data-line-number="71"></td>
-        <td>1657012141499</td>
-        <td>01/13/2012</td>
-        <td>sausage</td>
-      </tr>
-      <tr id="LC72" class="js-file-line">
-        <td id="L72" class="blob-num js-line-number" data-line-number="72"></td>
-        <td>1625061748499</td>
-        <td>01/03/2010</td>
-        <td>canned beer</td>
-      </tr>
-      <tr id="LC73" class="js-file-line">
-        <td id="L73" class="blob-num js-line-number" data-line-number="73"></td>
-        <td>1659101610099</td>
-        <td>05/12/2014</td>
-        <td>ham</td>
-      </tr>
-      <tr id="LC74" class="js-file-line">
-        <td id="L74" class="blob-num js-line-number" data-line-number="74"></td>
-        <td>1673111774199</td>
-        <td>03/17/2012</td>
-        <td>turkey</td>
-      </tr>
-      <tr id="LC75" class="js-file-line">
-        <td id="L75" class="blob-num js-line-number" data-line-number="75"></td>
-        <td>1612011328599</td>
-        <td>09/07/2013</td>
-        <td>domestic eggs</td>
-      </tr>
-      <tr id="LC76" class="js-file-line">
-        <td id="L76" class="blob-num js-line-number" data-line-number="76"></td>
-        <td>1697062110699</td>
-        <td>06/30/2014</td>
-        <td>baking powder</td>
-      </tr>
-      <tr id="LC77" class="js-file-line">
-        <td id="L77" class="blob-num js-line-number" data-line-number="77"></td>
-        <td>1693061749899</td>
-        <td>01/18/2013</td>
-        <td>whole milk</td>
-      </tr>
-      <tr id="LC78" class="js-file-line">
-        <td id="L78" class="blob-num js-line-number" data-line-number="78"></td>
-        <td>1676082629299</td>
-        <td>01/22/2012</td>
-        <td>soda</td>
-      </tr>
-      <tr id="LC79" class="js-file-line">
-        <td id="L79" class="blob-num js-line-number" data-line-number="79"></td>
-        <td>1651071607299</td>
-        <td>09/17/2010</td>
-        <td>whole milk</td>
-      </tr>
-      <tr id="LC80" class="js-file-line">
-        <td id="L80" class="blob-num js-line-number" data-line-number="80"></td>
-        <td>1635071847999</td>
-        <td>01/23/2012</td>
-        <td>packaged fruit/vegetables</td>
-      </tr>
-      <tr id="LC81" class="js-file-line">
-        <td id="L81" class="blob-num js-line-number" data-line-number="81"></td>
-        <td>1657011295699</td>
-        <td>10/09/2013</td>
-        <td>rolls/buns</td>
-      </tr>
-      <tr id="LC82" class="js-file-line">
-        <td id="L82" class="blob-num js-line-number" data-line-number="82"></td>
-        <td>1626042228999</td>
-        <td>01/17/2010</td>
-        <td>chocolate marshmallow</td>
-      </tr>
-      <tr id="LC83" class="js-file-line">
-        <td id="L83" class="blob-num js-line-number" data-line-number="83"></td>
-        <td>1655052493299</td>
-        <td>10/24/2011</td>
-        <td>ham</td>
-      </tr>
-      <tr id="LC84" class="js-file-line">
-        <td id="L84" class="blob-num js-line-number" data-line-number="84"></td>
-        <td>1672031502199</td>
-        <td>02/27/2012</td>
-        <td>rolls/buns</td>
-      </tr>
-      <tr id="LC85" class="js-file-line">
-        <td id="L85" class="blob-num js-line-number" data-line-number="85"></td>
-        <td>1630022141399</td>
-        <td>03/15/2013</td>
-        <td>rolls/buns</td>
-      </tr>
-      <tr id="LC86" class="js-file-line">
-        <td id="L86" class="blob-num js-line-number" data-line-number="86"></td>
-        <td>1686030782099</td>
-        <td>10/17/2010</td>
-        <td>other vegetables</td>
-      </tr>
-      <tr id="LC87" class="js-file-line">
-        <td id="L87" class="blob-num js-line-number" data-line-number="87"></td>
-        <td>1643113036899</td>
-        <td>12/02/2013</td>
-        <td>salty snack</td>
-      </tr>
-      <tr id="LC88" class="js-file-line">
-        <td id="L88" class="blob-num js-line-number" data-line-number="88"></td>
-        <td>1619071419299</td>
-        <td>06/02/2012</td>
-        <td>sausage</td>
-      </tr>
-      <tr id="LC89" class="js-file-line">
-        <td id="L89" class="blob-num js-line-number" data-line-number="89"></td>
-        <td>1635012886799</td>
-        <td>04/05/2013</td>
-        <td>sausage</td>
-      </tr>
-      <tr id="LC90" class="js-file-line">
-        <td id="L90" class="blob-num js-line-number" data-line-number="90"></td>
-        <td>1621112470199</td>
-        <td>11/24/2013</td>
-        <td>frankfurter</td>
-      </tr>
-      <tr id="LC91" class="js-file-line">
-        <td id="L91" class="blob-num js-line-number" data-line-number="91"></td>
-        <td>1685101155599</td>
-        <td>08/04/2010</td>
-        <td>sugar</td>
-      </tr>
-      <tr id="LC92" class="js-file-line">
-        <td id="L92" class="blob-num js-line-number" data-line-number="92"></td>
-        <td>1615041357399</td>
-        <td>03/17/2013</td>
-        <td>rolls/buns</td>
-      </tr>
-      <tr id="LC93" class="js-file-line">
-        <td id="L93" class="blob-num js-line-number" data-line-number="93"></td>
-        <td>1616070832799</td>
-        <td>12/30/2012</td>
-        <td>whole milk</td>
-      </tr>
-      <tr id="LC94" class="js-file-line">
-        <td id="L94" class="blob-num js-line-number" data-line-number="94"></td>
-        <td>1608031308299</td>
-        <td>06/06/2014</td>
-        <td>curd cheese</td>
-      </tr>
-      <tr id="LC95" class="js-file-line">
-        <td id="L95" class="blob-num js-line-number" data-line-number="95"></td>
-        <td>1674090103699</td>
-        <td>04/06/2013</td>
-        <td>red/blush wine</td>
-      </tr>
-      <tr id="LC96" class="js-file-line">
-        <td id="L96" class="blob-num js-line-number" data-line-number="96"></td>
-        <td>1639103003199</td>
-        <td>02/13/2013</td>
-        <td>sausage</td>
-      </tr>
-      <tr id="LC97" class="js-file-line">
-        <td id="L97" class="blob-num js-line-number" data-line-number="97"></td>
-        <td>1684072212999</td>
-        <td>11/02/2011</td>
-        <td>tropical fruit</td>
-      </tr>
-      <tr id="LC98" class="js-file-line">
-        <td id="L98" class="blob-num js-line-number" data-line-number="98"></td>
-        <td>1652021926899</td>
-        <td>04/02/2014</td>
-        <td>frozen potato products</td>
-      </tr>
-      <tr id="LC99" class="js-file-line">
-        <td id="L99" class="blob-num js-line-number" data-line-number="99"></td>
-        <td>1633092737799</td>
-        <td>09/08/2011</td>
-        <td>red/blush wine</td>
-      </tr>
-      <tr id="LC100" class="js-file-line">
-        <td id="L100" class="blob-num js-line-number" data-line-number="100"></td>
-        <td>1697072644899</td>
-        <td>07/14/2010</td>
-        <td>whole milk</td>
-      </tr>
-      <tr id="LC101" class="js-file-line">
-        <td id="L101" class="blob-num js-line-number" data-line-number="101"></td>
-        <td>1638100320499</td>
-        <td>02/17/2011</td>
-        <td>specialty chocolate</td>
-      </tr>
-      <tr id="LC102" class="js-file-line">
-        <td id="L102" class="blob-num js-line-number" data-line-number="102"></td>
-        <td>1698011240799</td>
-        <td>07/30/2011</td>
-        <td>frankfurter</td>
-      </tr>
-      <tr id="LC103" class="js-file-line">
-        <td id="L103" class="blob-num js-line-number" data-line-number="103"></td>
-        <td>1662120555499</td>
-        <td>11/14/2011</td>
-        <td>oil</td>
-      </tr>
-      <tr id="LC104" class="js-file-line">
-        <td id="L104" class="blob-num js-line-number" data-line-number="104"></td>
-        <td>1628051391899</td>
-        <td>12/16/2012</td>
-        <td>whole milk</td>
-      </tr>
-      <tr id="LC105" class="js-file-line">
-        <td id="L105" class="blob-num js-line-number" data-line-number="105"></td>
-        <td>1615111911399</td>
-        <td>12/15/2011</td>
-        <td>frozen potato products</td>
-      </tr>
-      <tr id="LC106" class="js-file-line">
-        <td id="L106" class="blob-num js-line-number" data-line-number="106"></td>
-        <td>1617081511799</td>
-        <td>11/23/2014</td>
-        <td>other vegetables</td>
-      </tr>
-      <tr id="LC107" class="js-file-line">
-        <td id="L107" class="blob-num js-line-number" data-line-number="107"></td>
-        <td>1632021738199</td>
-        <td>10/29/2013</td>
-        <td>citrus fruit</td>
-      </tr>
-      <tr id="LC108" class="js-file-line">
-        <td id="L108" class="blob-num js-line-number" data-line-number="108"></td>
-        <td>1609110573499</td>
-        <td>05/03/2011</td>
-        <td>pastry</td>
-      </tr>
-      <tr id="LC109" class="js-file-line">
-        <td id="L109" class="blob-num js-line-number" data-line-number="109"></td>
-        <td>1656012667099</td>
-        <td>03/11/2010</td>
-        <td>flour</td>
-      </tr>
-      <tr id="LC110" class="js-file-line">
-        <td id="L110" class="blob-num js-line-number" data-line-number="110"></td>
-        <td>1603111913899</td>
-        <td>01/05/2011</td>
-        <td>bottled beer</td>
-      </tr>
-      <tr id="LC111" class="js-file-line">
-        <td id="L111" class="blob-num js-line-number" data-line-number="111"></td>
-        <td>1691112207099</td>
-        <td>11/24/2010</td>
-        <td>sugar</td>
-      </tr>
-      <tr id="LC112" class="js-file-line">
-        <td id="L112" class="blob-num js-line-number" data-line-number="112"></td>
-        <td>1617081511799</td>
-        <td>11/23/2014</td>
-        <td>frozen meals</td>
-      </tr>
-      <tr id="LC113" class="js-file-line">
-        <td id="L113" class="blob-num js-line-number" data-line-number="113"></td>
-        <td>1640042088699</td>
-        <td>03/27/2010</td>
-        <td>chocolate</td>
-      </tr>
-      <tr id="LC114" class="js-file-line">
-        <td id="L114" class="blob-num js-line-number" data-line-number="114"></td>
-        <td>1669020569799</td>
-        <td>07/14/2014</td>
-        <td>root vegetables</td>
-      </tr>
-      <tr id="LC115" class="js-file-line">
-        <td id="L115" class="blob-num js-line-number" data-line-number="115"></td>
-        <td>1685101155599</td>
-        <td>08/04/2010</td>
-        <td>rolls/buns</td>
-      </tr>
-      <tr id="LC116" class="js-file-line">
-        <td id="L116" class="blob-num js-line-number" data-line-number="116"></td>
-        <td>1685010966299</td>
-        <td>08/23/2014</td>
-        <td>fruit/vegetable juice</td>
-      </tr>
-      <tr id="LC117" class="js-file-line">
-        <td id="L117" class="blob-num js-line-number" data-line-number="117"></td>
-        <td>1603020181799</td>
-        <td>03/21/2010</td>
-        <td>root vegetables</td>
-      </tr>
-      <tr id="LC118" class="js-file-line">
-        <td id="L118" class="blob-num js-line-number" data-line-number="118"></td>
-        <td>1680012240599</td>
-        <td>08/11/2013</td>
-        <td>herbs</td>
-      </tr>
-      <tr id="LC119" class="js-file-line">
-        <td id="L119" class="blob-num js-line-number" data-line-number="119"></td>
-        <td>1617081511799</td>
-        <td>11/23/2014</td>
-        <td>oil</td>
-      </tr>
-      <tr id="LC120" class="js-file-line">
-        <td id="L120" class="blob-num js-line-number" data-line-number="120"></td>
-        <td>1622120102299</td>
-        <td>07/20/2011</td>
-        <td>bottled water</td>
-      </tr>
-      <tr id="LC121" class="js-file-line">
-        <td id="L121" class="blob-num js-line-number" data-line-number="121"></td>
-        <td>1638121380799</td>
-        <td>04/07/2010</td>
-        <td>sausage</td>
-      </tr>
-      <tr id="LC122" class="js-file-line">
-        <td id="L122" class="blob-num js-line-number" data-line-number="122"></td>
-        <td>1678121622799</td>
-        <td>10/02/2013</td>
-        <td>rolls/buns</td>
-      </tr>
-      <tr id="LC123" class="js-file-line">
-        <td id="L123" class="blob-num js-line-number" data-line-number="123"></td>
-        <td>1688081821499</td>
-        <td>10/20/2010</td>
-        <td>coffee</td>
-      </tr>
-      <tr id="LC124" class="js-file-line">
-        <td id="L124" class="blob-num js-line-number" data-line-number="124"></td>
-        <td>1646033035599</td>
-        <td>06/30/2013</td>
-        <td>pork</td>
-      </tr>
-      <tr id="LC125" class="js-file-line">
-        <td id="L125" class="blob-num js-line-number" data-line-number="125"></td>
-        <td>1626042228999</td>
-        <td>01/17/2010</td>
-        <td>berries</td>
-      </tr>
-      <tr id="LC126" class="js-file-line">
-        <td id="L126" class="blob-num js-line-number" data-line-number="126"></td>
-        <td>1657011295699</td>
-        <td>10/09/2013</td>
-        <td>soda</td>
-      </tr>
-      <tr id="LC127" class="js-file-line">
-        <td id="L127" class="blob-num js-line-number" data-line-number="127"></td>
-        <td>1656012667099</td>
-        <td>03/11/2010</td>
-        <td>berries</td>
-      </tr>
-      <tr id="LC128" class="js-file-line">
-        <td id="L128" class="blob-num js-line-number" data-line-number="128"></td>
-        <td>1647032338699</td>
-        <td>09/24/2013</td>
-        <td>fruit/vegetable juice</td>
-      </tr>
-      <tr id="LC129" class="js-file-line">
-        <td id="L129" class="blob-num js-line-number" data-line-number="129"></td>
-        <td>1691032930299</td>
-        <td>12/19/2012</td>
-        <td>citrus fruit</td>
-      </tr>
-      <tr id="LC130" class="js-file-line">
-        <td id="L130" class="blob-num js-line-number" data-line-number="130"></td>
-        <td>1616070832799</td>
-        <td>12/30/2012</td>
-        <td>pork</td>
-      </tr>
-      <tr id="LC131" class="js-file-line">
-        <td id="L131" class="blob-num js-line-number" data-line-number="131"></td>
-        <td>1635040781499</td>
-        <td>09/10/2012</td>
-        <td>onions</td>
-      </tr>
-      <tr id="LC132" class="js-file-line">
-        <td id="L132" class="blob-num js-line-number" data-line-number="132"></td>
-        <td>1626042228999</td>
-        <td>01/17/2010</td>
-        <td>chocolate</td>
-      </tr>
-      <tr id="LC133" class="js-file-line">
-        <td id="L133" class="blob-num js-line-number" data-line-number="133"></td>
-        <td>1656012667099</td>
-        <td>03/11/2010</td>
-        <td>detergent</td>
-      </tr>
-      <tr id="LC134" class="js-file-line">
-        <td id="L134" class="blob-num js-line-number" data-line-number="134"></td>
-        <td>1648092897099</td>
-        <td>12/08/2012</td>
-        <td>grapes</td>
-      </tr>
-      <tr id="LC135" class="js-file-line">
-        <td id="L135" class="blob-num js-line-number" data-line-number="135"></td>
-        <td>1657020790999</td>
-        <td>01/11/2014</td>
-        <td>sausage</td>
-      </tr>
-      <tr id="LC136" class="js-file-line">
-        <td id="L136" class="blob-num js-line-number" data-line-number="136"></td>
-        <td>1642031742199</td>
-        <td>02/05/2013</td>
-        <td>fruit/vegetable juice</td>
-      </tr>
-      <tr id="LC137" class="js-file-line">
-        <td id="L137" class="blob-num js-line-number" data-line-number="137"></td>
-        <td>1659030116999</td>
-        <td>12/17/2012</td>
-        <td>shopping bags</td>
-      </tr>
-      <tr id="LC138" class="js-file-line">
-        <td id="L138" class="blob-num js-line-number" data-line-number="138"></td>
-        <td>1631011198999</td>
-        <td>03/29/2014</td>
-        <td>chicken</td>
-      </tr>
-      <tr id="LC139" class="js-file-line">
-        <td id="L139" class="blob-num js-line-number" data-line-number="139"></td>
-        <td>1637073003299</td>
-        <td>12/26/2014</td>
-        <td>root vegetables</td>
-      </tr>
-      <tr id="LC140" class="js-file-line">
-        <td id="L140" class="blob-num js-line-number" data-line-number="140"></td>
-        <td>1688122020199</td>
-        <td>12/20/2014</td>
-        <td>oil</td>
-      </tr>
-      <tr id="LC141" class="js-file-line">
-        <td id="L141" class="blob-num js-line-number" data-line-number="141"></td>
-        <td>1618090368299</td>
-        <td>10/05/2011</td>
-        <td>whole milk</td>
-      </tr>
-      <tr id="LC142" class="js-file-line">
-        <td id="L142" class="blob-num js-line-number" data-line-number="142"></td>
-        <td>1654040436999</td>
-        <td>03/29/2011</td>
-        <td>citrus fruit</td>
-      </tr>
-      <tr id="LC143" class="js-file-line">
-        <td id="L143" class="blob-num js-line-number" data-line-number="143"></td>
-        <td>1692012598499</td>
-        <td>01/30/2011</td>
-        <td>soda</td>
-      </tr>
-      <tr id="LC144" class="js-file-line">
-        <td id="L144" class="blob-num js-line-number" data-line-number="144"></td>
-        <td>1606041259699</td>
-        <td>08/19/2010</td>
-        <td>sausage</td>
-      </tr>
-      <tr id="LC145" class="js-file-line">
-        <td id="L145" class="blob-num js-line-number" data-line-number="145"></td>
-        <td>1649051357599</td>
-        <td>06/06/2013</td>
-        <td>rolls/buns</td>
-      </tr>
-      <tr id="LC146" class="js-file-line">
-        <td id="L146" class="blob-num js-line-number" data-line-number="146"></td>
-        <td>1615111911399</td>
-        <td>12/15/2011</td>
-        <td>bathroom cleaner</td>
-      </tr>
-      <tr id="LC147" class="js-file-line">
-        <td id="L147" class="blob-num js-line-number" data-line-number="147"></td>
-        <td>1626091280899</td>
-        <td>07/20/2010</td>
-        <td>frankfurter</td>
-      </tr>
-      <tr id="LC148" class="js-file-line">
-        <td id="L148" class="blob-num js-line-number" data-line-number="148"></td>
-        <td>1689070976399</td>
-        <td>06/22/2013</td>
-        <td>sausage</td>
-      </tr>
-      <tr id="LC149" class="js-file-line">
-        <td id="L149" class="blob-num js-line-number" data-line-number="149"></td>
-        <td>1689100179499</td>
-        <td>09/02/2010</td>
-        <td>fruit/vegetable juice</td>
-      </tr>
-      <tr id="LC150" class="js-file-line">
-        <td id="L150" class="blob-num js-line-number" data-line-number="150"></td>
-        <td>1642042014799</td>
-        <td>07/19/2013</td>
-        <td>photo/film</td>
-      </tr>
-      <tr id="LC151" class="js-file-line">
-        <td id="L151" class="blob-num js-line-number" data-line-number="151"></td>
-        <td>1625030342799</td>
-        <td>12/25/2012</td>
-        <td>soda</td>
-      </tr>
-      <tr id="LC152" class="js-file-line">
-        <td id="L152" class="blob-num js-line-number" data-line-number="152"></td>
-        <td>1670112104699</td>
-        <td>01/25/2011</td>
-        <td>rolls/buns</td>
-      </tr>
-      <tr id="LC153" class="js-file-line">
-        <td id="L153" class="blob-num js-line-number" data-line-number="153"></td>
-        <td>1689081758199</td>
-        <td>04/10/2013</td>
-        <td>beef</td>
-      </tr>
-      <tr id="LC154" class="js-file-line">
-        <td id="L154" class="blob-num js-line-number" data-line-number="154"></td>
-        <td>1616070832799</td>
-        <td>12/30/2012</td>
-        <td>brown bread</td>
-      </tr>
-      <tr id="LC155" class="js-file-line">
-        <td id="L155" class="blob-num js-line-number" data-line-number="155"></td>
-        <td>1684010946799</td>
-        <td>09/12/2014</td>
-        <td>whole milk</td>
-      </tr>
-      <tr id="LC156" class="js-file-line">
-        <td id="L156" class="blob-num js-line-number" data-line-number="156"></td>
-        <td>1604120185999</td>
-        <td>08/27/2014</td>
-        <td>waffles</td>
-      </tr>
-      <tr id="LC157" class="js-file-line">
-        <td id="L157" class="blob-num js-line-number" data-line-number="157"></td>
-        <td>1626091280899</td>
-        <td>07/20/2010</td>
-        <td>processed cheese</td>
-      </tr>
-      <tr id="LC158" class="js-file-line">
-        <td id="L158" class="blob-num js-line-number" data-line-number="158"></td>
-        <td>1628062981599</td>
-        <td>12/13/2013</td>
-        <td>tropical fruit</td>
-      </tr>
-      <tr id="LC159" class="js-file-line">
-        <td id="L159" class="blob-num js-line-number" data-line-number="159"></td>
-        <td>1637121923199</td>
-        <td>08/14/2013</td>
-        <td>frankfurter</td>
-      </tr>
-      <tr id="LC160" class="js-file-line">
-        <td id="L160" class="blob-num js-line-number" data-line-number="160"></td>
-        <td>1646082373499</td>
-        <td>07/03/2013</td>
-        <td>rolls/buns</td>
-      </tr>
-      <tr id="LC161" class="js-file-line">
-        <td id="L161" class="blob-num js-line-number" data-line-number="161"></td>
-        <td>1601010217699</td>
-        <td>04/18/2012</td>
-        <td>chewing gum</td>
-      </tr>
-      <tr id="LC162" class="js-file-line">
-        <td id="L162" class="blob-num js-line-number" data-line-number="162"></td>
-        <td>1627111535199</td>
-        <td>07/30/2011</td>
-        <td>packaged fruit/vegetables</td>
-      </tr>
-      <tr id="LC163" class="js-file-line">
-        <td id="L163" class="blob-num js-line-number" data-line-number="163"></td>
-        <td>1657011295699</td>
-        <td>10/09/2013</td>
-        <td>whole milk</td>
-      </tr>
-      <tr id="LC164" class="js-file-line">
-        <td id="L164" class="blob-num js-line-number" data-line-number="164"></td>
-        <td>1644052897499</td>
-        <td>06/19/2014</td>
-        <td>margarine</td>
-      </tr>
-      <tr id="LC165" class="js-file-line">
-        <td id="L165" class="blob-num js-line-number" data-line-number="165"></td>
-        <td>1667090361599</td>
-        <td>07/25/2012</td>
-        <td>berries</td>
-      </tr>
-      <tr id="LC166" class="js-file-line">
-        <td id="L166" class="blob-num js-line-number" data-line-number="166"></td>
-        <td>1611032908799</td>
-        <td>12/03/2012</td>
-        <td>citrus fruit</td>
-      </tr>
-      <tr id="LC167" class="js-file-line">
-        <td id="L167" class="blob-num js-line-number" data-line-number="167"></td>
-        <td>1612110835699</td>
-        <td>09/11/2011</td>
-        <td>tropical fruit</td>
-      </tr>
-      <tr id="LC168" class="js-file-line">
-        <td id="L168" class="blob-num js-line-number" data-line-number="168"></td>
-        <td>1619051748699</td>
-        <td>08/14/2011</td>
-        <td>hamburger meat</td>
-      </tr>
-      <tr id="LC169" class="js-file-line">
-        <td id="L169" class="blob-num js-line-number" data-line-number="169"></td>
-        <td>1636040484299</td>
-        <td>07/08/2011</td>
-        <td>bottled beer</td>
-      </tr>
-      <tr id="LC170" class="js-file-line">
-        <td id="L170" class="blob-num js-line-number" data-line-number="170"></td>
-        <td>1661012141999</td>
-        <td>08/17/2013</td>
-        <td>hamburger meat</td>
-      </tr>
-      <tr id="LC171" class="js-file-line">
-        <td id="L171" class="blob-num js-line-number" data-line-number="171"></td>
-        <td>1666121511799</td>
-        <td>03/02/2010</td>
-        <td>domestic eggs</td>
-      </tr>
-      <tr id="LC172" class="js-file-line">
-        <td id="L172" class="blob-num js-line-number" data-line-number="172"></td>
-        <td>1678032566299</td>
-        <td>09/09/2014</td>
-        <td>whole milk</td>
-      </tr>
-      <tr id="LC173" class="js-file-line">
-        <td id="L173" class="blob-num js-line-number" data-line-number="173"></td>
-        <td>1660050204499</td>
-        <td>06/10/2014</td>
-        <td>fish</td>
-      </tr>
-      <tr id="LC174" class="js-file-line">
-        <td id="L174" class="blob-num js-line-number" data-line-number="174"></td>
-        <td>1605021799199</td>
-        <td>08/20/2013</td>
-        <td>coffee</td>
-      </tr>
-      <tr id="LC175" class="js-file-line">
-        <td id="L175" class="blob-num js-line-number" data-line-number="175"></td>
-        <td>1675082691099</td>
-        <td>06/08/2014</td>
-        <td>frankfurter</td>
-      </tr>
-      <tr id="LC176" class="js-file-line">
-        <td id="L176" class="blob-num js-line-number" data-line-number="176"></td>
-        <td>1692012598499</td>
-        <td>01/30/2011</td>
-        <td>packaged fruit/vegetables</td>
-      </tr>
-      <tr id="LC177" class="js-file-line">
-        <td id="L177" class="blob-num js-line-number" data-line-number="177"></td>
-        <td>1657032771499</td>
-        <td>02/13/2014</td>
-        <td>pastry</td>
-      </tr>
-      <tr id="LC178" class="js-file-line">
-        <td id="L178" class="blob-num js-line-number" data-line-number="178"></td>
-        <td>1623042907799</td>
-        <td>05/15/2012</td>
-        <td>other vegetables</td>
-      </tr>
-      <tr id="LC179" class="js-file-line">
-        <td id="L179" class="blob-num js-line-number" data-line-number="179"></td>
-        <td>1629112281999</td>
-        <td>02/14/2014</td>
-        <td>misc. beverages</td>
-      </tr>
-      <tr id="LC180" class="js-file-line">
-        <td id="L180" class="blob-num js-line-number" data-line-number="180"></td>
-        <td>1629021743899</td>
-        <td>09/27/2013</td>
-        <td>frankfurter</td>
-      </tr>
-      <tr id="LC181" class="js-file-line">
-        <td id="L181" class="blob-num js-line-number" data-line-number="181"></td>
-        <td>1690061790499</td>
-        <td>11/06/2010</td>
-        <td>pip fruit</td>
-      </tr>
-      <tr id="LC182" class="js-file-line">
-        <td id="L182" class="blob-num js-line-number" data-line-number="182"></td>
-        <td>1643050224899</td>
-        <td>12/31/2010</td>
-        <td>domestic eggs</td>
-      </tr>
-      <tr id="LC183" class="js-file-line">
-        <td id="L183" class="blob-num js-line-number" data-line-number="183"></td>
-        <td>1668120396199</td>
-        <td>11/19/2013</td>
-        <td>misc. beverages</td>
-      </tr>
-      <tr id="LC184" class="js-file-line">
-        <td id="L184" class="blob-num js-line-number" data-line-number="184"></td>
-        <td>1684110151699</td>
-        <td>05/18/2010</td>
-        <td>sparkling wine</td>
-      </tr>
-      <tr id="LC185" class="js-file-line">
-        <td id="L185" class="blob-num js-line-number" data-line-number="185"></td>
-        <td>1699101035699</td>
-        <td>04/25/2010</td>
-        <td>specialty bar</td>
-      </tr>
-      <tr id="LC186" class="js-file-line">
-        <td id="L186" class="blob-num js-line-number" data-line-number="186"></td>
-        <td>1628030667299</td>
-        <td>10/17/2012</td>
-        <td>sausage</td>
-      </tr>
-      <tr id="LC187" class="js-file-line">
-        <td id="L187" class="blob-num js-line-number" data-line-number="187"></td>
-        <td>1692012598499</td>
-        <td>08/10/2014</td>
-        <td>curd cheese</td>
-      </tr>
-      <tr id="LC188" class="js-file-line">
-        <td id="L188" class="blob-num js-line-number" data-line-number="188"></td>
-        <td>1653060542899</td>
-        <td>09/13/2013</td>
-        <td>frankfurter</td>
-      </tr>
-      <tr id="LC189" class="js-file-line">
-        <td id="L189" class="blob-num js-line-number" data-line-number="189"></td>
-        <td>1644121952499</td>
-        <td>10/14/2011</td>
-        <td>whole milk</td>
-      </tr>
-      <tr id="LC190" class="js-file-line">
-        <td id="L190" class="blob-num js-line-number" data-line-number="190"></td>
-        <td>1649071517699</td>
-        <td>10/30/2011</td>
-        <td>shopping bags</td>
-      </tr>
-      <tr id="LC191" class="js-file-line">
-        <td id="L191" class="blob-num js-line-number" data-line-number="191"></td>
-        <td>1600031112799</td>
-        <td>07/11/2014</td>
-        <td>newspapers</td>
-      </tr>
-      <tr id="LC192" class="js-file-line">
-        <td id="L192" class="blob-num js-line-number" data-line-number="192"></td>
-        <td>1629010370399</td>
-        <td>11/04/2011</td>
-        <td>berries</td>
-      </tr>
-      <tr id="LC193" class="js-file-line">
-        <td id="L193" class="blob-num js-line-number" data-line-number="193"></td>
-        <td>1672101916699</td>
-        <td>05/30/2011</td>
-        <td>curd</td>
-      </tr>
-      <tr id="LC194" class="js-file-line">
-        <td id="L194" class="blob-num js-line-number" data-line-number="194"></td>
-        <td>1609073068699</td>
-        <td>10/23/2014</td>
-        <td>tropical fruit</td>
-      </tr>
-      <tr id="LC195" class="js-file-line">
-        <td id="L195" class="blob-num js-line-number" data-line-number="195"></td>
-        <td>1650110184599</td>
-        <td>09/10/2012</td>
-        <td>soda</td>
-      </tr>
-      <tr id="LC196" class="js-file-line">
-        <td id="L196" class="blob-num js-line-number" data-line-number="196"></td>
-        <td>1608080348699</td>
-        <td>08/09/2012</td>
-        <td>rolls/buns</td>
-      </tr>
-      <tr id="LC197" class="js-file-line">
-        <td id="L197" class="blob-num js-line-number" data-line-number="197"></td>
-        <td>1692020352899</td>
-        <td>11/15/2013</td>
-        <td>canned beer</td>
-      </tr>
-      <tr id="LC198" class="js-file-line">
-        <td id="L198" class="blob-num js-line-number" data-line-number="198"></td>
-        <td>1647050971999</td>
-        <td>04/20/2011</td>
-        <td>canned beer</td>
-      </tr>
-      <tr id="LC199" class="js-file-line">
-        <td id="L199" class="blob-num js-line-number" data-line-number="199"></td>
-        <td>1611032908799</td>
-        <td>12/03/2012</td>
-        <td>frankfurter</td>
-      </tr>
-      <tr id="LC200" class="js-file-line">
-        <td id="L200" class="blob-num js-line-number" data-line-number="200"></td>
-        <td>1672041451999</td>
-        <td>06/27/2012</td>
-        <td>margarine</td>
-      </tr>
-      <tr id="LC201" class="js-file-line">
-        <td id="L201" class="blob-num js-line-number" data-line-number="201"></td>
-        <td>1681061642999</td>
-        <td>10/26/2014</td>
-        <td>other vegetables</td>
-      </tr>
-      <tr id="LC202" class="js-file-line">
-        <td id="L202" class="blob-num js-line-number" data-line-number="202"></td>
-        <td>1685121394299</td>
-        <td>03/23/2010</td>
-        <td>whole milk</td>
-      </tr>
-      <tr id="LC203" class="js-file-line">
-        <td id="L203" class="blob-num js-line-number" data-line-number="203"></td>
-        <td>1692012598499</td>
-        <td>01/30/2011</td>
-        <td>whole milk</td>
-      </tr>
-      <tr id="LC204" class="js-file-line">
-        <td id="L204" class="blob-num js-line-number" data-line-number="204"></td>
-        <td>1644051001699</td>
-        <td>11/25/2012</td>
-        <td>citrus fruit</td>
-      </tr>
-      <tr id="LC205" class="js-file-line">
-        <td id="L205" class="blob-num js-line-number" data-line-number="205"></td>
-        <td>1665100527199</td>
-        <td>02/26/2012</td>
-        <td>oil</td>
-      </tr>
-      <tr id="LC206" class="js-file-line">
-        <td id="L206" class="blob-num js-line-number" data-line-number="206"></td>
-        <td>1658112034599</td>
-        <td>08/25/2012</td>
-        <td>frankfurter</td>
-      </tr>
-      <tr id="LC207" class="js-file-line">
-        <td id="L207" class="blob-num js-line-number" data-line-number="207"></td>
-        <td>1648010474199</td>
-        <td>08/25/2013</td>
-        <td>frankfurter</td>
-      </tr>
-      <tr id="LC208" class="js-file-line">
-        <td id="L208" class="blob-num js-line-number" data-line-number="208"></td>
-        <td>1636122888399</td>
-        <td>09/07/2011</td>
-        <td>whole milk</td>
-      </tr>
-      <tr id="LC209" class="js-file-line">
-        <td id="L209" class="blob-num js-line-number" data-line-number="209"></td>
-        <td>1602022916699</td>
-        <td>05/31/2014</td>
-        <td>sugar</td>
-      </tr>
-      <tr id="LC210" class="js-file-line">
-        <td id="L210" class="blob-num js-line-number" data-line-number="210"></td>
-        <td>1679071382799</td>
-        <td>11/06/2012</td>
-        <td>butter milk</td>
-      </tr>
-      <tr id="LC211" class="js-file-line">
-        <td id="L211" class="blob-num js-line-number" data-line-number="211"></td>
-        <td>1616051009999</td>
-        <td>12/01/2010</td>
-        <td>detergent</td>
-      </tr>
-      <tr id="LC212" class="js-file-line">
-        <td id="L212" class="blob-num js-line-number" data-line-number="212"></td>
-        <td>1668061609899</td>
-        <td>07/06/2010</td>
-        <td>hamburger meat</td>
-      </tr>
-      <tr id="LC213" class="js-file-line">
-        <td id="L213" class="blob-num js-line-number" data-line-number="213"></td>
-        <td>1606070299899</td>
-        <td>05/26/2011</td>
-        <td>bottled water</td>
-      </tr>
-      <tr id="LC214" class="js-file-line">
-        <td id="L214" class="blob-num js-line-number" data-line-number="214"></td>
-        <td>1665042331699</td>
-        <td>04/12/2011</td>
-        <td>pasta</td>
-      </tr>
-      <tr id="LC215" class="js-file-line">
-        <td id="L215" class="blob-num js-line-number" data-line-number="215"></td>
-        <td>1684011205699</td>
-        <td>05/12/2014</td>
-        <td>other vegetables</td>
-      </tr>
-      <tr id="LC216" class="js-file-line">
-        <td id="L216" class="blob-num js-line-number" data-line-number="216"></td>
-        <td>1659050492399</td>
-        <td>09/30/2012</td>
-        <td>chocolate</td>
-      </tr>
-      <tr id="LC217" class="js-file-line">
-        <td id="L217" class="blob-num js-line-number" data-line-number="217"></td>
-        <td>1655092724399</td>
-        <td>03/16/2013</td>
-        <td>sausage</td>
-      </tr>
-      <tr id="LC218" class="js-file-line">
-        <td id="L218" class="blob-num js-line-number" data-line-number="218"></td>
-        <td>1677051910899</td>
-        <td>05/28/2013</td>
-        <td>white bread</td>
-      </tr>
-      <tr id="LC219" class="js-file-line">
-        <td id="L219" class="blob-num js-line-number" data-line-number="219"></td>
-        <td>1664072426099</td>
-        <td>11/13/2014</td>
-        <td>rolls/buns</td>
-      </tr>
-      <tr id="LC220" class="js-file-line">
-        <td id="L220" class="blob-num js-line-number" data-line-number="220"></td>
-        <td>1682120680799</td>
-        <td>11/21/2011</td>
-        <td>grapes</td>
-      </tr>
-      <tr id="LC221" class="js-file-line">
-        <td id="L221" class="blob-num js-line-number" data-line-number="221"></td>
-        <td>1612011328599</td>
-        <td>09/07/2013</td>
-        <td>yogurt</td>
-      </tr>
-      <tr id="LC222" class="js-file-line">
-        <td id="L222" class="blob-num js-line-number" data-line-number="222"></td>
-        <td>1646061004499</td>
-        <td>11/25/2011</td>
-        <td>root vegetables</td>
-      </tr>
-      <tr id="LC223" class="js-file-line">
-        <td id="L223" class="blob-num js-line-number" data-line-number="223"></td>
-        <td>1625101150599</td>
-        <td>10/06/2011</td>
-        <td>beverages</td>
-      </tr>
-      <tr id="LC224" class="js-file-line">
-        <td id="L224" class="blob-num js-line-number" data-line-number="224"></td>
-        <td>1601120712199</td>
-        <td>07/21/2014</td>
-        <td>bottled beer</td>
-      </tr>
-      <tr id="LC225" class="js-file-line">
-        <td id="L225" class="blob-num js-line-number" data-line-number="225"></td>
-        <td>1680022071699</td>
-        <td>01/22/2010</td>
-        <td>coffee</td>
-      </tr>
-      <tr id="LC226" class="js-file-line">
-        <td id="L226" class="blob-num js-line-number" data-line-number="226"></td>
-        <td>1636020704499</td>
-        <td>02/21/2010</td>
-        <td>popcorn</td>
-      </tr>
-      <tr id="LC227" class="js-file-line">
-        <td id="L227" class="blob-num js-line-number" data-line-number="227"></td>
-        <td>1682082901099</td>
-        <td>02/07/2011</td>
-        <td>whole milk</td>
-      </tr>
-      <tr id="LC228" class="js-file-line">
-        <td id="L228" class="blob-num js-line-number" data-line-number="228"></td>
-        <td>1627050218699</td>
-        <td>08/16/2014</td>
-        <td>soda</td>
-      </tr>
-      <tr id="LC229" class="js-file-line">
-        <td id="L229" class="blob-num js-line-number" data-line-number="229"></td>
-        <td>1626091280899</td>
-        <td>07/20/2010</td>
-        <td>tropical fruit</td>
-      </tr>
-      <tr id="LC230" class="js-file-line">
-        <td id="L230" class="blob-num js-line-number" data-line-number="230"></td>
-        <td>1626091280899</td>
-        <td>02/12/2014</td>
-        <td>snack products</td>
-      </tr>
-      <tr id="LC231" class="js-file-line">
-        <td id="L231" class="blob-num js-line-number" data-line-number="231"></td>
-        <td>1661050632799</td>
-        <td>06/10/2013</td>
-        <td>beef</td>
-      </tr>
-      <tr id="LC232" class="js-file-line">
-        <td id="L232" class="blob-num js-line-number" data-line-number="232"></td>
-        <td>1684082440799</td>
-        <td>12/26/2014</td>
-        <td>flower soil/fertilizer</td>
-      </tr>
-      <tr id="LC233" class="js-file-line">
-        <td id="L233" class="blob-num js-line-number" data-line-number="233"></td>
-        <td>1692012598499</td>
-        <td>01/30/2011</td>
-        <td>whole milk</td>
-      </tr>
-      <tr id="LC234" class="js-file-line">
-        <td id="L234" class="blob-num js-line-number" data-line-number="234"></td>
-        <td>1610112630299</td>
-        <td>11/28/2010</td>
-        <td>frankfurter</td>
-      </tr>
-      <tr id="LC235" class="js-file-line">
-        <td id="L235" class="blob-num js-line-number" data-line-number="235"></td>
-        <td>1683082574099</td>
-        <td>10/12/2014</td>
-        <td>tropical fruit</td>
-      </tr>
-      <tr id="LC236" class="js-file-line">
-        <td id="L236" class="blob-num js-line-number" data-line-number="236"></td>
-        <td>1612011328599</td>
-        <td>09/07/2013</td>
-        <td>canned beer</td>
-      </tr>
-      <tr id="LC237" class="js-file-line">
-        <td id="L237" class="blob-num js-line-number" data-line-number="237"></td>
-        <td>1613112717499</td>
-        <td>08/11/2014</td>
-        <td>finished products</td>
-      </tr>
-      <tr id="LC238" class="js-file-line">
-        <td id="L238" class="blob-num js-line-number" data-line-number="238"></td>
-        <td>1643030485499</td>
-        <td>11/19/2011</td>
-        <td>beverages</td>
-      </tr>
-      <tr id="LC239" class="js-file-line">
-        <td id="L239" class="blob-num js-line-number" data-line-number="239"></td>
-        <td>1669012238999</td>
-        <td>09/18/2011</td>
-        <td>hamburger meat</td>
-      </tr>
-      <tr id="LC240" class="js-file-line">
-        <td id="L240" class="blob-num js-line-number" data-line-number="240"></td>
-        <td>1607030587099</td>
-        <td>04/01/2011</td>
-        <td>whole milk</td>
-      </tr>
-      <tr id="LC241" class="js-file-line">
-        <td id="L241" class="blob-num js-line-number" data-line-number="241"></td>
-        <td>1649061207499</td>
-        <td>07/13/2013</td>
-        <td>finished products</td>
-      </tr>
-      <tr id="LC242" class="js-file-line">
-        <td id="L242" class="blob-num js-line-number" data-line-number="242"></td>
-        <td>1611032908799</td>
-        <td>12/03/2012</td>
-        <td>other vegetables</td>
-      </tr>
-      <tr id="LC243" class="js-file-line">
-        <td id="L243" class="blob-num js-line-number" data-line-number="243"></td>
-        <td>1612100987299</td>
-        <td>12/14/2010</td>
-        <td>ham</td>
-      </tr>
-      <tr id="LC244" class="js-file-line">
-        <td id="L244" class="blob-num js-line-number" data-line-number="244"></td>
-        <td>1608102521399</td>
-        <td>02/15/2011</td>
-        <td>white bread</td>
-      </tr>
-      <tr id="LC245" class="js-file-line">
-        <td id="L245" class="blob-num js-line-number" data-line-number="245"></td>
-        <td>1645111803599</td>
-        <td>10/18/2013</td>
-        <td>other vegetables</td>
-      </tr>
-      <tr id="LC246" class="js-file-line">
-        <td id="L246" class="blob-num js-line-number" data-line-number="246"></td>
-        <td>1674021053099</td>
-        <td>04/12/2010</td>
-        <td>curd</td>
-      </tr>
-      <tr id="LC247" class="js-file-line">
-        <td id="L247" class="blob-num js-line-number" data-line-number="247"></td>
-        <td>1606041259699</td>
-        <td>08/19/2010</td>
-        <td>popcorn</td>
-      </tr>
-      <tr id="LC248" class="js-file-line">
-        <td id="L248" class="blob-num js-line-number" data-line-number="248"></td>
-        <td>1692012598499</td>
-        <td>07/26/2011</td>
-        <td>bottled beer</td>
-      </tr>
-      <tr id="LC249" class="js-file-line">
-        <td id="L249" class="blob-num js-line-number" data-line-number="249"></td>
-        <td>1612011328599</td>
-        <td>09/07/2013</td>
-        <td>curd</td>
-      </tr>
-      <tr id="LC250" class="js-file-line">
-        <td id="L250" class="blob-num js-line-number" data-line-number="250"></td>
-        <td>1689081758199</td>
-        <td>04/10/2013</td>
-        <td>waffles</td>
-      </tr>
-      <tr id="LC251" class="js-file-line">
-        <td id="L251" class="blob-num js-line-number" data-line-number="251"></td>
-        <td>1692012598499</td>
-        <td>01/30/2011</td>
-        <td>whole milk</td>
-      </tr>
-      <tr id="LC252" class="js-file-line">
-        <td id="L252" class="blob-num js-line-number" data-line-number="252"></td>
-        <td>1648051560299</td>
-        <td>04/14/2010</td>
-        <td>whole milk</td>
-      </tr>
-      <tr id="LC253" class="js-file-line">
-        <td id="L253" class="blob-num js-line-number" data-line-number="253"></td>
-        <td>1612012216399</td>
-        <td>01/19/2011</td>
-        <td>dessert</td>
-      </tr>
-      <tr id="LC254" class="js-file-line">
-        <td id="L254" class="blob-num js-line-number" data-line-number="254"></td>
-        <td>1679091789699</td>
-        <td>02/19/2013</td>
-        <td>sausage</td>
-      </tr>
-      <tr id="LC255" class="js-file-line">
-        <td id="L255" class="blob-num js-line-number" data-line-number="255"></td>
-        <td>1681021693299</td>
-        <td>05/31/2013</td>
-        <td>other vegetables</td>
-      </tr>
-      <tr id="LC256" class="js-file-line">
-        <td id="L256" class="blob-num js-line-number" data-line-number="256"></td>
-        <td>1600122428599</td>
-        <td>08/26/2012</td>
-        <td>shopping bags</td>
-      </tr>
-      <tr id="LC257" class="js-file-line">
-        <td id="L257" class="blob-num js-line-number" data-line-number="257"></td>
-        <td>1606041259699</td>
-        <td>08/19/2010</td>
-        <td>ham</td>
-      </tr>
-      <tr id="LC258" class="js-file-line">
-        <td id="L258" class="blob-num js-line-number" data-line-number="258"></td>
-        <td>1612020387199</td>
-        <td>02/11/2014</td>
-        <td>other vegetables</td>
-      </tr>
-      <tr id="LC259" class="js-file-line">
-        <td id="L259" class="blob-num js-line-number" data-line-number="259"></td>
-        <td>1648092066299</td>
-        <td>04/06/2012</td>
-        <td>other vegetables</td>
-      </tr>
-      <tr id="LC260" class="js-file-line">
-        <td id="L260" class="blob-num js-line-number" data-line-number="260"></td>
-        <td>1684032180399</td>
-        <td>02/13/2013</td>
-        <td>soda</td>
-      </tr>
-      <tr id="LC261" class="js-file-line">
-        <td id="L261" class="blob-num js-line-number" data-line-number="261"></td>
-        <td>1647080809499</td>
-        <td>11/11/2010</td>
-        <td>herbs</td>
-      </tr>
-    </tbody>
-  </table>
-</div>
-
-  </div>
-
-  </div>
-
-  <button type="button" data-facebox="#jump-to-line" data-facebox-class="linejump" data-hotkey="l" class="d-none">Jump to Line</button>
-  <div id="jump-to-line" style="display:none">
-    <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="js-jump-to-line-form" action="" accept-charset="UTF-8" method="get"><input name="utf8" type="hidden" value="&#x2713;" />
-      <input class="form-control linejump-input js-jump-to-line-field" type="text" placeholder="Jump to line&hellip;" aria-label="Jump to line" autofocus>
-      <button type="submit" class="btn">Go</button>
-</form>  </div>
-
-
-  </div>
-  <div class="modal-backdrop js-touch-events"></div>
-</div>
-
-    </div>
-  </div>
-
-  </div>
-
-      
-<div class="footer container-lg px-3" role="contentinfo">
-  <div class="position-relative d-flex flex-justify-between pt-6 pb-2 mt-6 f6 text-gray border-top border-gray-light ">
-    <ul class="list-style-none d-flex flex-wrap ">
-      <li class="mr-3">&copy; 2018 <span title="0.17597s from unicorn-5d9b6d66dc-bg8n4">GitHub</span>, Inc.</li>
-        <li class="mr-3"><a data-ga-click="Footer, go to terms, text:terms" href="https://github.com/site/terms">Terms</a></li>
-        <li class="mr-3"><a data-ga-click="Footer, go to privacy, text:privacy" href="https://github.com/site/privacy">Privacy</a></li>
-        <li class="mr-3"><a href="https://help.github.com/articles/github-security/" data-ga-click="Footer, go to security, text:security">Security</a></li>
-        <li class="mr-3"><a href="https://status.github.com/" data-ga-click="Footer, go to status, text:status">Status</a></li>
-        <li><a data-ga-click="Footer, go to help, text:help" href="https://help.github.com">Help</a></li>
-    </ul>
-
-    <a aria-label="Homepage" title="GitHub" class="footer-octicon" href="https://github.com">
-      <svg height="24" class="octicon octicon-mark-github" viewBox="0 0 16 16" version="1.1" width="24" aria-hidden="true"><path fill-rule="evenodd" d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27.68 0 1.36.09 2 .27 1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.013 8.013 0 0 0 16 8c0-4.42-3.58-8-8-8z"/></svg>
-</a>
-   <ul class="list-style-none d-flex flex-wrap ">
-        <li class="mr-3"><a data-ga-click="Footer, go to contact, text:contact" href="https://github.com/contact">Contact GitHub</a></li>
-      <li class="mr-3"><a href="https://developer.github.com" data-ga-click="Footer, go to api, text:api">API</a></li>
-      <li class="mr-3"><a href="https://training.github.com" data-ga-click="Footer, go to training, text:training">Training</a></li>
-      <li class="mr-3"><a href="https://shop.github.com" data-ga-click="Footer, go to shop, text:shop">Shop</a></li>
-        <li class="mr-3"><a href="https://blog.github.com" data-ga-click="Footer, go to blog, text:blog">Blog</a></li>
-        <li><a data-ga-click="Footer, go to about, text:about" href="https://github.com/about">About</a></li>
-
-    </ul>
-  </div>
-  <div class="d-flex flex-justify-center pb-6">
-    <span class="f6 text-gray-light"></span>
-  </div>
-</div>
-
-
-
-  <div id="ajax-error-message" class="ajax-error-message flash flash-error">
-    <svg class="octicon octicon-alert" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M8.893 1.5c-.183-.31-.52-.5-.887-.5s-.703.19-.886.5L.138 13.499a.98.98 0 0 0 0 1.001c.193.31.53.501.886.501h13.964c.367 0 .704-.19.877-.5a1.03 1.03 0 0 0 .01-1.002L8.893 1.5zm.133 11.497H6.987v-2.003h2.039v2.003zm0-3.004H6.987V5.987h2.039v4.006z"/></svg>
-    <button type="button" class="flash-close js-ajax-error-dismiss" aria-label="Dismiss error">
-      <svg class="octicon octicon-x" viewBox="0 0 12 16" version="1.1" width="12" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.48 8l3.75 3.75-1.48 1.48L6 9.48l-3.75 3.75-1.48-1.48L4.52 8 .77 4.25l1.48-1.48L6 6.52l3.75-3.75 1.48 1.48L7.48 8z"/></svg>
-    </button>
-    You can’t perform that action at this time.
-  </div>
-
-
-    
-    <script crossorigin="anonymous" integrity="sha512-X5Yz1+Qk9VsyD2X8vZkreaq36jjyMgMFXoVdiC7MDatN90E2HMy8SBo1Uv5+rHaLxCmF0icy+NwqIhLkci+Mvw==" type="application/javascript" src="https://assets-cdn.github.com/assets/frameworks-dca882fa8d6991b8dd62fde97105da60.js"></script>
-    
-    <script crossorigin="anonymous" async="async" integrity="sha512-kY82ZYHMFQQwb+2wSFyizzi88FEjErG6MGp1i9hD7RAZ1aMWNLy2v1whI+dzNVqINdxN2+AEeuuJH8WzWv4gag==" type="application/javascript" src="https://assets-cdn.github.com/assets/github-ee77c9e5b9dca5a57ed7eeeb5cf9abfd.js"></script>
-    
-    
-    
-  <div class="js-stale-session-flash stale-session-flash flash flash-warn flash-banner d-none">
-    <svg class="octicon octicon-alert" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M8.893 1.5c-.183-.31-.52-.5-.887-.5s-.703.19-.886.5L.138 13.499a.98.98 0 0 0 0 1.001c.193.31.53.501.886.501h13.964c.367 0 .704-.19.877-.5a1.03 1.03 0 0 0 .01-1.002L8.893 1.5zm.133 11.497H6.987v-2.003h2.039v2.003zm0-3.004H6.987V5.987h2.039v4.006z"/></svg>
-    <span class="signed-in-tab-flash">You signed in with another tab or window. <a href="">Reload</a> to refresh your session.</span>
-    <span class="signed-out-tab-flash">You signed out in another tab or window. <a href="">Reload</a> to refresh your session.</span>
-  </div>
-  <div class="facebox" id="facebox" style="display:none;">
-  <div class="facebox-popup">
-    <div class="facebox-content" role="dialog" aria-labelledby="facebox-header" aria-describedby="facebox-description">
-    </div>
-    <button type="button" class="facebox-close js-facebox-close" aria-label="Close modal">
-      <svg class="octicon octicon-x" viewBox="0 0 12 16" version="1.1" width="12" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.48 8l3.75 3.75-1.48 1.48L6 9.48l-3.75 3.75-1.48-1.48L4.52 8 .77 4.25l1.48-1.48L6 6.52l3.75-3.75 1.48 1.48L7.48 8z"/></svg>
-    </button>
-  </div>
-</div>
-
-  <div class="Popover js-hovercard-content position-absolute" style="display: none; outline: none;" tabindex="0">
-  <div class="Popover-message Popover-message--bottom-left Popover-message--large Box box-shadow-large" style="width:360px;">
-  </div>
-</div>
-
-<div id="hovercard-aria-description" class="sr-only">
-  Press h to open a hovercard with more details.
-</div>
-
-
-  </body>
-</html>
-
+Member_number,Date,itemDescription,
+1.61905E+12,10/22/2012,citrus fruit,
+1.67903E+12,10/3/2010,tropical fruit,
+1.63404E+12,7/7/2011,whole milk,
+1.65602E+12,3/13/2010,pip fruit,
+1.61201E+12,9/7/2013,other vegetables,
+1.66004E+12,6/6/2010,whole milk,
+1.63406E+12,2/15/2014,abrasive cleaner,
+1.61607E+12,12/30/2012,rolls/buns,
+1.65505E+12,10/24/2011,other vegetables,
+1.61511E+12,12/15/2011,liquor (appetizer),
+1.65111E+12,11/15/2013,pot plants,
+1.65903E+12,12/17/2012,whole milk,
+1.60604E+12,8/19/2010,tropical fruit,
+1.62609E+12,7/20/2010,chocolate,
+1.68908E+12,4/10/2013,citrus fruit,
+1.64004E+12,3/5/2014,curd,
+1.63005E+12,10/22/2012,dishes,
+1.68102E+12,5/31/2013,beef,
+1.62705E+12,8/16/2014,frankfurter,
+1.64706E+12,6/19/2013,chicken,
+1.61201E+12,9/7/2013,butter,
+1.61103E+12,12/3/2012,fruit/vegetable juice,
+1.65701E+12,10/9/2013,packaged fruit/vegetables,
+1.64004E+12,3/5/2014,chocolate,
+1.61607E+12,12/30/2012,specialty bar,
+1.61607E+12,12/30/2012,other vegetables,
+1.62705E+12,8/16/2014,butter milk,
+1.62604E+12,1/17/2010,whole milk,
+1.65111E+12,11/15/2013,tropical fruit,
+1.64706E+12,6/19/2013,newspapers,
+1.63005E+12,10/22/2012,tropical fruit,
+1.68102E+12,5/31/2013,rolls/buns,
+1.6851E+12,8/4/2010,waffles,
+1.63005E+12,10/22/2012,bottled water,
+1.65601E+12,3/11/2010,yogurt,
+1.65111E+12,11/15/2013,sausage,
+1.68808E+12,10/20/2010,other vegetables,
+1.61708E+12,11/23/2014,brown bread,
+1.69201E+12,1/30/2011,newspapers,
+1.65505E+12,10/24/2011,yogurt,
+1.67005E+12,10/25/2012,hamburger meat,
+1.67712E+12,10/28/2010,bottled water,
+1.66807E+12,2/5/2013,root vegetables,
+1.60404E+12,8/9/2012,sugar,
+1.62409E+12,2/7/2014,pork,
+1.64009E+12,1/28/2011,whipped/sour cream,
+1.61504E+12,8/1/2011,beef,
+1.60904E+12,8/1/2014,pastry,
+1.60403E+12,10/12/2013,fruit/vegetable juice,
+1.65505E+12,10/24/2011,canned beer,
+1.61807E+12,5/29/2012,root vegetables,
+1.68103E+12,3/25/2013,citrus fruit,
+1.64912E+12,7/16/2010,sausage,
+1.61202E+12,6/3/2011,specialty bar,
+1.68908E+12,4/10/2013,tropical fruit,
+1.60303E+12,5/23/2014,domestic eggs,
+1.65706E+12,1/9/2012,cereals,
+1.61607E+12,12/30/2012,candy,
+1.63403E+12,5/26/2013,berries,
+1.63608E+12,11/30/2010,canned beer,
+1.60607E+12,11/11/2013,butter milk,
+1.61402E+12,12/2/2014,rolls/buns,
+1.67904E+12,5/23/2013,coffee,
+1.67506E+12,5/13/2010,pastry,
+1.61003E+12,10/13/2014,rolls/buns,
+1.65111E+12,11/15/2013,misc. beverages,
+1.64707E+12,5/12/2014,root vegetables,
+1.69609E+12,11/23/2013,whipped/sour cream,
+1.63005E+12,10/22/2012,bottled water,
+1.65701E+12,1/13/2012,sausage,
+1.62506E+12,1/3/2010,canned beer,
+1.6591E+12,5/12/2014,ham,
+1.67311E+12,3/17/2012,turkey,
+1.61201E+12,9/7/2013,domestic eggs,
+1.69706E+12,6/30/2014,baking powder,
+1.69306E+12,1/18/2013,whole milk,
+1.67608E+12,1/22/2012,soda,
+1.65107E+12,9/17/2010,whole milk,
+1.63507E+12,1/23/2012,packaged fruit/vegetables,
+1.65701E+12,10/9/2013,rolls/buns,
+1.62604E+12,1/17/2010,chocolate marshmallow,
+1.65505E+12,10/24/2011,ham,
+1.67203E+12,2/27/2012,rolls/buns,
+1.63002E+12,3/15/2013,rolls/buns,
+1.68603E+12,10/17/2010,other vegetables,
+1.64311E+12,12/2/2013,salty snack,
+1.61907E+12,6/2/2012,sausage,
+1.63501E+12,4/5/2013,sausage,
+1.62111E+12,11/24/2013,frankfurter,
+1.6851E+12,8/4/2010,sugar,
+1.61504E+12,3/17/2013,rolls/buns,
+1.61607E+12,12/30/2012,whole milk,
+1.60803E+12,6/6/2014,curd cheese,
+1.67409E+12,4/6/2013,red/blush wine,
+1.6391E+12,2/13/2013,sausage,
+1.68407E+12,11/2/2011,tropical fruit,
+1.65202E+12,4/2/2014,frozen potato products,
+1.63309E+12,9/8/2011,red/blush wine,
+1.69707E+12,7/14/2010,whole milk,
+1.6381E+12,2/17/2011,specialty chocolate,
+1.69801E+12,7/30/2011,frankfurter,
+1.66212E+12,11/14/2011,oil,
+1.62805E+12,12/16/2012,whole milk,
+1.61511E+12,12/15/2011,frozen potato products,
+1.61708E+12,11/23/2014,other vegetables,
+1.63202E+12,10/29/2013,citrus fruit,
+1.60911E+12,5/3/2011,pastry,
+1.65601E+12,3/11/2010,flour,
+1.60311E+12,1/5/2011,bottled beer,
+1.69111E+12,11/24/2010,sugar,
+1.61708E+12,11/23/2014,frozen meals,
+1.64004E+12,3/27/2010,chocolate,
+1.66902E+12,7/14/2014,root vegetables,
+1.6851E+12,8/4/2010,rolls/buns,
+1.68501E+12,8/23/2014,fruit/vegetable juice,
+1.60302E+12,3/21/2010,root vegetables,
+1.68001E+12,8/11/2013,herbs,
+1.61708E+12,11/23/2014,oil,
+1.62212E+12,7/20/2011,bottled water,
+1.63812E+12,4/7/2010,sausage,
+1.67812E+12,10/2/2013,rolls/buns,
+1.68808E+12,10/20/2010,coffee,
+1.64603E+12,6/30/2013,pork,
+1.62604E+12,1/17/2010,berries,
+1.65701E+12,10/9/2013,soda,
+1.65601E+12,3/11/2010,berries,
+1.64703E+12,9/24/2013,fruit/vegetable juice,
+1.69103E+12,12/19/2012,citrus fruit,
+1.61607E+12,12/30/2012,pork,
+1.63504E+12,9/10/2012,onions,
+1.62604E+12,1/17/2010,chocolate,
+1.65601E+12,3/11/2010,detergent,
+1.64809E+12,12/8/2012,grapes,
+1.65702E+12,1/11/2014,sausage,
+1.64203E+12,2/5/2013,fruit/vegetable juice,
+1.65903E+12,12/17/2012,shopping bags,
+1.63101E+12,3/29/2014,chicken,
+1.63707E+12,12/26/2014,root vegetables,
+1.68812E+12,12/20/2014,oil,
+1.61809E+12,10/5/2011,whole milk,
+1.65404E+12,3/29/2011,citrus fruit,
+1.69201E+12,1/30/2011,soda,
+1.60604E+12,8/19/2010,sausage,
+1.64905E+12,6/6/2013,rolls/buns,
+1.61511E+12,12/15/2011,bathroom cleaner,
+1.62609E+12,7/20/2010,frankfurter,
+1.68907E+12,6/22/2013,sausage,
+1.6891E+12,9/2/2010,fruit/vegetable juice,
+1.64204E+12,7/19/2013,photo/film,
+1.62503E+12,12/25/2012,soda,
+1.67011E+12,1/25/2011,rolls/buns,
+1.68908E+12,4/10/2013,beef,
+1.61607E+12,12/30/2012,brown bread,
+1.68401E+12,9/12/2014,whole milk,
+1.60412E+12,8/27/2014,waffles,
+1.62609E+12,7/20/2010,processed cheese,
+1.62806E+12,12/13/2013,tropical fruit,
+1.63712E+12,8/14/2013,frankfurter,
+1.64608E+12,7/3/2013,rolls/buns,
+1.60101E+12,4/18/2012,chewing gum,
+1.62711E+12,7/30/2011,packaged fruit/vegetables,
+1.65701E+12,10/9/2013,whole milk,
+1.64405E+12,6/19/2014,margarine,
+1.66709E+12,7/25/2012,berries,
+1.61103E+12,12/3/2012,citrus fruit,
+1.61211E+12,9/11/2011,tropical fruit,
+1.61905E+12,8/14/2011,hamburger meat,
+1.63604E+12,7/8/2011,bottled beer,
+1.66101E+12,8/17/2013,hamburger meat,
+1.66612E+12,3/2/2010,domestic eggs,
+1.67803E+12,9/9/2014,whole milk,
+1.66005E+12,6/10/2014,fish,
+1.60502E+12,8/20/2013,coffee,
+1.67508E+12,6/8/2014,frankfurter,
+1.69201E+12,1/30/2011,packaged fruit/vegetables,
+1.65703E+12,2/13/2014,pastry,
+1.62304E+12,5/15/2012,other vegetables,
+1.62911E+12,2/14/2014,misc. beverages,
+1.62902E+12,9/27/2013,frankfurter,
+1.69006E+12,11/6/2010,pip fruit,
+1.64305E+12,12/31/2010,domestic eggs,
+1.66812E+12,11/19/2013,misc. beverages,
+1.68411E+12,5/18/2010,sparkling wine,
+1.6991E+12,4/25/2010,specialty bar,
+1.62803E+12,10/17/2012,sausage,
+1.69201E+12,8/10/2014,curd cheese,
+1.65306E+12,9/13/2013,frankfurter,
+1.64412E+12,10/14/2011,whole milk,
+1.64907E+12,10/30/2011,shopping bags,
+1.60003E+12,7/11/2014,newspapers,
+1.62901E+12,11/4/2011,berries,
+1.6721E+12,5/30/2011,curd,
+1.60907E+12,10/23/2014,tropical fruit,
+1.65011E+12,9/10/2012,soda,
+1.60808E+12,8/9/2012,rolls/buns,
+1.69202E+12,11/15/2013,canned beer,
+1.64705E+12,4/20/2011,canned beer,
+1.61103E+12,12/3/2012,frankfurter,
+1.67204E+12,6/27/2012,margarine,
+1.68106E+12,10/26/2014,other vegetables,
+1.68512E+12,3/23/2010,whole milk,
+1.69201E+12,1/30/2011,whole milk,
+1.64405E+12,11/25/2012,citrus fruit,
+1.6651E+12,2/26/2012,oil,
+1.65811E+12,8/25/2012,frankfurter,
+1.64801E+12,8/25/2013,frankfurter,
+1.63612E+12,9/7/2011,whole milk,
+1.60202E+12,5/31/2014,sugar,
+1.67907E+12,11/6/2012,butter milk,
+1.61605E+12,12/1/2010,detergent,
+1.66806E+12,7/6/2010,hamburger meat,
+1.60607E+12,5/26/2011,bottled water,
+1.66504E+12,4/12/2011,pasta,
+1.68401E+12,5/12/2014,other vegetables,
+1.65905E+12,9/30/2012,chocolate,
+1.65509E+12,3/16/2013,sausage,
+1.67705E+12,5/28/2013,white bread,
+1.66407E+12,11/13/2014,rolls/buns,
+1.68212E+12,11/21/2011,grapes,
+1.61201E+12,9/7/2013,yogurt,
+1.64606E+12,11/25/2011,root vegetables,
+1.6251E+12,10/6/2011,beverages,
+1.60112E+12,7/21/2014,bottled beer,
+1.68002E+12,1/22/2010,coffee,
+1.63602E+12,2/21/2010,popcorn,
+1.68208E+12,2/7/2011,whole milk,
+1.62705E+12,8/16/2014,soda,
+1.62609E+12,7/20/2010,tropical fruit,
+1.62609E+12,2/12/2014,snack products,
+1.66105E+12,6/10/2013,beef,
+1.68408E+12,12/26/2014,flower soil/fertilizer,
+1.69201E+12,1/30/2011,whole milk,
+1.61011E+12,11/28/2010,frankfurter,
+1.68308E+12,10/12/2014,tropical fruit,
+1.61201E+12,9/7/2013,canned beer,
+1.61311E+12,8/11/2014,finished products,
+1.64303E+12,11/19/2011,beverages,
+1.66901E+12,9/18/2011,hamburger meat,
+1.60703E+12,4/1/2011,whole milk,
+1.64906E+12,7/13/2013,finished products,
+1.61103E+12,12/3/2012,other vegetables,
+1.6121E+12,12/14/2010,ham,
+1.6081E+12,2/15/2011,white bread,
+1.64511E+12,10/18/2013,other vegetables,
+1.67402E+12,4/12/2010,curd,
+1.60604E+12,8/19/2010,popcorn,
+1.69201E+12,7/26/2011,bottled beer,
+1.61201E+12,9/7/2013,curd,
+1.68908E+12,4/10/2013,waffles,
+1.69201E+12,1/30/2011,whole milk,
+1.64805E+12,4/14/2010,whole milk,
+1.61201E+12,1/19/2011,dessert,
+1.67909E+12,2/19/2013,sausage,
+1.68102E+12,5/31/2013,other vegetables,
+1.60012E+12,8/26/2012,shopping bags,
+1.60604E+12,8/19/2010,ham,
+1.61202E+12,2/11/2014,other vegetables,
+1.64809E+12,4/6/2012,other vegetables,
+1.68403E+12,2/13/2013,soda,
+1.64708E+12,11/11/2010,herbs,
