@@ -1,0 +1,1001 @@
+Property_ID,Listing_Date,City,Locality,Property_Type,BHK,Built_Up_Area_sqft,Carpet_Area_sqft,Age_Years,Floor,Total_Floors,Bathrooms,Parking_Spaces,Furnishing_Status,Facing,Gated_Community,Distance_to_Metro_km,Distance_to_CBD_km,Nearby_Schools,Crime_Index,Amenities_Score,Monthly_Maintenance_INR,Seller_Type,Loan_Available,Annual_Property_Tax_INR,Price_Lakhs
+PROP-10001,2026-03-09,Pune,Hinjewadi,Villa,3,1633.0,1328.1,12,Ground,4,2,0,Unfurnished,North-East,Yes,6.31,23.12,8,26.7,8.3,4860,Broker,Yes,32800,134.64
+PROP-10002,2025-10-12,Bengaluru,Whitefield,Apartment,2,1443.3,1070.8,9,6,8,1,1,,North-East,No,5.78,10.55,1,50.0,7.1,4350,Builder,Yes,34800,115.27
+PROP-10003,2026-08-04,Delhi NCR,Noida,Apartment,2,1002.7,798.8,28,8,11,2,1,Semi-Furnished,South-East,Yes,,19.59,12,43.9,5.8,2120,Builder,Yes,25900,51.32
+PROP-10004,2025-09-15,Bengaluru,Marathahalli,Apartment,2,1303.4,1061.1,0,11,26,2,3,Unfurnished,West,Yes,3.47,16.73,10,44.2,8.8,5330,Owner,Yes,45000,144.92
+PROP-10005,2026-07-07,Delhi NCR,Gurugram,Villa,3,1898.5,1553.6,0,3rd,3,2,3,Furnished,East,no,5.09,5.19,1,51.3,4.5,8040,Owner,Yes,77200,216.85
+PROP-10006,2025-07-25,Pune,Baner,Apartment,4,1784.7,1495.9,43,Ground,6,4,2,Furnished,North-East,No,2.34,19.0,8,55.1,6.9,7360,Broker,No,59300,106.68
+PROP-10007,2026-04-30,Bengaluru,HSR Layout,Apartment,3,1694.2,1255.2,13,7,15,2,0,Semi-Furnished,South,Yes,7.7,14.73,8,43.8,10,4660,Builder,No,63400,120.01
+PROP-10008,2025-04-06,Hyderabad,Kukatpally,Apartment,2,1082.7,904.5,20,3,4,1,1,Unfurnished,West,Yes,6.4,16.67,1,58.3,3.5,4250,Builder,No,41200,64.3
+PROP-10009,2026-05-30,Delhi NCR,Noida,Apartment,3,1947.1,1381.7,37,14,17,3,1,Furnished,North-East,Yes,2.67,13.88,3,62.6,6.7,7590,Broker,Yes,69800,111.21
+PROP-10010,2025-01-10,Bengaluru,Electronic City,Apartment,1,12727.8,536.3,0,Ground,3,1,2,Semi-Furnished,East,No,9.27,16.65,3,66.4,5.6,2740,Owner,No,30700,63.31
+PROP-10011,2025-04-20,Delhi NCR,Gurugram,Apartment,2,1008.1,845.3,28,9,24,2,1,,East,Yes,9.59,12.68,0,32.0,5.0,5300,Builder,Yes,27500,59.18
+PROP-10012,2025-06-02,Hyderabad,Madhapur,Apartment,3,1738.1,1264.5,0,5,6,3,2,,East,No,5.32,9.95,11,32.5,2.8,6890,,No,60100,138.81
+PROP-10013,2025-07-03,Delhi NCR,Ghaziabad,Apartment,2,1223.8,1037.8,11,2nd,3,2,2,Semi-Furnished,North-East,No,0.98,18.91,2,52.5,5.0,3140,Broker,Yes,38200,95.71
+PROP-10014,2025-01-29,Chennai,Velachery,Apartment,3,2110.8,1476.4,20,11,30,3,2,Furnished,South,Yes,0.2,15.68,1,55.4,8.8,8960,Owner,No,62600,144.43
+PROP-10015,2025-12-05,Delhi NCR,Noida,Apartment,5,3706.7,2751.2,12,19,28,6,0,Furnished,South,Yes,4.75,13.11,12,17.2,6.4,17040,Owner,Yes,81700,268.43
+PROP-10016,2025-06-23,Delhi NCR,Ghaziabad,Apartment,2,966.6,727.3,8,21,25,2,1,Unfurnished,North-East,No,6.45,11.9,12,,3.1,3510,Owner,Yes,31800,71.09
+PROP-10017,2025-04-20,Bengaluru,Yelahanka,Apartment,4,2204.2,1588.0,0,Ground,2,4,3,Semi-Furnished,North,Yes,8.06,7.49,11,35.8,5.0,6290,Owner,Yes,93700,205.32
+PROP-10018,2026-05-12,Chennai,Anna Nagar,Apartment,2,1384.8,1153.1,0,14,21,3,2,Furnished,West,No,6.4,1.0,11,31.9,7.1,6410,Broker,Yes,48700,120.8
+PROP-10019,2025-12-27,Hyderabad,Gachibowli,Villa,3,1247.0,,24,1,4,2,1,Unfurnished,West,Yes,5.72,20.54,12,20.7,5.6,6230,Broker,Yes,22600,73.05
+PROP-10020,2026-01-24,Delhi NCR,Ghaziabad,Villa,4,2732.2,2154.6,10,1st,1,4,2,Furnished,South,No,7.08,1.0,9,34.6,5.3,11610,Builder,Yes,58800,266.43
+PROP-10021,2025-09-20,Bengaluru,HSR Layout,Villa,3,1556.7,1129.2,0,Ground,1,3,1,Unfurnished,South-East,Yes,7.24,14.52,0,,6.2,5690,Builder,No,53600,171.5
+PROP-10022,2026-01-15,Chennai,OMR,Villa,3,1881.7,1384.9,0,3,4,3,0,Semi-Furnished,South-East,Yes,1.2,11.57,10,29.2,6.4,10240,Broker,Yes,51100,163.46
+PROP-10023,2026-04-21,Pune,Hinjewadi,Independent House,4,2994.3,2378.7,22,1st,2,5,3,Unfurnished,North-East,No,0.2,16.36,9,38.4,9.6,14690,Builder,No,65700,210.2
+PROP-10024,2025-09-07,Bengaluru,HSR Layout,Apartment,2,901.0,742.0,0,17,18,1,1,Unfurnished,South,No,10.53,1.74,11,43.9,2.6,3220,Builder,Yes,29500,79.75
+PROP-10025,2025-04-13,Pune,Baner,Apartment,2,1288.9,958.1,9,8,20,2,1,Unfurnished,North,No,9.61,10.24,3,45.9,8.0,5850,Broker,Yes,29400,88.24
+PROP-10026,2026-07-31,Bengaluru,Yelahanka,Apartment,1,756.1,521.5,4,6,32,1,1,SEMI-FURNISHED,West,Yes,12.45,18.72,7,39.4,7.8,2810,Owner,Yes,19300,74.92
+PROP-10027,2026-07-20, Hyderabad,Kondapur,Apartment,3,1162.6,837.8,0,29,29,3,1,Semi-Furnished,West,Yes,1.52,6.88,11,64.0,9.2,4870,Builder,Yes,27600,129.16
+PROP-10028,2025-11-08,Pune,Wakad,Apartment,2,1053.5,770.0,11,6,17,2,0,Unfurnished,South,No,3.82,14.75,2,36.5,6.4,5150,Broker,Yes,28300,59.32
+PROP-10029,2026-08-23,Delhi NCR,Ghaziabad,Apartment,2,726.3,589.9,,Ground,2,2,3,Furnished,North-East,Yes,10.37,15.05,4,17.9,5.6,1900,Owner,Yes,20100,106.5
+PROP-10030,2026-05-26,Bengaluru,Marathahalli,Apartment,3,873.5,728.9,3,26,26,4,0,Unfurnished,East,Yes,9.25,20.5,8,39.0,7.2,4410,Owner,Yes,31400,91.62
+PROP-10031,2026-05-10,Chennai,Velachery,Apartment,2,957.7,734.8,45,5,16,2,1,Semi-Furnished,North,Yes,5.68,10.62,1,36.5,6.3,5040,Builder,Yes,25700,21.7
+PROP-10032,2025-07-13,Bengaluru,Yelahanka,Apartment,4,2700.9,2256.7,7,17,33,3,1,Unfurnished,North-East,Yes,10.55,5.99,7,15.0,5.4,10620,Owner,Yes,82000,209.44
+PROP-10033,2025-03-18,Hyderabad,Kukatpally,Apartment,3,1993.8,1608.9,13,21,25,3,1,Unfurnished,North-East,No,4.05,16.3,7,70.5,8.3,4090,Builder,Yes,82300,145.3
+PROP-10034,2025-01-30,Chennai,OMR,Independent House,4,2130.8,1778.5,4,4,4,3,1,Unfurnished,South-East,no,6.77,25.1,6,,9.0,9510,Builder,Yes,51500,155.92
+PROP-10035,2025-12-20,Chennai,Porur,Apartment,2,1057.1,848.6,17,1,12,2,1,Unfurnished,North-East,Yes,2.35,14.8,4,24.9,3.5,3840,Builder,Yes,20100,63.76
+PROP-10036,2025-07-14,Chennai,Anna Nagar,Independent House,2,1510.5,1131.8,3,2nd,3,2,1,Semi-Furnished,South-East,No,5.06,28.67,11,36.2,1.4,4530,Broker,Yes,38400,105.13
+PROP-10037,2025-12-13,Pune,Kharadi,Apartment,4,1993.6,1513.9,4,1,9,4,2,Unfurnished,South,No,7.05,8.82,8,67.8,3.8,5780,Broker,Yes,68500,136.03
+PROP-10038,2025-08-15,Chennai,Velachery,Independent House,3,1571.8,1346.1,23,Ground,4,3,1,Semi-Furnished,South-East,No,3.58,12.98,10,,6.6,4430,Builder,No,47500,110.38
+PROP-10039,2026-02-22,Pune,Baner,Independent House,2,963.0,818.9,11,Ground,4,1,1,Semi-Furnished,West,Yes,2.19,3.37,8,19.0,8.8,2450,Owner,Yes,26400,97.52
+PROP-10040,2026-07-22,Hyderabad,Kukatpally,Independent House,4,2795.7,1951.1,5,Ground,3,4,1,Furnished,West,Yes,1.0,15.86,0,64.2,8.9,15270,Broker,Yes,106000,232.92
+PROP-10041,2026-05-03,Hyderabad,Kondapur,Apartment,2,1061.6,885.9,9,8,9,2,2,Unfurnished,North,Yes,1.14,23.09,9,37.6,8.3,2320,Broker,Yes,38100,80.79
+PROP-10042,2026-01-26,Bengaluru,Electronic City,Independent House,1,769.7,631.9,16,Ground,1,1,2,Semi-Furnished,North,Yes,1.83,15.81,1,38.6,6.7,1880,Owner,Yes,31900,81.1
+PROP-10043,2025-04-06,Pune,Baner,Apartment,2,1074.9,857.6,5,6,14,2,2,Semi-Furnished,West,Yes,,7.49,5,34.1,5.5,2720,Broker,Yes,37500,95.65
+PROP-10044,2026-03-16,Hyderabad,Gachibowli,Apartment,3,1280.7,946.9,14,27,28,2,3,Semi-Furnished,East,Yes,6.94,9.45,7,41.6,7.4,6350,Owner,Yes,40700,111.64
+PROP-10045,2025-06-11,Delhi NCR,Ghaziabad,Apartment,3,2183.1,1810.5,12,4,12,3,2,Semi-Furnished,South,No,1.75,10.63,2,39.6,0.4,5070,Owner,Yes,70600,160.01
+PROP-10046,2025-11-05,Pune,Hinjewadi,Independent House,2,727.9,593.8,12,3,4,2,1,Semi-Furnished,North,Yes,,21.58,9,57.5,4.2,1570,Owner,Yes,12200,55.75
+PROP-10047,2025-06-25,Chennai,Porur,Apartment,2,849.4,597.4,9,11,15,1,1,Semi-Furnished,West,Yes,10.58,6.88,9,27.3,8.1,3600,Builder,Yes,33600,61.04
+PROP-10048,2025-06-27,Delhi NCR,Gurugram,Apartment,2,808.7,613.3,6,7,22,2,2,,South-East,Yes,5.58,1.0,5,39.8,4.2,3440,Builder,Yes,21900,100.63
+PROP-10049,2025-04-03,CHENNAI,OMR,Apartment,3,1082.8,884.4,9,20,21,3,1,Unfurnished,West,Yes,6.07,4.53,5,28.2,7.1,3880,Builder,Yes,20600,83.12
+PROP-10050,2025-02-23,Pune,Hinjewadi,Apartment,4,2180.4,1738.5,5,3rd,4,4,3,Unfurnished,South-East,Yes,8.18,13.61,7,59.2,4.5,7140,Broker,Yes,73400,146.7
+PROP-10051,2026-06-24,Pune,Hinjewadi,Apartment,3,1389.1,1157.6,13,5,10,2,1,Unfurnished,East,Yes,,4.93,2,10.8,4.5,4280,Owner,Yes,47900,92.86
+PROP-10052,2025-06-19,Hyderabad,Madhapur,Apartment,2,852.3,724.9,3,2,5,1,1,Semi-Furnished,South-East,No,5.0,19.67,12,45.4,3.7,2160,Builder,Yes,28100,58.28
+PROP-10053,2025-05-22,Hyderabad,Madhapur,Apartment,2,904.6,737.0,11,15,35,2,3,Semi-Furnished,South,Yes,13.8,6.91,7,45.4,3.8,3400,Owner,Yes,20600,91.57
+PROP-10054,2025-05-30,Bengaluru,Whitefield,Villa,4,2346.0,1647.9,13,1st,2,4,2,Furnished,North,Yes,5.78,8.11,6,51.4,9.1,4920,Broker,Yes,93000,239.85
+PROP-10055,2026-07-03,Bengaluru,Marathahalli,Villa,3,1466.1,998.3,33,Ground,2,4,3,Semi-Furnished,West,Yes,4.14,19.26,0,43.7,,6130,Builder,Yes,51900,135.24
+PROP-10056,2025-04-17,Hyderabad,Kukatpally,Apartment,2,1036.4,811.2,14,2,24,3,1,Furnished,North-East,Yes,9.33,14.96,6,38.6,8.7,2130,Broker,Yes,36900,89.86
+PROP-10057,2025-07-15,Chennai,Porur,Apartment,2,906.8,752.1,19,11,31,2,0,Semi-Furnished,West,Yes,6.55,25.32,0,36.5,8.8,3080,Broker,Yes,16400,58.25
+PROP-10058,2026-04-02,Pune,Wakad,Apartment,2,1004.9,844.2,8,7,12,2,1,Semi-Furnished,East,No,0.2,13.09,9,35.6,7.0,3040,Builder,Yes,23200,90.33
+PROP-10059,2026-08-04,Bengaluru,Marathahalli,Apartment,1,724.7,623.0,4,Ground,4,1,1,Furnished,South-East,YES ,11.09,16.14,10,42.8,6.7,1620,Broker,Yes,23300,74.31
+PROP-10060,2026-04-08,Bengaluru,Marathahalli,Villa,4,2555.7,,0,Ground,1,4,1,Semi-Furnished,North-East,Yes,7.66,15.21,3,17.3,8.8,13310,Owner,Yes,116000,261.73
+PROP-10061,2025-03-30,Chennai,OMR,Independent House,5,3798.9,3068.4,8,2,3,5,2,Semi-Furnished,North,No,5.43,8.53,7,62.1,6.1,12500,Broker,Yes,119200,257.24
+PROP-10062,2026-06-16,Bengaluru,Marathahalli,Villa,4,2575.7,1785.6,20,1,3,5,1,,South,Yes,3.98,15.5,1,39.1,5.5,6610,Broker,Yes,123800,240.53
+PROP-10063,2026-08-09,Delhi NCR,Dwarka,Apartment,5,11697.0,2280.3,20,9,11,6,1,Semi-Furnished,South-East,No,0.88,27.04,0,43.7,5.3,6230,Owner,Yes,108600,203.57
+PROP-10064,2025-10-01,Pune,Wakad,Apartment,2,879.9,637.1,12,1,4,2,1,Unfurnished,South,Yes,1.65,11.25,5,16.5,8.2,2900,Owner,Yes,23600,79.51
+PROP-10065,2026-05-22,Hyderabad,Gachibowli,Apartment,2,943.1,788.2,5,18,21,2,1,Unfurnished,North-East,Yes,7.61,7.84,1,59.9,6.4,5080,Builder,Yes,18100,80.61
+PROP-10066,2025-12-14,Bengaluru,Whitefield,Independent House,2,814.3,683.1,7,Ground,4,3,1,Semi-Furnished,East,Yes,0.2,1.6,4,41.3,8.5,3370,Builder,Yes,25900,95.76
+PROP-10067,2025-11-03,Bengaluru,Electronic City,Apartment,3,1465.0,1032.4,9,29,31,3,1,Semi-Furnished,East,No,3.42,19.86,9,41.1,4.0,4650,Broker,Yes,60500,130.09
+PROP-10068,2026-04-28,Hyderabad,Kukatpally,Apartment,4,2237.1,1813.3,8,1,15,4,1,Semi-Furnished,West,Yes,,12.75,11,38.3,7.5,6930,Builder,Yes,62300,175.81
+PROP-10069,2025-10-23,Chennai,OMR,Villa,4,898.2,688.1,0,1,2,4,1,Semi-Furnished,South-East,Yes,5.66,8.32,7,46.3,8.6,3550,,No,21700,118.01
+PROP-10070,2026-08-24,Bengaluru,Yelahanka,Independent House,4,1773.1,1293.0,18,2,4,4,1,Unfurnished,South-East,Yes,8.24,22.58,11,31.3,5.9,6890,Broker,Yes,44600,154.83
+PROP-10071,2025-08-26,Hyderabad,Manikonda,Apartment,2,1186.8,907.9,13,Ground,9,3,3,Unfurnished,South-East,No,7.51,7.98,3,42.5,,3560,Builder,Yes,39900,91.73
+PROP-10072,2025-07-17,Delhi NCR,Noida,Apartment,4,1283.0,1088.1,24,11,12,4,2,Unfurnished,North-East,Yes,6.22,19.2,7,35.7,9.7,4780,Broker,Yes,42000,110.17
+PROP-10073,2025-11-06,Bengaluru,Marathahalli,Apartment,3,1802.0,1321.1,10,2,13,3,2,Semi-Furnished,North,Yes,12.51,24.67,7,36.6,8.6,5250,Builder,Yes,87000,142.09
+PROP-10074,2025-09-11,Bengaluru,Electronic City,Apartment,2,984.9,724.2,1,3,20,2,1,Unfurnished,South,Yes,6.98,1.0,5,55.4,5.0,3590,Owner,Yes,27000,97.05
+PROP-10075,2025-03-01,Pune,Hinjewadi,Apartment,3,1147.6,803.6,23,12,33,4,1,Unfurnished,North-East,Yes,2.58,3.43,7,58.1,8.5,5540,Owner,Yes,30600,83.09
+PROP-10076,2025-05-17,Hyderabad,Madhapur,Independent House,3,1338.2,1049.2,26,1st,1,3,1,Unfurnished,South-East,N,5.65,9.05,6,28.7,1.5,4440,Builder,No,52200,95.47
+PROP-10077,2025-09-04,Bengaluru,Electronic City,Studio,1,602.2,515.6,,1,1,2,1,Semi-Furnished,South,Yes,3.29,18.13,11,42.4,6.7,2600,Owner,No,28000,54.41
+PROP-10078,2026-07-25,Pune,Hinjewadi,Apartment,1,,507.1,0,8,9,1,1,Furnished,North-East,Yes,3.43,4.96,5,28.2,7.5,3640,Owner,Yes,15100,94.83
+PROP-10079,2026-06-27,Delhi NCR,Noida,Apartment,2,544.0,,10,20,34,2,1,Unfurnished,South,No,0.2,15.76,4,47.6,4.8,1970,Builder,Yes,17100,57.71
+PROP-10080,2026-05-06,Pune,Baner,Independent House,2,1177.3,954.1,11,Ground,1,2,2,Semi-Furnished,South-East,Yes,7.23,1.0,5,46.2,5.8,3230,Builder,Yes,38900,124.93
+PROP-10081,2025-09-25,Chennai,Velachery,Apartment,2,982.9,750.9,15,8,20,2,1,Semi-Furnished,North,No,3.84,1.82,5,55.2,4.7,3390,Owner,Yes,20300,59.7
+PROP-10082,2025-02-19,Bengaluru,Electronic City,Apartment,2,898.1,745.4,0,15,17,2,1,Semi-Furnished,East,Yes,4.82,12.0,8,23.8,10,79838,Broker,Yes,39900,101.68
+PROP-10083,2025-04-09,Bengaluru,Electronic City,Apartment,2,1090.7,753.6,,31,31,1,0,Semi-Furnished,North,Yes,4.09,4.96,4,71.1,7.6,4750,Broker,No,26500,80.67
+PROP-10084,2025-04-08,HYDERABAD,Madhapur,Apartment,2,1312.4,980.6,0,9,15,1,2,Furnished,North,Yes,7.17,7.06,0,56.0,5.2,3000,Broker,Yes,34100,95.13
+PROP-10085,2026-01-29,Delhi NCR,Noida,Apartment,4,,1750.0,33,2nd,35,4,0,Unfurnished,South,No,4.03,6.64,1,35.7,8.2,10130,Broker,Yes,88200,180.59
+PROP-10086,2025-10-02,Chennai,Tambaram,Villa,3,2192.1,1529.2,9,2nd,4,3,2,Semi-Furnished,South,Yes,6.1,20.44,10,,5.5,10310,Builder,Yes,41600,176.55
+PROP-10087,2025-03-28,Chennai,Velachery,Villa,3,1572.3,1156.4,10,Ground,3,3,0,Semi-Furnished,North-East,Yes,4.16,14.38,5,21.7,6.3,7460,Broker,Yes,42200,108.05
+PROP-10088,2025-12-04,Hyderabad,Manikonda,Apartment,2,833.3,,38,13,18,2,1,Unfurnished,East,No,8.45,12.01,9,23.6,6.0,2560,Broker,Yes,27400,33.86
+PROP-10089,2026-04-18,Bengaluru,Yelahanka,Apartment,2,1169.7,861.5,7,9,21,2,3,Semi-Furnished,East,Yes,6.14,7.11,1,51.7,6.6,6420,Builder,Yes,25700,124.45
+PROP-10090,2025-03-29,Delhi NCR,Gurugram,Independent House,4,2885.3,2174.5,0,2,2,4,0,Furnished,West,Yes,4.82,1.0,11,34.2,6.7,15550,Owner,Yes,104200,248.77
+PROP-10091,2025-01-26,hyderabad,Madhapur,Apartment,3,1179.7,939.5,5,13,22,2,0,Unfurnished,North-East,No,0.2,9.69,3,27.0,6.4,5550,Owner,Yes,31000,98.55
+PROP-10092,2026-04-19,Hyderabad,Kondapur,Apartment,2,1458.1,1197.4,2,10,29,1,1,Furnished,North,Yes,4.4,11.64,12,48.4,10,4160,Builder,Yes,45800,142.74
+PROP-10093,2025-11-17,Bengaluru,Electronic City,Apartment,3,1188.5,997.1,17,12,28,2,2,Unfurnished,South-East,No,6.21,14.74,8,47.5,7.3,4280,Builder,Yes,43000,87.63
+PROP-10094,2025-06-27,Bengaluru,Marathahalli,Apartment,4,1861.0,1502.0,6,5,9,3,1,Unfurnished,East,Yes,9.16,6.23,2,40.9,5.3,6890,Owner,No,88600,152.2
+PROP-10095,2026-07-05,Bengaluru,Electronic City,Apartment,4,1619.7,1378.9,0,13,13,4,3,Semi-Furnished,West,Yes,0.2,14.07,7,35.4,7.3,3410,Broker,Yes,47000,176.54
+PROP-10096,2026-08-26,Chennai,Anna Nagar,Apartment,2,810.5,567.8,11,3,3,2,0,Furnished,South,yes,0.2,21.15,5,41.9,7.8,4080,Builder,Yes,17900,75.6
+PROP-10097,2025-10-11,Delhi NCR,Ghaziabad,Apartment,2,1132.4,812.2,36,17,35,3,1,Unfurnished,South-East,Yes,,5.88,8,66.0,6.9,2640,Broker,Yes,50800,86.32
+PROP-10098,2026-01-02,Hyderabad,Madhapur,Independent House,3,1950.3,1563.6,0,3,4,2,1,Semi-Furnished,South-East,No,5.09,1.83,5,70.7,2.2,9680,Builder,No,64800,142.06
+PROP-10099,2025-05-16,Chennai,Anna Nagar,Apartment,2,1085.5,900.0,15,9,9,2,2,Furnished,North,Yes,0.39,4.01,0,64.4,10.0,3850,Builder,No,23800,101.95
+PROP-10100,2025-05-16,Delhi NCR,Gurugram,Apartment,2,1414.7,,13,7,20,2,2,,North,Yes,3.67,21.79,8,52.1,7.1,6270,Broker,No,44600,103.45
+PROP-10101,2025-05-24,Hyderabad,Gachibowli,Villa,3,1326.9,935.0,24,2,2,3,0,Semi-Furnished,North-East,Yes,0.2,17.62,10,41.6,2.7,5510,Owner,Yes,52400,92.41
+PROP-10102,2025-01-13,Delhi NCR,Dwarka,Villa,3,1403.5,1117.2,9,Ground,3,3,1,Semi-Furnished,South,No,9.27,12.84,12,47.1,7.9,3360,Owner,Yes,48200,143.16
+PROP-10103,2025-06-06,Delhi NCR,Noida,Apartment,4,1762.4,1253.2,,Ground,5,5,0,Unfurnished,North,No,7.95,11.27,4,29.0,,6090,Owner,Yes,60900,127.43
+PROP-10104,2025-09-23,Hyderabad,Kondapur,Apartment,2,1260.3,1000.9,38,1st,16,2,0,Semi-Furnished,North,Yes,0.5,12.9,1,15.7,8.3,2570,Owner,Yes,38300,59.09
+PROP-10105,2025-01-13,Hyderabad,Madhapur,Villa,3,1753.8,1328.1,5,Ground,3,3,1,Semi-Furnished,West,No,5.76,17.05,12,58.7,7.3,7940,Builder,Yes,33400,147.03
+PROP-10106,2026-07-21,Hyderabad,Gachibowli,Apartment,4,2268.7,1845.2,3,8,21,3,1,Unfurnished,South-East,No,,18.93,0,68.1,6.4,8230,Builder,Yes,58700,149.48
+PROP-10107,2025-11-11,Bengaluru,HSR Layout,Apartment,2,898.6,706.8,3,11,13,3,2,Unfurnished,North,No,8.87,14.81,10,59.5,2.2,4790,Builder,Yes,40700,69.36
+PROP-10108,2025-12-01,Bengaluru,Whitefield,Studio,1,633.9,447.3,9,2,4,1,1,Semi-Furnished,South-East,No,5.77,21.58,6,51.4,5.1,1920,Broker,No,20500,35.76
+PROP-10109,2025-04-04,Hyderabad,Gachibowli,Independent House,2,1061.5,742.0,5,3rd,3,2,3,Unfurnished,East,Yes,5.66,11.06,12,30.3,3.8,4710,Builder,Yes,27500,106.37
+PROP-10110,2025-07-22,Hyderabad,Madhapur,Apartment,5,2893.0,1983.4,2,3,16,5,1,Unfurnished,South,Yes,6.85,16.52,10,28.2,8.0,11720,Broker,Yes,121300,210.73
+PROP-10111,2026-07-18,Bengaluru,Electronic City,Apartment,4,,1931.3,43,26,28,4,1,Semi-Furnished,West,Yes,5.27,17.9,4,33.4,7.6,9430,Owner,Yes,80400,140.0
+PROP-10112,2025-08-27,Bengaluru,Yelahanka,Apartment,5,3277.9,2549.8,17,31,31,5,2,,West,Yes,,22.81,0,45.5,10.0,7230,Broker,Yes,140800,248.06
+PROP-10113,2026-05-20,Hyderabad,Kondapur,Apartment,4,2316.6,,8,11,25,4,1,Semi-Furnished,South-East,Yes,5.48,12.64,11,29.6,9.3,5790,Broker,Yes,86800,176.93
+PROP-10114,2025-05-20,Hyderabad,Manikonda,Apartment,3,1619.3,1101.3,14,12,12,3,0,,South-East,No,3.71,15.57,5,11.4,7.6,8580,Owner,Yes,40900,121.23
+PROP-10115,2025-08-15,Chennai,Anna Nagar,Villa,5,2802.2,2394.1,5,1,3,5,1,Semi-Furnished,East,Yes,3.73,1.0,9,5,10,15070,Builder,Yes,107900,279.04
+PROP-10116,2026-07-14,Bengaluru,Whitefield,Apartment,5,3384.7,2403.9,12,14,22,4,1,Unfurnished,North,Yes,3.86,16.08,0,17.1,4.8,18250,Broker,Yes,108200,256.47
+PROP-10117,2026-03-21,Chennai,Tambaram,Apartment,3,1607.0,1337.4,12,8,21,2,0,Unfurnished,West,Yes,11.81,21.08,1,17.6,10,8240,Owner,Yes,52000,115.26
+PROP-10118,2026-05-16,Hyderabad,Manikonda,Villa,4,2359.6,1717.2,43,1st,4,3,1,Unfurnished,South-East,Yes,7.18,10.36,3,42.9,,5400,Broker,Yes,65000,161.66
+PROP-10119,2026-07-03,Hyderabad,Manikonda,Apartment,2,960.7,661.0,12,7,17,2,1,Unfurnished,South-East,Yes,7.4,16.8,8,18.9,8.9,2690,Builder,Yes,29300,94.54
+PROP-10120,2025-03-10,Hyderabad,Madhapur,Apartment,4,1999.0,1616.3,0,1,10,4,1,Furnished,South,No,4.71,18.66,10,54.0,0,8390,Broker,Yes,79700,159.89
+PROP-10121,2026-01-28,Pune,Hadapsar,Apartment,2,678.9,557.8,13,26,34,1,1,Unfurnished,North-East,Yes,6.28,12.79,1,35.2,6.8,2040,,Yes,17400,46.97
+PROP-10122,2025-10-03,Hyderabad,Kukatpally,Apartment,3,1411.9,1136.4,25,1,16,3,2,Unfurnished,East,Yes,6.47,21.12,10,15.6,10,3490,Broker,Yes,53400,115.18
+PROP-10123,2026-01-05,Pune,Hinjewadi,Apartment,2,1189.2,971.3,0,4,4,2,0,Semi-Furnished,West,Yes,8.83,1.92,0,57.0,10,3210,Builder,Yes,21000,90.36
+PROP-10124,2025-01-21,Bengaluru,Whitefield,Villa,3,2063.8,1584.9,0,2nd,3,3,2,Semi-Furnished,East,Yes,7.59,26.56,12,51.6,10,8800,Owner,Yes,67800,201.72
+PROP-10125,2026-01-19,Delhi NCR,Gurugram,Apartment,2,1207.6,869.8,22,20,20,2,1,Semi-Furnished,East,Yes,5.36,19.32,8,49.2,5.4,2850,Owner,Yes,51700,65.63
+PROP-10126,2026-02-19,PUNE,Baner,Apartment,5,2755.4,2191.4,13,6,20,5,1,Unfurnished,North,No,2.84,16.56,10,21.5,5.2,5760,Owner,Yes,100800,191.64
+PROP-10127,2026-03-07,Hyderabad,Manikonda,Independent House,2,984.3,782.5,0,2,3,3,1,Unfurnished,South,No,4.14,4.65,2,74.4,,4220,Builder,Yes,38300,95.43
+PROP-10128,2025-12-07,Bengaluru,Whitefield,Apartment,4,2468.4,1937.8,12,7,33,4,1,Semi-Furnished,South,Yes,4.37,15.71,9,57.6,10,6170,Broker,Yes,58100,176.81
+PROP-10129,2025-08-20,Hyderabad,Gachibowli,Apartment,2,1058.1,865.1,4,1,6,2,1,Furnished,West,Yes,0.2,11.11,0,62.9,5.1,4080,Builder,Yes,37700,90.87
+PROP-10130,2025-01-23,Bengaluru,Yelahanka,Apartment,1,701.0,482.4,17,21,34,1,2,Furnished,East,No,3.64,1.86,2,43.6,9.9,2390,Builder,Yes,17500,76.71
+PROP-10131,2025-05-21,Hyderabad,Madhapur,Villa,4,1799.1,1473.1,17,Ground,1,3,0,Unfurnished,West,Yes,1.22,11.18,2,48.7,10,3660,Owner,Yes,54800,174.66
+PROP-10132,2025-04-03,Pune,Wakad,Apartment,2,915.4,655.2,11,5,13,2,1,Unfurnished,West,No,7.25,10.47,3,25.0,8.7,4740,Broker,Yes,18200,75.97
+PROP-10133,2025-07-07,Hyderabad,Gachibowli,Independent House,3,810.5,589.7,30,1,1,3,1,Unfurnished,North,yes,7.87,21.22,5,31.3,8.9,3390,Broker,Yes,30400,41.73
+PROP-10134,2026-03-28,Delhi NCR,Faridabad,Villa,4,2456.5,2022.8,30,1,1,4,2,Semi-Furnished,South,Yes,8.12,15.25,10,20.4,,12580,Owner,Yes,108100,202.79
+PROP-10135,2025-06-10,Hyderabad,Madhapur,Apartment,4,1554.6,1259.6,7,16,22,5,2,Semi-Furnished,West,Yes,4.83,19.95,10,36.3,6.3,7610,Broker,Yes,28400,128.43
+PROP-10136,2025-11-08,Hyderabad,Kukatpally,Apartment,2,1092.4,797.5,0,2,16,3,1,Furnished,West,Yes,4.62,24.99,0,38.8,8.8,4320,Builder,Yes,35500,113.2
+PROP-10137,2026-02-24,Pune,Baner,Independent House,2,1176.5,896.3,11,2,4,1,0,Semi-Furnished,North,Yes,8.9,1.0,4,27.2,6.6,2790,Broker,Yes,40800,83.94
+PROP-10138,2026-08-16,Delhi NCR,Faridabad,Apartment,4,2036.3,1454.5,,7,8,4,2,Furnished,South,No,9.53,24.92,8,42.7,9.2,7510,Owner,No,50800,106.19
+PROP-10139,2025-08-11,Chennai,OMR,Apartment,3,1794.7,1344.6,3,8,16,3,3,Furnished,West,No,7.7,20.76,11,11.3,5.4,7030,Builder,Yes,53900,130.57
+PROP-10140,2025-02-27,Bengaluru,Electronic City,Studio,1,581.8,463.7,18,Ground,3,1,1,Semi-Furnished,South-East,Yes,3.79,6.71,8,11.9,6.3,2810,Owner,Yes,14800,68.71
+PROP-10141,2026-02-01,Chennai,Velachery,Studio,1,623.2,430.8,5,2nd,2,1,0,Furnished,South-East,Yes,5.57,23.47,6,44.2,10,2990,Builder,Yes,24100,54.59
+PROP-10142,2025-09-28,Delhi NCR,Gurugram,Apartment,2,770.9,610.3,12,24,24,3,1,SEMI-FURNISHED,South-East,No,0.2,12.3,10,51.6,10,3520,Builder,Yes,21300,98.2
+PROP-10143,2025-12-06,Pune,Wakad,Apartment,3,1623.6,1375.4,8,15,20,4,1,Unfurnished,South-East,Yes,5.19,17.88,1,44.1,6.1,6330,Owner,Yes,58600,107.52
+PROP-10144,2026-06-05,Pune,Baner,Studio,1,926.0,767.0,10,1,4,2,2,Unfurnished,North,Yes,4.75,6.78,1,74.1,5.3,2770,Broker,Yes,23000,71.74
+PROP-10145,2025-12-06,Hyderabad,Kondapur,Apartment,2,1465.5,1200.6,21,1,5,2,2,Semi furnished ,North,Yes,8.02,1.0,11,45.6,4.4,7750,Broker,Yes,42500,94.75
+PROP-10146,2026-03-25,Hyderabad,Gachibowli,Apartment,2,1102.6,801.1,0,1,2,3,0,Semi-Furnished,North,No,7.81,4.16,1,29.3,,3320,Owner,Yes,27300,96.28
+PROP-10147,2026-02-27,Chennai,OMR,Apartment,3,1731.9,1426.3,15,4,10,3,3,Unfurnished,North-East,Yes,8.96,15.87,6,5,6.1,5310,Broker,No,43600,124.59
+PROP-10148,2026-04-07,Hyderabad,Manikonda,Independent House,2,965.8,,14,4,4,1,1,Unfurnished,North,Yes,,1.0,5,22.9,9.2,2270,Owner,No,24800,113.28
+PROP-10149,2025-05-24,Pune,Hadapsar,Apartment,3,1799.8,1278.5,0,13,15,3,2,Unfurnished,South-East,Yes,1.25,14.45,12,35.1,9.6,4710,Owner,Yes,63900,159.04
+PROP-10150,2026-01-08,Pune,Hinjewadi,Independent House,4,2807.9,2228.6,13,Ground,2,5,1,Furnished,North-East,Yes,0.79,14.55,3,26.9,9.3,14040,Builder,Yes,52100,207.25
+PROP-10151,2025-11-28,Pune,Hadapsar,Villa,4,,1836.2,13,2,2,4,0,Semi-Furnished,South,Yes,,15.01,3,13.8,6.8,7890,Broker,No,41000,209.19
+PROP-10152,2025-10-15,Hyderabad,Madhapur,Apartment,3,1472.1,1100.9,1,4,5,3,1,Furnished,North-East,Yes,7.84,16.14,12,28.6,4.5,5530,Builder,Yes,29200,120.12
+PROP-10153,2026-06-14,Hyderabad,Madhapur,Apartment,4,1982.8,1466.2,2,30,31,4,1,Semi-Furnished,West,Yes,8.95,15.95,2,54.7,9.0,10150,Builder,Yes,79600,147.43
+PROP-10154,2025-07-27,Hyderabad,Madhapur,Independent House,2,907.7,716.4,0,4,4,2,2,Furnished,South,Yes,5.48,9.27,10,41.3,6.0,3690,Builder,Yes,18700,112.53
+PROP-10155,2026-05-09,DELHI NCR,Faridabad,Independent House,3,1814.6,1429.8,24,Ground,1,3,2,Furnished,North-East,No,9.35,6.21,10,26.8,6.6,9190,Owner,Yes,82400,145.02
+PROP-10156,2025-09-25,Chennai,Tambaram,Apartment,2,1221.1,935.2,11,26,35,2,1,Semi-Furnished,North,Yes,11.29,14.12,10,43.3,8.2,4190,Builder,Yes,37600,111.6
+PROP-10157,2025-08-08,Bengaluru,HSR Layout,Apartment,5,2708.6,2111.0,12,5,12,6,1,Unfurnished,East,Yes,5.3,6.53,2,56.4,4.9,12510,Owner,Yes,69900,221.81
+PROP-10158,2025-01-11,Pune,Hinjewadi,Apartment,5,2054.7,1399.2,13,2nd,28,5,1,Semi-Furnished,South-East,Yes,5.8,23.11,8,39.8,6.0,4520,Broker,Yes,56500,169.3
+PROP-10159,2026-07-27,Pune,Hadapsar,Apartment,1,535.7,386.6,3,2nd,3,1,3,Unfurnished,East,No,2.8,19.1,9,42.9,6.0,2390,Broker,Yes,17500,47.91
+PROP-10160,2026-08-24,Hyderabad,Manikonda,Independent House,3,2135.3,1607.3,14,1st,1,2,2,Furnished,North-East,No,4.86,3.9,6,30.8,2.5,9930,Broker,Yes,62000,162.62
+PROP-10161,2025-07-14,Bengaluru,HSR Layout,Apartment,3,1969.1,1420.5,9,16,23,4,0,Furnished,South,Yes,0.38,20.4,5,74.9,9.3,7220,Owner,No,56800,171.89
+PROP-10162,2026-06-08,Delhi NCR,Noida,Apartment,4,2813.7,2336.9,0,5,6,4,1,Semi-Furnished,North-East,No,9.31,17.39,5,29.4,0,14460,Broker,Yes,131200,195.38
+PROP-10163,2025-12-18,Hyderabad,Manikonda,Apartment,3,,661.4,18,7,12,2,2,Semi-Furnished,South-East,Yes,3.32,7.42,1,31.9,9.7,2810,Owner,Yes,28300,94.58
+PROP-10164,2025-11-20,Chennai,Porur,Apartment,2,1051.0,800.0,0,4,7,2,1,Furnished,South,Yes,0.81,17.35,12,39.7,9.3,2600,Broker,Yes,31100,108.01
+PROP-10165,2025-12-30,Bengaluru,Yelahanka,Independent House,1,706.8,508.0,12,1,1,1,1,Semi-Furnished,East,Yes,2.19,16.93,10,52.4,6.9,2840,Owner,Yes,30600,54.38
+PROP-10166,2026-01-07,Bengaluru,Whitefield,Apartment,2,1028.6,816.4,12,13,22,3,1,Furnished,North,Yes,,10.13,10,53.5,6.8,4380,Builder,Yes,47000,101.86
+PROP-10167,2025-08-23,pune,Baner,Apartment,2,1351.7,1080.2,11,1st,6,1,0,Furnished,West,Yes,8.07,14.66,12,49.5,7.2,5630,Builder,No,34000,81.16
+PROP-10168,2026-07-07,Hyderabad,Kondapur,Apartment,3,1932.6,1613.4,5,17,35,4,1,Furnished,South-East,Yes,8.14,6.99,11,32.5,5.5,7410,Owner,Yes,50900,135.68
+PROP-10169,2026-03-24,Hyderabad,Madhapur,Apartment,2,1049.2,867.4,9,9,23,2,1,Semi-Furnished,West,No,4.36,13.64,6,48.4,3.1,5020,Owner,Yes,41100,86.29
+PROP-10170,2025-01-23,Bengaluru,Marathahalli,Apartment,1,813.6,644.8,,9,18,2,2,Semi-Furnished,North,Yes,4.18,11.05,9,64.1,4.2,3030,Builder,Yes,39600,85.99
+PROP-10171,2026-01-26,Hyderabad,Madhapur,Apartment,2,,772.8,9,9,27,2,3,Semi-Furnished,North,Yes,9.3,1.0,0,40.3,9.2,4420,Builder,No,27200,121.73
+PROP-10172,2025-08-12,Hyderabad,Kukatpally,Apartment,5,3640.3,2605.9,9,7,14,5,2,Unfurnished,East,Yes,3.34,11.92,8,15.8,5.7,15420,Builder,No,141000,253.59
+PROP-10173,2025-08-27,Hyderabad,Kukatpally,Apartment,2,1034.4,850.3,26,9,31,2,2,Unfurnished,West,Yes,0.2,2.52,12,38.0,6.7,4400,Owner,Yes,21700,65.86
+PROP-10174,2026-06-03,Bengaluru,Marathahalli,Villa,2,952.5,712.5,39,3rd,3,2,1,,West,Yes,2.33,21.09,8,11.1,8.5,3400,Broker,Yes,32500,78.69
+PROP-10175,2025-04-20,Hyderabad,Gachibowli,Apartment,2,929.0,642.3,4,6,25,3,2,Semi-Furnished,South,Yes,2.72,22.49,1,61.3,8.9,2000,Broker,Yes,17400,100.84
+PROP-10176,2025-08-10,Delhi NCR,Faridabad,Apartment,3,1761.1,1278.6,31,5,32,3,2,Unfurnished,North-East,No,8.15,23.54,12,23.1,4.7,5160,Builder,Yes,49900,85.43
+PROP-10177,2025-12-27,Hyderabad,Kondapur,Apartment,2,909.0,720.4,8,23,27,1,2,Semi-Furnished,South-East,Yes,1.33,1.01,2,47.3,4.8,3420,Owner,Yes,29400,54.25
+PROP-10178,2025-10-10,Delhi NCR,Faridabad,Villa,3,1256.9,1018.9,1,2,3,3,3,Unfurnished,North,No,2.13,6.53,4,31.1,10,3460,Builder,Yes,57200,171.67
+PROP-10179,2026-09-02,Pune,Hadapsar,Independent House,2,1222.2,861.6,11,Ground,2,2,2,Unfurnished,West,Yes,5.07,16.25,5,44.6,6.0,5980,Owner,Yes,44700,116.92
+PROP-10180,2026-04-02,Bengaluru,Whitefield,Independent House,2,1129.9,947.3,0,2,2,3,2,Semi-Furnished,South-East,Yes,7.85,12.81,8,46.4,5.6,5020,,Yes,55900,111.56
+PROP-10181,2025-09-06,Pune,Hinjewadi,Apartment,2,970.7,674.5,12,4,4,2,1,Semi-Furnished,West,No,6.01,16.25,8,47.1,7.6,3880,Owner,No,27300,68.69
+PROP-10182,2025-06-01,Delhi NCR,Gurugram,Apartment,2,885.3,660.2,12,5,20,2,1,Furnished,West,Yes,7.62,1.0,3,55.3,7.8,4120,Broker,Yes,19100,94.31
+PROP-10183,2026-04-22,Chennai,OMR,Apartment,4,2048.3,1515.2,17,3,14,4,1,Semi-Furnished,South,Yes,3.22,7.57,10,29.9,6.9,4530,Builder,Yes,48200,158.63
+PROP-10184,2025-12-27,Hyderabad,Madhapur,Independent House,1,656.1,548.6,6,1,1,2,1,Unfurnished,North-East,No,2.87,3.24,0,32.6,5.7,2080,Owner,Yes,17300,83.6
+PROP-10185,2025-12-04,Bengaluru,Yelahanka,Apartment,1,644.4,554.2,17,7,18,1,1,Semi-Furnished,South,Yes,0.2,25.51,9,59.0,5.0,2230,Owner,Yes,19400,60.86
+PROP-10186,2025-10-08,Pune,Kharadi,Independent House,2,1252.4,,5,2,2,2,1,Semi-Furnished,South-East,Yes,4.53,7.56,11,72.0,8.9,6770,Broker,Yes,41400,105.85
+PROP-10187,2025-01-16,Hyderabad,Kondapur,Apartment,3,1382.4,1081.1,5,7,15,2,1,Semi-Furnished,West,Yes,6.91,7.02,10,20.0,10.0,5140,Builder,Yes,26000,130.23
+PROP-10188,2026-04-13,Pune,Kharadi,Villa,2,1008.7,854.3,25,3,3,2,1,Unfurnished,South-East,No,4.2,12.2,11,26.3,3.5,4280,Owner,Yes,19100,60.96
+PROP-10189,2025-07-04,Hyderabad,Kondapur,Apartment,2,1027.5,794.2,0,1st,4,2,2,Semi-Furnished,East,Yes,0.78,18.02,0,29.2,3.2,3720,Owner,Yes,30800,109.22
+PROP-10190,2025-06-24,Hyderabad,Kukatpally,Apartment,1,581.3,442.7,23,2nd,6,1,2,,North,Yes,,11.53,11,37.0,4.6,2200,Broker,Yes,15800,56.05
+PROP-10191,2026-05-03,Pune,Kharadi,Apartment,2,1057.4,777.6,6,9,29,2,0,Unfurnished,South,Yes,4.85,12.41,7,54.3,5.2,2140,Broker,Yes,31300,55.91
+PROP-10192,2026-08-16,Hyderabad,Manikonda,Apartment,3,1685.1,1394.6,36,1,3,4,2,Unfurnished,North,Yes,6.84,9.7,10,47.0,6.6,7500,Owner,Yes,69400,110.44
+PROP-10193,2025-10-22,Hyderabad,Madhapur,Apartment,4,2485.2,,40,1,9,4,1,Semi-Furnished,South,Yes,3.59,11.32,11,61.5,,5730,Broker,Yes,91700,135.69
+PROP-10194,2025-08-06,Pune,Hadapsar,Apartment,2,930.3,726.8,0,9,12,2,2,Furnished,North,Yes,4.22,1.31,11,48.3,9.3,5110,Owner,Yes,26900,93.09
+PROP-10195,2026-07-04,Hyderabad,Madhapur,Apartment,1,604.1,494.2,19,10,22,1,2,Semi-Furnished,North,No,6.95,25.95,10,24.0,6.0,1280,Builder,Yes,17600,20.15
+PROP-10196,2025-10-06,Delhi NCR,Gurugram,Independent House,2,1131.0,916.7,5,2nd,3,2,1,Unfurnished,West,Yes,8.55,18.5,6,24.6,7.6,5360,Builder,Yes,44400,102.42
+PROP-10197,2025-05-16,Bengaluru,Electronic City,Apartment,4,2043.1,1453.7,18,1,3,4,1,Semi-Furnished,North-East,Yes,2.77,20.29,8,36.7,8.9,9590,Builder,No,73300,175.99
+PROP-10198,2025-06-11,Delhi NCR,Gurugram,Apartment,4,2289.3,1839.8,6,Ground,3,5,2,Semi-Furnished,North,Yes,4.01,7.88,5,73.2,7.7,8840,Broker,Yes,62900,198.58
+PROP-10199,2026-04-02,Hyderabad,Manikonda,Apartment,2,819.8,597.5,6,18,19,2,1,Unfurnished,East,Yes,5.56,14.03,10,57.0,7.8,1890,Owner,Yes,32300,70.03
+PROP-10200,2025-03-08,Chennai,Tambaram,Apartment,4,2874.8,2350.5,6,3,30,4,1,Furnished,South,No,4.2,2.03,6,18.3,7.5,9070,Broker,Yes,82000,236.44
+PROP-10201,2026-03-22,Bengaluru,Marathahalli,Independent House,2,,699.3,18,1,1,1,2,,West,Yes,4.98,18.72,2,57.5,6.9,2890,Broker,Yes,39400,74.71
+PROP-10202,2025-05-31,Hyderabad,Gachibowli,Villa,4,2710.1,2251.0,17,1st,1,4,0,Unfurnished,North-East,No,7.72,7.58,10,54.9,7.0,6740,Owner,Yes,101500,210.17
+PROP-10203,2025-04-23,Bengaluru,HSR Layout,Apartment,3,1691.3,1246.5,20,13,20,3,3,Semi-Furnished,North-East,No,3.38,15.57,4,73.8,7.3,9110,Builder,Yes,82800,144.61
+PROP-10204,2026-03-02,Chennai,Anna Nagar,Apartment,3,1397.3,1052.3,,3,9,3,2,Unfurnished,South-East,Yes,5.7,23.59,2,43.7,6.8,4930,Broker,Yes,44800,101.66
+PROP-10205,2025-03-23,Delhi NCR,Ghaziabad,Independent House,3,1268.8,1050.1,11,Ground,2,3,1,Semi-Furnished,South-East,Yes,1.41,13.42,8,38.3,7.0,2710,Owner,Yes,45400,130.34
+PROP-10206,2025-10-24,Delhi NCR,Dwarka,Apartment,1,320,268.9,17,5,5,2,2,Unfurnished,North,No,6.77,12.49,7,41.5,3.5,1460,Owner,No,13300,25.57
+PROP-10207,2025-06-04,Chennai,Tambaram,Villa,4,2070.2,1584.0,8,1,1,5,0,Semi-Furnished,South,Yes,6.38,8.96,2,32.4,6.1,6000,Broker,Yes,79200,186.05
+PROP-10208,2026-05-03,Chennai,Velachery,Apartment,4,2379.5,1987.3,7,7,10,4,2,Unfurnished,West,No,5.96,18.07,5,60.2,7.2,11580,Builder,Yes,67200,166.89
+PROP-10209,2025-04-11,Chennai,Tambaram,Apartment,3,1382.1,1071.8,13,14,19,3,2,Furnished,South-East,No,8.13,18.45,5,58.4,5.1,7210,Broker,Yes,32400,95.83
+PROP-10210,2025-05-05,Pune,Kharadi,Villa,4,1977.8,1414.3,3,Ground,1,3,0,Unfurnished,North,Yes,9.11,6.8,4,62.7,7.4,4590,Broker,Yes,69200,165.0
+PROP-10211,2026-01-27,Hyderabad,Manikonda,Apartment,3,1841.5,1572.8,3,4,12,3,1,Furnished,South-East,Yes,10.45,13.14,11,64.5,5.2,5770,Builder,Yes,67500,145.93
+PROP-10212,2025-02-08,Chennai,Velachery,Apartment,3,1544.5,,5,8,10,3,1,Semi-Furnished,West,Yes,3.48,15.67,9,45.8,6.7,3190,Owner,Yes,26700,102.76
+PROP-10213,2025-12-15,Hyderabad,Madhapur,Independent House,3,891.4,684.9,7,Ground,1,2,1,,West,Yes,0.2,8.74,5,35.3,5.4,3760,Broker,Yes,27500,83.7
+PROP-10214,2026-04-06,Pune,Kharadi,Apartment,5,3231.1,2581.4,7,15,23,4,2,Semi-Furnished,South,Yes,7.93,17.41,9,65.9,7.3,15430,Owner,Yes,122300,216.58
+PROP-10215,2025-11-11,Hyderabad,Madhapur,Apartment,3,1684.9,1390.5,10,30,30,4,1,Semi-Furnished,North,Yes,7.83,21.42,7,60.5,5.7,4800,Owner,Yes,55900,130.14
+PROP-10216,2026-01-14,Delhi NCR,Gurugram,Independent House,2,1199.1,922.7,11,2,4,2,1,Furnished,North-East,Yes,2.58,5.63,3,79.3,7.4,3810,Builder,Yes,37600,98.89
+PROP-10217,2025-06-28,Bengaluru,Yelahanka,Apartment,2,1199.5,983.5,40,Ground,6,1,1,Unfurnished,South-East,Yes,3.73,24.02,12,45.5,4.2,3260,Owner,Yes,39500,49.3
+PROP-10218,2025-06-30,Bengaluru,Whitefield,Apartment,3,1591.2,1181.6,15,6,34,4,1,Semi-Furnished,North-East,Yes,4.87,3.92,3,47.0,7.0,7620,Owner,No,55200,140.93
+PROP-10219,2025-04-23,Delhi NCR,Gurugram,Apartment,2,893.7,,12,Ground,3,1,2,Unfurnished,North,Yes,10.03,23.4,11,22.2,8.1,3100,Broker,No,23500,81.82
+PROP-10220,2025-08-14,Delhi NCR,Faridabad,Independent House,1,760.6,,17,1,4,1,1,Unfurnished,East,No,5.98,14.58,11,50.0,4.2,1820,Owner,Yes,30900,49.72
+PROP-10221,2025-02-11,Pune,Hadapsar,Independent House,3,1359.4,1025.1,7,2,2,3,1,Semi-Furnished,South-East,No,4.85,20.97,3,58.7,4.0,3430,Owner,Yes,51900,111.27
+PROP-10222,2026-02-20,Bengaluru,Marathahalli,Apartment,4,1733.4,1435.0,,1,1,4,1,Unfurnished,North,Yes,5.52,11.47,7,33.7,9.3,3610,Owner,Yes,79700,152.25
+PROP-10223,2025-02-11,DELHI NCR,Faridabad,Villa,2,920.2,740.1,3,3,3,3,1,Semi-Furnished,South-East,Yes,8.74,5.73,0,7.0,6.8,3010,Builder,Yes,30100,122.65
+PROP-10224,2025-10-27,Hyderabad,Kondapur,Apartment,2,1265.6,983.5,1,12,14,2,1,Furnished,North-East,Yes,0.45,13.07,5,47.7,4.9,6210,Owner,Yes,47900,111.23
+PROP-10225,2025-01-22,Bengaluru,Whitefield,Apartment,4,2536.3,1806.3,13,Ground,5,4,1,Semi-Furnished,West,Yes,7.11,30.05,0,30.7,10,9880,Builder,Yes,85800,208.57
+PROP-10226,2026-07-03,Hyderabad,Manikonda,Apartment,2,1197.6,888.3,5,28,34,2,1,Unfurnished,East,Yes,2.47,12.99,4,60.4,7.3,3880,Owner,Yes,48100,95.79
+PROP-10227,2025-06-09,Delhi NCR,Noida,Apartment,2,1296.9,984.8,9,8,14,1,2,Furnished,South,Yes,2.9,12.47,4,44.6,7.5,6820,Broker,No,58500,109.62
+PROP-10228,2025-08-16,Bengaluru,HSR Layout,Apartment,2,536.3,455.8,19,10,29,1,2,Furnished,South,Yes,,14.66,9,44.4,8.4,1250,Builder,Yes,20300,55.1
+PROP-10229,2025-03-31,Chennai,Velachery,Apartment,3,1157.9,805.6,13,7,13,3,1,Semi-Furnished,North,No,3.6,16.54,6,31.4,7.1,3470,Owner,No,43300,108.75
+PROP-10230,2025-05-21,Bengaluru,Marathahalli,Apartment,4,1777.9,1519.5,0,1st,6,4,3,Semi-Furnished,East,Yes,8.04,24.89,1,35.3,10,5260,Builder,Yes,66400,175.09
+PROP-10231,2025-10-11,Delhi NCR,Dwarka,Apartment,1,752.3,552.7,0,7,30,1,2,Unfurnished,East,No,6.68,6.67,10,35.4,4.3,1980,Broker,Yes,15700,83.22
+PROP-10232,2025-03-20,Bengaluru,Marathahalli,Apartment,4,2101.8,1666.8,0,1,33,4,1,Unfurnished,West,No,,16.25,4,49.2,3.9,11230,Builder,Yes,82700,184.79
+PROP-10233,2026-07-27,Chennai,Velachery,Villa,4,2373.9,1749.3,15,2,3,4,0,Semi-Furnished,South,Yes,1.63,12.73,7,11.3,9.6,6100,Builder,Yes,86500,213.35
+PROP-10234,2025-05-09,Pune,Hadapsar,Villa,4,1778.3,1342.8,12,1st,1,4,1,Semi-Furnished,North-East,Yes,3.97,17.73,4,40.2,10,4940,Broker,Yes,38300,173.22
+PROP-10235,2025-10-12,Delhi NCR,Faridabad,Villa,4,2803.7,2288.7,28,Ground,1,4,0,Unfurnished,North,Yes,6.28,13.7,1,,6.5,14450,Builder,Yes,63400,221.28
+PROP-10236,2026-01-24,Bengaluru,Yelahanka,Apartment,3,1684.8,1175.8,8,4,13,3,2,Semi-Furnished,South-East,Yes,4.54,15.36,11,60.5,4.1,4460,Owner,Yes,75600,146.28
+PROP-10237,2026-05-03,Pune,Baner,Apartment,5,3186.2,2244.6,12,17,19,4,0,Semi-Furnished,West,Yes,2.5,9.93,7,,9.2,17360,Owner,Yes,115700,212.38
+PROP-10238,2025-12-31,Pune,Hinjewadi,Apartment,3,1583.1,1269.3,15,2nd,7,3,1,Semi furnished ,West,Yes,7.05,19.42,4,20.1,7.5,6460,Broker,Yes,59200,86.22
+PROP-10239,2026-05-20,Pune,Baner,Studio,1,584.1,445.0,9,3rd,4,1,0,Semi-Furnished,North,Yes,6.84,14.24,9,38.0,6.2,55846,Builder,Yes,19400,46.12
+PROP-10240,2025-04-23,Bengaluru,HSR Layout,Apartment,4,2756.9,2143.0,23,6,8,4,1,Semi-Furnished,West,Yes,5.42,18.06,12,63.0,6.2,10260,Builder,Yes,96600,205.9
+PROP-10241,2025-12-20,Bengaluru,Yelahanka,Villa,4,1431.6,1104.0,11,4,4,4,1,Semi-Furnished,East,Yes,5.79,13.87,5,26.7,9.9,3000,Broker,Yes,34400,175.19
+PROP-10242,2025-07-30,Hyderabad,Kondapur,Apartment,3,1600.0,1350.2,15,2nd,2,3,2,Semi-Furnished,North-East,No,5.93,12.37,9,66.6,7.4,6390,Builder,Yes,47600,117.78
+PROP-10243,2026-03-14,Bengaluru,HSR Layout,Apartment,2,1174.5,933.0,8,4,5,2,1,Unfurnished,North-East,Yes,,24.91,1,37.8,4.6,4780,Builder,Yes,42600,90.66
+PROP-10244,2025-03-03,Bengaluru,HSR Layout,Apartment,3,1161.4,831.6,0,Ground,12,4,2,Semi-Furnished,South,Yes,7.46,20.9,4,8.3,9.5,4820,Broker,Yes,43300,126.9
+PROP-10245,2026-03-23,Bengaluru,Electronic City,Apartment,3,1602.4,1208.0,0,5,5,3,2,Unfurnished,East,Yes,4.62,22.98,6,42.7,8.3,3360,Broker,Yes,56100,148.05
+PROP-10246,2026-05-28,Hyderabad,Gachibowli,Apartment,4,2051.4,1638.2,16,1st,32,3,1,Unfurnished,North,No,10.57,7.95,10,50.4,7.2,10130,Broker,Yes,65000,129.65
+PROP-10247,2025-11-21,Pune,Hadapsar,Independent House,4,2190.7,1583.5,26,2,3,4,2,Semi-Furnished,West,Yes,6.59,16.52,4,30.6,7.8,8900,Owner,Yes,82200,150.38
+PROP-10248,2025-04-03,Hyderabad,Kondapur,Apartment,3,1583.0,1310.5,30,1st,4,3,1,Furnished,East,No,5.94,10.07,3,23.8,6.9,8210,Owner,No,38200,93.71
+PROP-10249,2026-03-07,Chennai,Porur,Apartment,4,2683.1,2249.3,,25,27,3,1,Unfurnished,West,Yes,0.2,20.48,11,10.3,9.3,6310,Builder,Yes,50500,200.24
+PROP-10250,2025-12-02,Bengaluru,Whitefield,Villa,4,1602.8,1142.9,,2,3,3,1,Semi-Furnished,South-East,No,6.44,19.59,12,22.0,7.7,8110,Builder,Yes,61000,136.8
+PROP-10251,2026-04-10,hyderabad,Kukatpally,Apartment,2,792.8,620.5,25,2,15,2,1,Furnished,North,Yes,2.49,15.85,1,51.4,6.9,3160,Builder,Yes,29000,55.56
+PROP-10252,2026-02-12,Hyderabad,Madhapur,Apartment,3,1557.3,1095.5,16,6,19,3,1,Semi-Furnished,North,Yes,1.29,12.78,3,64.1,5.1,5610,Builder,Yes,40100,125.99
+PROP-10253,2025-04-02,Chennai,Anna Nagar,Villa,3,1630.2,1206.2,11,Ground,3,2,1,Semi-Furnished,East,No,3.97,10.22,8,51.7,6.0,4230,,Yes,45800,137.04
+PROP-10254,2025-02-24,Hyderabad,Gachibowli,Studio,1,637.7,490.9,15,2,4,1,1,Semi-Furnished,East,Yes,4.35,9.63,11,45.8,10,1610,Broker,Yes,23700,48.53
+PROP-10255,2026-08-21,Hyderabad,Kondapur,Apartment,2,994.7,854.6,1,3,3,3,1,Semi-Furnished,South-East,No,5.84,15.68,4,46.1,6.8,3760,,No,31900,108.52
+PROP-10256,2026-04-09,Hyderabad,Gachibowli,Apartment,3,1562.3,1088.9,6,6,8,3,1,Furnished,East,Yes,7.18,25.02,10,56.7,4.4,4600,Owner,Yes,29800,108.9
+PROP-10257,2025-11-14,Chennai,Tambaram,Apartment,4,2302.8,1896.7,3,2,25,4,1,Semi-Furnished,West,Yes,5.98,10.16,12,,8.9,12300,Builder,Yes,82300,175.52
+PROP-10258,2025-10-25,Hyderabad,Madhapur,Apartment,3,1390.7,1167.3,0,25,28,3,1,Semi-Furnished,West,Yes,5.43,1.0,10,38.4,7.7,3540,Owner,Yes,42500,145.43
+PROP-10259,2026-04-19,Hyderabad,Kukatpally,Apartment,5,2816.9,2041.6,3,4,4,4,2,Semi-Furnished,North-East,Yes,8.82,19.26,9,47.8,5.5,11410,Broker,Yes,100800,205.07
+PROP-10260,2025-11-07,hyderabad,Madhapur,Apartment,3,1803.9,1472.5,0,3rd,12,4,1,Semi-Furnished,West,yes,6.65,16.98,2,42.3,6.0,6170,Owner,Yes,63900,129.38
+PROP-10261,2026-03-09,Delhi NCR,Dwarka,Villa,5,2557.5,1779.5,0,Ground,2,4,2,Unfurnished,North,Yes,1.96,5.35,6,59.3,3.9,9940,Builder,Yes,61700,258.89
+PROP-10262,2026-05-15,Chennai,Anna Nagar,Apartment,4,2396.8,1882.3,12,2nd,4,4,3,Furnished,South-East,Yes,8.89,10.41,0,5,4.9,9750,Owner,Yes,86500,180.39
+PROP-10263,2025-05-15,Hyderabad,Gachibowli,Apartment,2,1418.1,1070.8,16,22,32,2,2,Unfurnished,East,No,,14.94,8,48.6,10,4520,Owner,Yes,47900,103.5
+PROP-10264,2026-05-31,Bengaluru,HSR Layout,Villa,4,1811.7,1507.3,4,1st,4,4,1,Unfurnished,West,No,2.94,8.38,8,42.5,6.1,9210,Owner,Yes,81000,198.66
+PROP-10265,2025-02-12,Hyderabad,Kukatpally,Apartment,2,848.2,728.5,5,2,3,3,1,Unfurnished,North,No,1.43,16.45,12,47.8,6.3,3510,Broker,No,32000,86.89
+PROP-10266,2025-09-09,Hyderabad,Madhapur,Apartment,2,1132.2,859.8,0,10,24,2,1,Unfurnished,West,No,4.6,26.77,7,43.3,4.4,2600,Owner,Yes,30200,90.14
+PROP-10267,2025-03-01,Chennai,Anna Nagar,Villa,3,987.3,831.0,,Ground,3,3,1,Unfurnished,North-East,No,7.27,16.59,12,44.9,6.3,4600,Owner,Yes,37600,110.55
+PROP-10268,2025-07-22,Delhi NCR,Dwarka,Apartment,4,2111.3,1702.0,,Ground,23,4,2,Semi-Furnished,South,Yes,1.03,9.03,8,45.6,5.2,7490,Owner,Yes,79400,162.87
+PROP-10269,2026-01-17,Hyderabad,Manikonda,Apartment,3,1541.0,1323.0,5,4,6,4,1,Unfurnished,South-East,Yes,10.6,15.68,9,40.4,10,4720,Owner,Yes,54800,123.93
+PROP-10270,2026-03-12,Chennai,OMR,Apartment,3,1543.2,1050.9,6,14,35,3,1,Semi-Furnished,South-East,Yes,6.85,17.85,11,54.0,7.2,6230,Broker,Yes,30200,121.04
+PROP-10271,2026-06-26,Hyderabad,Gachibowli,Apartment,2,,,70,25,34,2,1,Semi-Furnished,West,Yes,61.19,9.84,6,46.0,6.2,2610,Owner,Yes,37200,75.84
+PROP-10272,2025-05-06,Chennai,Tambaram,Apartment,5,3594.8,2833.7,6,1st,3,5,3,Unfurnished,West,Yes,5.71,21.14,6,63.9,10,18380,Builder,Yes,102600,254.38
+PROP-10273,2026-03-30,Hyderabad,Gachibowli,Apartment,3,1001.3,821.7,2,2,9,3,2,Semi-Furnished,South,No,2.11,24.68,10,30.7,4.3,5160,Builder,Yes,34100,84.34
+PROP-10274,2026-07-01,Chennai,Tambaram,Apartment,3,1106.1,813.6,2,3,35,4,1,,North,Yes,1.05,17.56,0,38.1,7.0,5420,Broker,Yes,21300,124.89
+PROP-10275,2025-03-01,Bengaluru,Whitefield,Apartment,4,2066.2,1413.9,13,8,25,3,0,Unfurnished,South,Yes,7.12,24.42,2,36.3,9.1,5360,Owner,Yes,45500,154.38
+PROP-10276,2025-09-10,Delhi NCR,Dwarka,Apartment,4,2327.6,1633.5,13,32,32,5,1,Unfurnished,North,Yes,10.07,11.07,0,40.1,6.0,11870,Builder,No,89200,179.8
+PROP-10277,2025-10-07,Pune,Kharadi,Apartment,2,1282.2,918.8,15,17,24,2,2,Semi-Furnished,West,No,3.89,12.81,7,63.6,5.0,5490,Builder,Yes,47300,89.51
+PROP-10278,2025-09-09,Bengaluru,Electronic City,Apartment,3,1319.1,907.8,8,22,26,2,2,Semi-Furnished,East,No,0.56,15.52,12,60.4,4.4,4220,Builder,Yes,44900,134.76
+PROP-10279,2026-01-21,Bengaluru,Electronic City,Apartment,3,1976.0,1573.6,40,Ground,1,3,1,Furnished,South-East,Yes,3.74,15.3,10,30.4,5.2,10120,Broker,Yes,48900,110.1
+PROP-10280,2026-02-10,Chennai,OMR,Apartment,2,1141.9,,22,6,23,1,2,Semi-Furnished,South-East,Yes,5.12,31.67,0,36.8,6.4,5110,Builder,Yes,41300,79.5
+PROP-10281,2026-07-28,Hyderabad,Manikonda,Apartment,3,1356.6,1089.1,0,4,5,3,2,Unfurnished,North-East,No,8.71,5.81,4,50.6,8.5,7420,Owner,Yes,32700,139.45
+PROP-10282,2026-03-10,Pune,Hinjewadi,Independent House,2,1052.5,875.6,6,2,4,1,2,Unfurnished,East,No,5.73,7.52,6,39.2,6.0,4210,Builder,Yes,40200,91.48
+PROP-10283,2025-03-29,Delhi NCR,Noida,Apartment,2,990.1,758.8,6,8,22,2,0,Unfurnished,East,No,6.54,5.87,3,67.9,4.5,4130,Broker,Yes,35400,84.13
+PROP-10284,2025-04-14,Delhi NCR,Gurugram,Villa,2,958.1,789.8,19,Ground,1,3,0,Furnished,West,Yes,6.33,13.56,9,30.3,7.9,3440,,Yes,35300,78.58
+PROP-10285,2026-07-09,Delhi NCR,Gurugram,Apartment,2,1081.1,851.0,31,8,9,2,1,Semi-Furnished,North-East,Yes,5.05,25.99,0,56.7,9.1,4100,Owner,Yes,38800,61.7
+PROP-10286,2025-06-16,Bengaluru,HSR Layout,Studio,1,730.4,564.7,7,1st,1,1,1,Unfurnished,North,Yes,3.26,8.18,7,20.6,5.7,2940,Broker,Yes,24200,58.34
+PROP-10287,2025-07-23,Delhi NCR,Gurugram,Apartment,4,1808.3,,,21,31,4,1,Unfurnished,North,Yes,5.53,14.27,1,52.8,8.9,7610,Broker,Yes,83900,165.33
+PROP-10288,2025-05-14,Chennai,Porur,Independent House,2,1399.5,1001.1,12,1,2,1,1,Unfurnished,West,Yes,7.1,17.26,8,20.1,10,7120,Broker,Yes,28800,99.88
+PROP-10289,2026-06-06,Hyderabad,Kukatpally,Villa,3,1191.5,1007.8,14,2nd,2,3,1,Unfurnished,East,No,,1.0,7,43.7,6.5,4350,Owner,Yes,36000,110.12
+PROP-10290,2026-06-16,Chennai,Tambaram,Villa,4,2170.5,1669.3,8,Ground,1,4,2,Semi-Furnished,South,Yes,8.12,8.44,9,73.5,9.3,6270,Builder,Yes,52300,217.26
+PROP-10291,2025-02-09,Pune,Baner,Apartment,2,858.2,640.4,12,12,18,1,1,Unfurnished,South-East,Yes,7.05,10.11,8,19.1,7.0,4080,Broker,Yes,15600,59.07
+PROP-10292,2025-08-03,Hyderabad,Madhapur,Apartment,3,1911.8,1347.4,17,Ground,17,3,1,Unfurnished,West,No,0.66,18.64,0,17.8,3.3,8920,Builder,Yes,44800,127.77
+PROP-10293,2026-07-05,Pune,Hadapsar,Villa,4,1518.9,1118.4,12,1,4,5,0,Unfurnished,South,Yes,4.5,5.28,10,49.4,5.6,5270,Owner,Yes,51300,133.3
+PROP-10294,2026-05-16,Hyderabad,Kondapur,Apartment,5,2636.7,,2,12,26,5,3,Unfurnished,West,Yes,1.53,20.55,7,55.1,6.1,6860,Owner,Yes,99800,195.89
+PROP-10295,2025-11-14,Hyderabad,Kukatpally,Apartment,2,1011.3,698.1,6,5,11,2,1,Furnished,South,Yes,3.57,13.86,3,49.4,8.2,3550,Owner,Yes,32900,82.08
+PROP-10296,2026-03-19,Hyderabad,Gachibowli,Studio,1,647.2,492.0,14,3,3,2,0,Unfurnished,South-East,No,0.79,3.04,11,48.7,6.2,3160,Broker,Yes,14400,37.26
+PROP-10297,2025-03-16,Delhi NCR,Noida,Villa,2,1032.1,866.3,7,Ground,3,2,2,Semi-Furnished,North-East,Yes,1.04,22.13,8,43.5,5.4,3690,Builder,Yes,33600,107.61
+PROP-10298,2025-01-12,Bengaluru,Marathahalli,Independent House,2,862.1,587.9,22,3,4,1,1,Unfurnished,West,Yes,9.66,19.25,2,14.2,8.6,2260,Builder,Yes,22400,59.1
+PROP-10299,2025-07-16,Hyderabad,Madhapur,Apartment,3,1818.7,1381.4,45,6,34,3,2,,North-East,Yes,5.59,1.67,3,33.7,8.2,4220,Owner,No,47500,115.93
+PROP-10300,2025-03-10,Hyderabad,Kondapur,Villa,2,1234.5,953.3,12,2,2,2,1,Unfurnished,East,Yes,2.13,23.65,0,44.2,5.5,2750,Broker,Yes,33200,109.92
+PROP-10301,2026-01-27,Bengaluru,Yelahanka,Apartment,5,2777.0,2349.4,0,3,17,5,2,Furnished,South-East,Yes,7.33,24.07,11,29.1,10,10240,Builder,Yes,105000,247.26
+PROP-10302,2025-02-10,Chennai,OMR,Apartment,3,1220.3,1026.8,4,Ground,6,3,1,Unfurnished,South,Yes,9.84,10.26,11,32.8,3.3,5600,Builder,Yes,39200,75.3
+PROP-10303,2025-07-29,Delhi NCR,Dwarka,Villa,3,1522.5,1091.7,32,2,2,4,1,Semi-Furnished,North,Yes,0.2,14.41,0,36.1,6.4,4130,Builder,Yes,64700,148.93
+PROP-10304,2025-03-27,Bengaluru,Electronic City,Apartment,2,1193.2,864.9,7,15,18,1,3,Semi-Furnished,West,Yes,8.31,5.75,11,48.8,6.1,6370,Owner,Yes,39800,109.3
+PROP-10305,2026-05-17,Delhi NCR,Ghaziabad,Apartment,3,1672.9,1229.7,16,4,31,3,1,Semi-Furnished,South,No,,13.87,11,39.1,3.4,8770,Broker,No,50500,124.86
+PROP-10306,2025-06-01,Delhi NCR,Gurugram,Apartment,3,1541.6,1102.2,3,16,23,3,1,Semi-Furnished,North,Yes,,23.72,3,30.4,,5030,Owner,Yes,58700,118.79
+PROP-10307,2025-04-02,Bengaluru,Electronic City,Apartment,3,2061.1,1406.1,4,12,25,4,3,Unfurnished,South,No,,19.88,11,28.5,10,8870,Owner,Yes,67800,160.52
+PROP-10308,2025-08-06,Chennai,Porur,Villa,5,2574.8,1935.3,1,Ground,1,4,2,Semi-Furnished,West,Yes,13.89,13.04,5,32.3,7.6,9530,Owner,Yes,78100,238.0
+PROP-10309,2025-02-12,Hyderabad,Kondapur,Independent House,2,1430.8,1086.4,,Ground,1,1,1,Semi-Furnished,East,Yes,7.17,14.45,7,38.6,6.4,3170,Broker,Yes,45800,103.62
+PROP-10310,2025-09-12,Pune,Wakad,Independent House,3,1545.3,1144.5,2,1,3,3,1,Unfurnished,East,No,6.16,13.69,11,40.8,2.6,8090,Builder,Yes,43700,128.12
+PROP-10311,2026-01-30,Pune,Baner,Apartment,3,1947.7,1654.7,9,1,24,3,2,Unfurnished,West,Y,3.77,11.63,6,77.4,5.4,7140,Owner,Yes,36600,132.37
+PROP-10312,2025-10-15, Pune,Hadapsar,Villa,4,2407.2,1650.6,6,1,4,3,1,Semi-Furnished,South,Yes,4.82,13.71,1,18.5,10,5060,Broker,Yes,60200,232.93
+PROP-10313,2025-04-02,Hyderabad,Kukatpally,Independent House,3,1230.2,976.9,0,1,3,4,0,Unfurnished,South-East,No,4.05,3.43,12,12.8,4.2,5940,Builder,Yes,24700,119.17
+PROP-10314,2025-10-31,Delhi NCR,Ghaziabad,Apartment,4,2060.0,,42,13,13,4,3,Unfurnished,East,No,4.71,16.83,10,38.6,4.6,6970,Owner,Yes,49500,119.13
+PROP-10315,2025-08-19,Bengaluru,Marathahalli,Apartment,2,1043.2,864.8,35,16,20,1,1,Furnished,North-East,Yes,6.63,6.3,11,47.4,7.1,5040,Builder,Yes,47200,81.79
+PROP-10316,2025-11-08,Hyderabad,Kukatpally,Villa,3,1731.2,1431.2,37,3,3,3,2,Semi-Furnished,North-East,No,3.78,10.3,11,77.5,6.9,4260,Broker,Yes,64600,113.93
+PROP-10317,2025-12-13,Hyderabad,Kondapur,Apartment,3,1702.9,1404.5,6,1,1,4,0,Semi-Furnished,South,Yes,9.75,12.35,2,48.4,6.8,9210,Builder,Yes,70700,138.14
+PROP-10318,2026-08-10,Bengaluru,Whitefield,Apartment,2,999.8,734.4,5,6,6,2,2,Semi-Furnished,East,Yes,3.65,12.49,1,42.8,9.2,4340,Owner,Yes,37500,110.23
+PROP-10319,2025-08-01,Chennai,OMR,Villa,3,1150.7,872.3,10,1st,1,4,1,Furnished,North,Yes,7.17,2.34,8,22.7,7.4,4660,Owner,Yes,23200,134.53
+PROP-10320,2025-10-28,Pune,Kharadi,Apartment,2,978.4,720.7,19,4,6,2,2,Unfurnished,North,Yes,5.85,7.76,6,57.2,10,2810,Builder,No,35700,71.15
+PROP-10321,2025-06-17,Bengaluru,Yelahanka,Apartment,2,1592.5,1256.7,0,Ground,7,2,0,Unfurnished,South,No,2.96,10.58,5,37.6,8.9,5540,Owner,Yes,63100,145.13
+PROP-10322,2025-04-02,Bengaluru,Electronic City,Apartment,1,694.8,564.1,21,18,24,2,1,Semi-Furnished,South,Yes,4.65,15.11,9,26.8,7.2,2680,Owner,Yes,21200,61.38
+PROP-10323,2026-06-29,Bengaluru,HSR Layout,Apartment,4,2173.4,1861.1,13,1st,7,4,1,Furnished,North,Yes,2.78,1.0,8,41.0,8.1,4710,Builder,Yes,57300,203.46
+PROP-10324,2025-03-31,Pune,Wakad,Apartment,3,1358.8,962.0,14,2,4,3,2,Semi-Furnished,West,Yes,7.1,25.98,8,39.5,6.1,5190,Owner,No,29400,122.35
+PROP-10325,2025-01-08,Bengaluru,HSR Layout,Independent House,3,1733.2,,12,1,1,3,2,Unfurnished,West,Yes,6.43,11.94,7,5,6.5,8850,Owner,Yes,67100,157.65
+PROP-10326,2025-10-25,Hyderabad,Manikonda,Villa,2,749.3,570.0,18,Ground,2,1,1,Unfurnished,East,No,11.44,7.46,5,49.3,7.5,3280,Broker,Yes,28900,65.99
+PROP-10327,2026-06-26,Bengaluru,Electronic City,Apartment,3,1054.1,,20,2,33,4,2,Unfurnished,North,Yes,3.34,19.26,0,27.0,9.8,3590,Builder,Yes,28300,107.97
+PROP-10328,2025-06-14,Bengaluru,Electronic City,Villa,3,1668.0,1275.6,4,Ground,3,3,2,Semi-Furnished,South,Yes,7.03,7.46,11,48.1,7.6,3570,Owner,Yes,78000,188.02
+PROP-10329,2025-10-24,Delhi NCR,Dwarka,Apartment,3,1128.0,792.9,9,16,26,3,1,Furnished,North,Yes,4.49,14.46,10,44.0,10,3610,Broker,Yes,35900,128.02
+PROP-10330,2025-05-30,Pune,Hadapsar,Apartment,2,1149.3,805.3,8,6,28,2,2,Furnished,South-East,No,9.91,10.03,9,35.3,4.9,2780,Owner,Yes,23900,90.41
+PROP-10331,2026-04-29,Pune,Hinjewadi,Independent House,2,,651.1,7,3rd,4,2,1,Unfurnished,East,Yes,9.67,9.63,3,,7.8,1630,Builder,Yes,16100,58.17
+PROP-10332,2025-07-15,Hyderabad,Kukatpally,Apartment,2,925.5,645.5,,11,22,2,2,Semi-Furnished,North-East,Yes,5.16,10.68,6,33.1,8.0,3890,Owner,Yes,38200,82.18
+PROP-10333,2026-03-06,Bengaluru,Whitefield,Apartment,3,1302.8,1118.0,20,Ground,10,3,1,Semi-Furnished,East,No,5.18,1.0,8,75.5,5.0,4650,Owner,No,30200,119.33
+PROP-10334,2026-06-10,Hyderabad,Madhapur,Villa,3,1404.7,966.7,0,3,4,4,3,Unfurnished,North-East,Yes,2.43,14.8,4,26.1,7.2,5620,Owner,Yes,56600,161.22
+PROP-10335,2026-01-13,Chennai,Tambaram,Apartment,4,2110.1,1480.1,15,15,35,4,0,Unfurnished,East,No,4.05,25.78,10,89.9,4.9,5770,Builder,Yes,67200,148.44
+PROP-10336,2025-07-31,Hyderabad,Kondapur,Apartment,3,1358.7,1003.3,23,8,15,3,1,Unfurnished,South-East,No,6.94,15.65,1,14.6,5.2,7210,Builder,Yes,44200,70.41
+PROP-10337,2026-02-08,Hyderabad,Madhapur,Apartment,3,1726.0,1312.3,3,11,28,3,2,Unfurnished,South,Yes,,9.51,9,16.2,7.4,7360,Builder,Yes,38400,145.2
+PROP-10338,2025-12-13,Bengaluru,Marathahalli,Independent House,5,3278.0,2288.2,0,1,1,4,2,Semi-Furnished,South-East,no,3.91,21.6,4,62.3,7.5,6710,Broker,No,79500,304.84
+PROP-10339,2025-08-20,Hyderabad,Kondapur,Apartment,3,1393.6,1030.8,11,4,4,3,1,Unfurnished,North,Yes,3.66,21.52,6,64.2,10,2900,Owner,Yes,47000,102.66
+PROP-10340,2026-05-27,Chennai,OMR,Apartment,5,2246.1,1618.1,35,5,8,4,2,Semi-Furnished,South,Yes,4.07,11.25,6,50.7,8.9,6860,Broker,Yes,44200,152.04
+PROP-10341,2025-12-08,Delhi NCR,Gurugram,Villa,5,3927.7,2774.5,7,3,4,4,1,Furnished,East,Yes,4.04,16.78,12,31.5,8.4,13680,,Yes,163000,374.37
+PROP-10342,2025-05-23,Bengaluru,Yelahanka,Apartment,3,1333.1,,12,16,27,4,2,Furnished,South,Yes,1.87,13.55,0,43.2,5.7,3290,Builder,No,41900,148.0
+PROP-10343,2025-01-13,Hyderabad,Manikonda,Studio,1,724.5,600.6,29,Ground,1,1,2,Semi-Furnished,West,Yes,3.34,3.66,1,20.7,7.6,1850,Builder,Yes,17300,53.48
+PROP-10344,2025-08-21,Hyderabad,Kondapur,Villa,4,1992.3,1462.2,3,1st,1,3,2,Unfurnished,South,Yes,6.38,26.71,10,44.1,9.3,8950,Builder,Yes,50500,177.47
+PROP-10345,2025-12-10,Hyderabad,Gachibowli,Apartment,5,3263.3,2582.6,13,11,12,6,1,Unfurnished,South-East,Yes,2.97,22.75,6,56.7,,13910,Builder,Yes,64800,216.72
+PROP-10346,2025-12-31,Hyderabad,Manikonda,Apartment,4,2684.5,1916.2,14,4,6,5,0,Furnished,West,Yes,12.05,6.88,0,77.2,10,14380,Owner,Yes,73500,190.69
+PROP-10347,2026-06-20,Chennai,OMR,Apartment,4,1732.4,,37,2nd,31,4,2,Unfurnished,South-East,Yes,3.45,1.0,12,38.3,6.2,7820,Broker,Yes,69500,93.86
+PROP-10348,2025-12-28,Bengaluru,HSR Layout,Apartment,4,2783.2,1912.6,6,1,5,4,0,Unfurnished,East,Yes,0.2,25.48,1,36.6,5.0,7220,Builder,Yes,104600,206.27
+PROP-10349,2025-02-13,Hyderabad,Kukatpally,Apartment,3,1528.4,1218.2,25,7,8,2,1,Unfurnished,West,No,6.3,11.67,5,19.7,5.5,4730,Builder,Yes,44000,83.41
+PROP-10350,2025-12-17,Hyderabad,Manikonda,Apartment,4,1688.5,1236.5,37,21,30,3,1,SEMI-FURNISHED,North-East,No,7.59,10.61,11,43.5,9.6,5720,Owner,Yes,33000,120.73
+PROP-10351,2026-04-08,Bengaluru,Marathahalli,Apartment,3,897.5,,4,3rd,3,3,2,Furnished,South,Yes,10.31,1.0,10,31.2,7.9,2350,Builder,Yes,21100,106.05
+PROP-10352,2025-11-21,Hyderabad,Gachibowli,Apartment,4,2108.6,1563.7,9,15,27,4,1,Semi-Furnished,South-East,Yes,2.82,21.26,0,31.1,3.3,5680,Broker,Yes,45300,138.16
+PROP-10353,2026-08-14,Delhi NCR,Noida,Apartment,2,1123.8,817.4,0,26,29,2,1,Semi-Furnished,North-East,Yes,6.6,32.58,6,32.9,3.9,4610,Builder,Yes,28400,77.89
+PROP-10354,2025-10-18, Bengaluru,HSR Layout,Apartment,4,2474.1,1993.8,4,17,23,4,1,Semi-Furnished,North,no,1.87,6.96,8,46.0,3.6,8250,Broker,Yes,83200,197.54
+PROP-10355,2026-04-26,Delhi NCR,Gurugram,Studio,1,668.9,533.0,5,Ground,4,1,2,Semi-Furnished,North-East,Yes,0.71,16.68,0,26.5,3.8,1830,Broker,Yes,15500,52.08
+PROP-10356,2026-02-05,Bengaluru,Marathahalli,Apartment,2,1320.9,951.5,6,21,27,2,0,Furnished,North,Yes,11.44,17.37,8,54.7,8.4,4190,Broker,No,37100,95.55
+PROP-10357,2025-01-12,Pune,Hinjewadi,Independent House,3,1823.7,1560.9,17,1,3,2,2,Unfurnished,North,Yes,6.16,1.0,10,68.4,5.3,4660,Builder,Yes,31200,120.58
+PROP-10358,2025-04-16,Chennai,OMR,Apartment,1,634.6,515.4,20,3,12,1,1,Semi-Furnished,South,No,4.31,15.9,4,27.4,4.8,3350,Owner,Yes,19400,24.78
+PROP-10359,2025-07-02,Delhi NCR,Gurugram,Apartment,2,1115.8,858.0,7,6,14,1,1,Unfurnished,North,Yes,3.2,10.08,6,32.2,8.4,5780,Broker,Yes,22800,81.29
+PROP-10360,2025-10-08,Hyderabad,Madhapur,Studio,1,481.3,369.2,1,Ground,3,1,1,Semi-Furnished,North-East,Yes,2.08,21.59,1,68.3,7.6,1200,Builder,Yes,10100,48.17
+PROP-10361,2026-01-28,Delhi NCR,Dwarka,Villa,4,1494.8,1133.8,12,1st,2,4,3,Unfurnished,North-East,Yes,7.04,1.0,7,26.1,8.1,6110,Builder,Yes,34500,167.49
+PROP-10362,2025-12-03,Pune,Hinjewadi,Apartment,4,2043.1,1741.6,9,22,34,4,0,Unfurnished,East,Yes,8.19,15.56,3,53.0,6.1,9660,Builder,Yes,34300,116.77
+PROP-10363,2026-08-29,Pune,Wakad,Independent House,3,1265.1,980.3,16,Ground,3,4,2,Semi-Furnished,West,Yes,3.87,17.7,12,37.1,7.2,3750,Builder,Yes,37700,106.12
+PROP-10364,2026-05-21,Pune,Hadapsar,Studio,1,605.7,511.3,6,1,1,1,1,Furnished,West,No,10.99,11.69,6,68.5,8.7,2260,Builder,Yes,23200,66.55
+PROP-10365,2025-12-04,Delhi NCR,Gurugram,Independent House,4,2425.3,2009.5,12,3rd,3,3,1,Furnished,East,No,4.48,13.34,11,50.4,4.6,11510,Builder,No,53800,201.12
+PROP-10366,2025-09-06,Chennai,Velachery,Apartment,2,871.6,642.8,15,20,27,2,2,Semi-Furnished,South,Yes,8.3,3.37,5,5,7.5,2020,Broker,Yes,22200,68.21
+PROP-10367,2026-04-09,Chennai,Velachery,Villa,2,919.4,736.2,9,1,4,2,1,Semi-Furnished,North-East,Yes,1.72,29.01,11,33.1,7.5,3460,Broker,Yes,23600,72.46
+PROP-10368,2025-10-07,Hyderabad,Madhapur,Apartment,3,1509.0,1284.5,6,1st,7,3,1,Unfurnished,South-East,Yes,4.09,11.4,8,48.4,9.0,3810,Owner,Yes,29100,129.9
+PROP-10369,2026-02-19,Hyderabad,Kukatpally,Villa,3,1472.7,1158.9,17,4,4,3,0,Unfurnished,South,No,5.01,15.77,0,31.5,5.0,5690,Builder,No,51200,134.87
+PROP-10370,2026-05-01,Delhi NCR,Dwarka,Apartment,2,1232.8,883.5,1,Ground,1,2,1,Semi-Furnished,West,No,0.89,19.92,2,22.5,5.4,3270,Broker,Yes,25300,114.52
+PROP-10371,2025-12-26,Hyderabad,Madhapur,Independent House,2,1051.7,781.8,8,1,1,2,0,Furnished,North-East,Yes,4.2,18.38,8,46.5,8.2,2450,Builder,Yes,30400,97.01
+PROP-10372,2025-04-02,Bengaluru,Whitefield,Independent House,2,1268.0,938.4,0,Ground,4,2,2,Semi-Furnished,North,Yes,4.26,9.33,2,48.0,6.9,5100,Owner,Yes,34300,130.45
+PROP-10373,2025-12-22,Delhi NCR,Gurugram,Independent House,4,1833.0,1394.7,0,1,2,4,2,Semi-Furnished,West,No,4.45,17.99,9,27.4,5.5,7590,Owner,Yes,84700,189.63
+PROP-10374,2026-07-29,Pune,Baner,Villa,4,2111.2,1545.8,5,1st,1,3,1,Furnished,North,Yes,4.1,10.95,10,57.9,7.5,5240,Broker,Yes,58400,186.73
+PROP-10375,2026-07-22,Hyderabad,Madhapur,Apartment,3,981.7,718.9,36,12,16,3,1,Furnished,East,No,3.13,11.03,6,35.9,4.1,3950,Owner,Yes,20900,54.32
+PROP-10376,2026-06-09,Delhi NCR,Faridabad,Apartment,2,1199.4,1004.7,5,16,21,2,1,Semi furnished ,West,No,5.5,1.0,0,50.5,7.7,5570,Owner,Yes,32000,109.3
+PROP-10377,2025-02-24,Pune,Hadapsar,Independent House,1,684.2,547.7,6,Ground,4,1,0,FURNISHED ,South-East,Yes,0.2,6.24,9,27.7,7.4,1510,Broker,Yes,22500,68.13
+PROP-10378,2025-07-08,Delhi NCR,Noida,Apartment,3,1513.4,1261.3,7,1,1,3,0,Unfurnished,North-East,No,7.5,8.27,1,40.5,2.0,5380,Builder,Yes,47000,112.15
+PROP-10379,2025-04-20,Delhi NCR,Ghaziabad,Apartment,3,1170.7,822.1,13,Ground,2,3,2,Semi-Furnished,South,Yes,4.11,9.05,7,36.1,10,6270,Owner,Yes,35900,129.11
+PROP-10380,2026-07-31,Bengaluru,Whitefield,Apartment,1,588.9,432.6,0,2,3,1,2,Semi-Furnished,North,No,0.2,4.87,8,66.5,6.8,2260,Owner,Yes,15000,95.64
+PROP-10381,2025-06-12,Chennai,Velachery,Apartment,3,1458.8,1232.6,17,15,25,4,2,Semi-Furnished,North-East,No,3.08,12.91,5,24.1,4.3,5900,Broker,Yes,26200,105.19
+PROP-10382,2025-05-17,Pune,Wakad,Villa,5,2452.7,,8,2,2,5,2,Unfurnished,East,Yes,2.39,15.06,12,36.9,5.2,5160,Builder,Yes,65000,229.05
+PROP-10383,2026-06-25,Pune,Kharadi,Apartment,3,1463.8,1190.9,4,12,34,2,1,Semi-Furnished,South-East,Yes,,14.3,0,31.6,,5730,Builder,Yes,47800,119.54
+PROP-10384,2025-06-11,Bengaluru,HSR Layout,Apartment,4,1752.7,,12,4,5,3,1,Semi-Furnished,North,Yes,1.44,14.66,5,63.5,10,5280,Broker,Yes,55000,164.45
+PROP-10385,2026-05-21,Hyderabad,Manikonda,Apartment,3,1365.2,1080.4,5,7,8,3,2,Unfurnished,West,Yes,1.96,23.77,2,50.4,10,4310,Broker,No,26600,146.5
+PROP-10386,2025-07-20,Chennai,OMR,Apartment,1,568.6,429.3,8,8,31,1,2,Unfurnished,West,Yes,0.2,9.14,4,28.2,8.0,1590,Broker,Yes,20100,41.54
+PROP-10387,2025-01-16, Delhi NCR,Gurugram,Apartment,1,,,0,1,9,2,3,Semi-Furnished,South,Yes,,10.96,1,32.2,6.4,3080,Broker,Yes,23700,77.16
+PROP-10388,2025-10-01,Hyderabad,Kukatpally,Apartment,1,690.0,512.7,6,15,26,1,2,Unfurnished,North-East,Yes,2.76,9.94,3,13.8,5.6,2270,Owner,Yes,16500,72.35
+PROP-10389,2025-10-12,Pune,Hinjewadi,Apartment,4,2047.6,1495.5,0,8,9,4,1,Semi-Furnished,North,Yes,5.54,9.96,3,34.6,4.5,7350,Builder,Yes,35400,140.82
+PROP-10390,2026-03-21,Hyderabad,Manikonda,Apartment,1,938.0,702.4,4,17,28,1,2,Unfurnished,East,No,5.61,23.41,5,27.6,9.6,4540,Owner,Yes,24600,71.41
+PROP-10391,2026-08-08,Chennai,OMR,Independent House,3,2169.1,1587.2,4,3,4,4,2,Unfurnished,West,Yes,7.23,13.26,0,37.4,10,6420,Broker,Yes,52300,164.4
+PROP-10392,2025-09-23,Pune,Hadapsar,Apartment,2,931.1,,,1st,2,1,3,Semi-Furnished,North-East,YES ,0.2,28.94,4,55.6,9.2,4970,Owner,Yes,31600,74.15
+PROP-10393,2025-03-21,Hyderabad,Kondapur,Apartment,3,1680.9,1154.7,10,18,29,3,0,Semi-Furnished,North,No,13.77,12.54,0,28.3,2.1,5440,Owner,Yes,44400,110.07
+PROP-10394,2025-11-17,Hyderabad,Manikonda,Apartment,4,2303.8,1739.1,0,19,21,4,1,Semi-Furnished,South-East,Yes,0.2,18.96,0,37.3,7.5,12110,Broker,Yes,75100,190.44
+PROP-10395,2026-06-22,Chennai,Tambaram,Villa,4,2559.3,2008.7,6,1,2,3,3,Furnished,South,Yes,9.46,13.36,11,19.4,8.8,12710,Owner,Yes,72100,233.15
+PROP-10396,2026-02-22,Pune,Kharadi,Apartment,4,2438.1,2086.9,10,14,16,4,1,Semi-Furnished,North-East,Yes,7.65,8.28,3,56.0,5.2,9730,Broker,Yes,69300,160.32
+PROP-10397,2025-05-16,Pune,Hadapsar,Apartment,2,1019.6,770.6,12,12,32,2,2,Unfurnished,North,Yes,,2.52,7,,6.2,2160,Owner,Yes,39200,76.99
+PROP-10398,2026-06-06,Bengaluru,Electronic City,Apartment,3,12410.6,1211.7,22,Ground,7,2,2,Semi-Furnished,West,No,9.59,5.67,6,22.7,5.1,3710,Builder,Yes,70800,123.46
+PROP-10399,2025-08-04,Delhi NCR,Ghaziabad,Apartment,3,1315.1,936.1,11,3rd,18,3,1,,North-East,Yes,6.74,7.37,5,21.9,9.4,7020,Builder,No,57700,125.16
+PROP-10400,2026-08-08,Bengaluru,HSR Layout,Apartment,2,1432.8,1044.9,0,3,17,2,1,Unfurnished,North-East,No,,28.38,8,47.9,4.4,5310,Broker,Yes,41900,100.0
+PROP-10401,2025-03-17,Bengaluru,Electronic City,Independent House,2,1278.4,1063.7,17,3rd,4,2,3,Semi-Furnished,North,No,6.6,2.59,3,40.0,3.9,4830,,Yes,45700,107.11
+PROP-10402,2025-08-08,Bengaluru,Yelahanka,Apartment,4,3027.0,2418.6,11,Ground,1,4,1,Furnished,South,Yes,4.18,13.12,2,51.1,7.0,8160,Broker,No,137800,227.07
+PROP-10403,2025-10-22,Hyderabad,Manikonda,Apartment,3,1963.2,1551.7,12,11,16,3,1,Furnished,East,No,8.27,6.15,7,46.6,3.8,6380,Owner,Yes,40600,131.29
+PROP-10404,2026-02-13,Bengaluru,Electronic City,Apartment,2,1096.4,,5,31,31,3,1,Unfurnished,East,Yes,0.2,16.47,6,72.5,10,3200,Builder,Yes,37000,113.65
+PROP-10405,2025-02-20,Hyderabad,Kukatpally,Villa,3,1650.0,1243.7,3,2nd,2,2,3,,East,Yes,,9.26,0,44.3,6.4,7370,Broker,Yes,51600,170.14
+PROP-10406,2026-01-22,Hyderabad,Manikonda,Apartment,3,1691.4,1238.5,13,Ground,16,2,2,Semi-Furnished,North-East,Yes,7.51,7.04,2,53.0,7.1,7120,Owner,Yes,60900,131.01
+PROP-10407,2025-10-26,Hyderabad,Madhapur,Independent House,1,467.6,379.7,42,Ground,2,2,2,Unfurnished,North-East,No,5.55,6.31,11,54.7,,1270,Builder,Yes,13700,18
+PROP-10408,2026-05-17,Hyderabad,Madhapur,Independent House,3,1830.6,1325.4,18,Ground,3,3,1,Furnished,West,No,5.22,5.97,1,47.9,4.6,8850,,Yes,40400,134.37
+PROP-10409,2025-08-30,Hyderabad,Kukatpally,Apartment,3,1489.2,1074.9,0,13,17,3,2,Furnished,North,Yes,1.71,10.65,0,40.8,8.6,5910,Owner,Yes,61100,144.56
+PROP-10410,2025-10-29,Delhi NCR,Gurugram,Independent House,2,830.4,576.2,10,Ground,1,2,1,Furnished,North,No,5.19,3.68,8,42.7,2.4,3250,Owner,Yes,26500,84.04
+PROP-10411,2026-03-03,Delhi NCR,Dwarka,Apartment,3,1270.2,896.1,17,12,14,4,3,Semi-Furnished,North-East,Yes,,17.3,11,,3.4,3140,Owner,Yes,25900,85.37
+PROP-10412,2025-07-27,Hyderabad,Kondapur,Apartment,2,1160.3,884.7,18,2,5,2,1,Unfurnished,South,Yes,7.39,19.56,9,12.9,7.0,5440,Broker,Yes,38800,60.52
+PROP-10413,2026-05-02,Hyderabad,Kondapur,Apartment,2,1320.1,1037.2,18,18,22,3,1,Furnished,South-East,No,2.97,6.59,2,53.6,5.7,3640,Broker,Yes,28300,89.56
+PROP-10414,2025-09-14,Hyderabad,Manikonda,Independent House,2,1410.1,1078.6,5,3,4,2,1,Furnished,East,Yes,10.07,23.49,2,21.4,10,6330,Broker,Yes,42000,120.26
+PROP-10415,2025-09-17,Pune,Baner,Apartment,2,1297.8,1062.5,0,6,28,3,1,Furnished,South,Yes,7.16,23.98,0,47.1,9.0,3480,Owner,Yes,47600,114.14
+PROP-10416,2025-05-15,Pune,Baner,Apartment,5,3035.2,2448.7,9,2,2,6,1,Semi-Furnished,West,No,5.92,8.22,1,25.9,6.2,15570,Builder,Yes,108600,211.58
+PROP-10417,2025-03-04,Delhi NCR,Gurugram,Apartment,3,1666.8,1296.7,10,10,13,4,2,Unfurnished,South-East,No,2.7,23.56,9,39.3,3.8,3420,Owner,Yes,63500,132.07
+PROP-10418,2025-01-11,Chennai,OMR,Apartment,1,527.0,416.1,6,1st,1,1,0,Semi-Furnished,South-East,Yes,1.66,16.22,1,39.1,7.5,1640,Owner,Yes,11200,50.42
+PROP-10419,2025-12-24,Bengaluru,Whitefield,Independent House,4,1987.4,1688.7,20,1st,2,4,1,Unfurnished,East,Yes,6.14,8.7,3,47.9,8.7,8830,Builder,Yes,74800,153.55
+PROP-10420,2025-07-10,Pune,Kharadi,Apartment,4,2092.5,1568.2,4,20,23,4,1,Semi-Furnished,North-East,Yes,4.26,13.26,8,29.3,7.4,7610,Builder,Yes,65100,149.46
+PROP-10421,2026-02-13,Bengaluru,HSR Layout,Apartment,2,1007.9,812.6,8,Ground,1,2,1,Unfurnished,North,YES ,3.57,16.75,8,43.3,7.6,4870,Owner,Yes,33800,92.24
+PROP-10422,2025-05-14,Pune,Baner,Apartment,2,1352.8,1156.3,19,6,33,2,1,Unfurnished,North-East,Yes,0.9,21.75,4,45.4,10,7170,Builder,No,44900,73.39
+PROP-10423,2025-04-13,Chennai,OMR,Studio,1,577.5,476.0,22,1st,2,1,1,Unfurnished,East,Yes,4.99,18.2,1,40.5,6.1,2280,Broker,Yes,12100,18
+PROP-10424,2025-12-15,Delhi NCR,Faridabad,Independent House,3,1151.4,941.1,12,1,2,3,2,Semi-Furnished,West,Yes,5.78,7.19,10,38.9,7.0,3200,Owner,Yes,34600,112.14
+PROP-10425,2025-03-26,Hyderabad,Manikonda,Villa,5,2820.4,2013.3,6,Ground,4,5,1,Unfurnished,South,Yes,0.2,21.98,0,39.2,10,7410,Owner,Yes,58000,261.43
+PROP-10426,2026-03-11,Bengaluru,Whitefield,Apartment,2,775.6,598.2,9,13,26,1,1,Unfurnished,South-East,Yes,4.34,18.87,8,9.3,5.6,2460,Owner,Yes,33700,75.77
+PROP-10427,2026-01-01,Bengaluru,Whitefield,Apartment,2,1281.2,916.8,5,13,30,1,1,Unfurnished,West,Yes,,16.43,5,41.8,9.0,3890,Broker,Yes,33700,89.11
+PROP-10428,2025-04-14,Hyderabad,Gachibowli,Apartment,1,682.3,554.7,9,10,10,1,1,Unfurnished,West,Yes,6.18,13.98,11,71.9,8.3,1460,Builder,Yes,22300,32.58
+PROP-10429,2025-07-10,Delhi NCR,Gurugram,Apartment,3,1459.4,1040.7,17,6,6,3,3,Semi-Furnished,North-East,Yes,3.5,21.44,12,43.1,10,4830,Owner,Yes,46600,119.41
+PROP-10430,2025-11-24,Delhi NCR,Dwarka,Apartment,2,823.3,562.6,5,3rd,21,1,2,Unfurnished,North-East,Yes,5.69,10.4,9,12.9,4.8,3210,Owner,Yes,24200,86.82
+PROP-10431,2025-01-24,Bengaluru,Marathahalli,Independent House,3,1383.2,1037.7,8,1,1,3,0,Semi-Furnished,North-East,Yes,66.93,19.38,10,32.9,7.4,5600,Owner,Yes,45600,134.3
+PROP-10432,2025-11-22,Delhi NCR,Faridabad,Independent House,2,1355.0,1069.5,11,1st,1,2,2,,West,Yes,,10.57,9,51.0,6.6,5700,Owner,Yes,50400,149.62
+PROP-10433,2026-05-31,Pune,Kharadi,Independent House,3,1041.5,792.5,12,1st,2,4,2,Semi-Furnished,South-East,Yes,7.51,9.71,10,27.5,8.2,2770,Builder,Yes,31300,95.47
+PROP-10434,2026-04-18,Delhi NCR,Dwarka,Apartment,2,870.4,689.8,44,17,25,3,2,FURNISHED ,South,Yes,0.2,12.63,7,30.3,10,2720,Builder,No,22400,47.26
+PROP-10435,2026-07-01,Pune,Baner,Studio,1,741.0,570.6,0,1st,3,1,0,Unfurnished,South-East,Yes,1.11,12.52,6,57.0,8.1,2160,Owner,Yes,25000,44.14
+PROP-10436,2025-03-17,Hyderabad,Kukatpally,Independent House,3,1747.1,1200.6,0,3,4,2,1,Unfurnished,North-East,No,9.26,16.75,6,48.3,5.1,4980,Owner,Yes,45300,129.62
+PROP-10437,2025-05-12,Chennai,Velachery,Villa,3,1456.8,1108.7,2,Ground,3,3,1,Unfurnished,South,No,0.2,9.2,4,50.8,5.3,6150,Owner,Yes,35100,137.45
+PROP-10438,2025-03-08,Pune,Hinjewadi,Independent House,3,1815.1,1282.7,17,3,4,3,3,Semi-Furnished,North-East,No,5.04,10.84,7,56.2,3.3,6690,Owner,Yes,56900,110.71
+PROP-10439,2026-06-20,Bengaluru,Electronic City,Apartment,3,1531.3,1095.5,5,Ground,1,3,1,Unfurnished,South-East,Yes,4.21,15.79,8,72.1,6.3,5940,Builder,Yes,51900,124.21
+PROP-10440,2026-05-05,Pune,Kharadi,Apartment,3,2007.2,1429.0,,11,13,2,2,Unfurnished,East,Yes,,14.8,9,63.0,6.3,10210,Builder,Yes,36500,119.25
+PROP-10441,2026-06-29,Hyderabad,Kondapur,Apartment,3,1357.9,925.7,5,7,8,3,1,Semi-Furnished,West,No,4.76,20.66,4,32.0,5.8,5130,Owner,No,34200,106.14
+PROP-10442,2025-11-24,Bengaluru,Marathahalli,Apartment,3,1903.6,1356.9,26,10,32,3,0,Semi-Furnished,East,Yes,5.09,17.65,10,30.8,6.0,9000,Broker,Yes,67500,127.15
+PROP-10443,2025-11-10,Bengaluru,HSR Layout,Independent House,2,971.2,694.0,3,Ground,2,3,2,Unfurnished,North-East,No,1.48,3.36,12,40.3,4.3,2840,Broker,Yes,30800,104.29
+PROP-10444,2026-05-31,Bengaluru,Marathahalli,Apartment,3,1916.4,1305.1,12,7,9,3,0,Semi-Furnished,South,Yes,4.39,13.01,0,72.2,5.7,6020,Owner,Yes,52400,160.78
+PROP-10445,2026-02-28,Hyderabad,Gachibowli,Apartment,2,750.4,573.7,11,3,3,2,1,Furnished,North-East,Yes,8.59,19.45,4,25.3,6.7,2250,Owner,No,14800,74.83
+PROP-10446,2025-09-23,Pune,Hadapsar,Apartment,2,870.4,681.6,9,Ground,19,2,2,,South-East,Yes,2.24,8.13,12,70.9,3.3,2300,Owner,Yes,20800,81.31
+PROP-10447,2025-04-26,Chennai,OMR,Apartment,3,12248.4,903.1,15,4,4,3,0,Semi-Furnished,North,No,6.85,9.04,8,21.1,5.8,4630,Broker,Yes,43600,88.13
+PROP-10448,2025-01-20,Hyderabad,Kukatpally,Apartment,5,2003.3,1633.3,10,28,29,5,2,Unfurnished,South-East,Yes,1.32,1.8,11,49.9,8.1,4160,Owner,Yes,75900,170.42
+PROP-10449,2025-08-02,Bengaluru,Electronic City,Apartment,2,973.3,742.0,3,22,23,3,1,Semi-Furnished,South,Yes,8.08,18.62,0,45.7,4.7,5200,Builder,Yes,27000,100.42
+PROP-10450,2025-05-04,Hyderabad,Kondapur,Villa,2,1546.1,1295.6,13,1,1,2,1,Semi-Furnished,West,Yes,4.22,14.73,1,20.8,8.2,8030,Broker,Yes,55900,139.84
+PROP-10451,2026-02-04,Chennai,Porur,Villa,3,1843.4,1518.9,31,Ground,3,3,0,Semi-Furnished,West,Yes,6.73,8.39,4,50.8,5.4,9160,Builder,No,35400,149.08
+PROP-10452,2025-04-23,Chennai,Porur,Apartment,4,2301.6,1638.6,19,2nd,31,4,2,Semi-Furnished,East,Yes,5.03,16.74,2,27.1,10,10580,Broker,Yes,86400,155.9
+PROP-10453,2026-05-03,Hyderabad,Kondapur,Apartment,3,1734.2,1279.5,6,Ground,22,3,0,Furnished,West,Yes,1.61,20.1,8,45.6,8.0,5580,Builder,Yes,34000,114.81
+PROP-10454,2025-08-20,Bengaluru,Yelahanka,Independent House,1,777.2,595.1,14,Ground,3,1,1,,North-East,Yes,3.3,14.21,2,50.3,7.3,1810,Owner,No,18800,84.26
+PROP-10455,2025-09-01,Chennai,Porur,Apartment,5,2678.9,2100.0,1,5,9,5,1,Unfurnished,South-East,No,11.81,16.75,6,22.8,3.1,14540,Builder,Yes,97900,176.72
+PROP-10456,2026-06-16,Bengaluru,HSR Layout,Apartment,4,2663.3,2276.4,,17,17,4,0,Unfurnished,North-East,No,10.58,5.79,4,70.8,3.5,12520,Owner,Yes,121100,212.81
+PROP-10457,2025-06-05,Chennai,Anna Nagar,Apartment,5,3272.0,2494.3,13,4,19,5,1,Semi-Furnished,North,No,6.86,12.71,8,52.4,9.3,9080,Builder,Yes,83200,217.39
+PROP-10458,2025-11-04,Pune,Hadapsar,Apartment,4,2176.6,1688.0,6,4,15,5,3,Semi-Furnished,South,Yes,5.88,30.01,4,32.1,5.3,7560,Owner,Yes,70700,169.57
+PROP-10459,2025-05-07,Hyderabad,Manikonda,Apartment,2,1023.7,708.4,0,2,9,2,2,Furnished,South,Yes,6.65,19.65,9,52.6,10,2300,Broker,Yes,40400,92.88
+PROP-10460,2025-04-26,Hyderabad,Kondapur,Apartment,3,1335.8,910.9,14,14,31,3,1,Unfurnished,South-East,Yes,6.71,21.7,12,69.1,8.7,3940,Broker,Yes,52600,88.17
+PROP-10461,2026-01-01,Bengaluru,Electronic City,Independent House,3,1679.7,,0,1,3,3,2,Furnished,West,Yes,9.27,20.87,11,38.2,2.9,7120,Builder,Yes,47600,168.75
+PROP-10462,2026-03-08,Hyderabad,Kukatpally,Apartment,2,1253.1,912.1,24,19,25,3,2,Semi-Furnished,North,Yes,4.7,3.01,1,26.7,,5860,Owner,Yes,49700,94.39
+PROP-10463,2025-09-12,Chennai,OMR,Apartment,3,1768.2,,1,21,28,2,1,Unfurnished,South-East,NO ,10.84,22.67,12,59.4,6.1,9050,Owner,Yes,44900,110.01
+PROP-10464,2026-01-27,Chennai,Porur,Villa,3,1308.4,1021.2,17,1,3,2,1,Semi-Furnished,South-East,No,1.19,19.47,4,39.0,8.3,5550,Builder,Yes,28200,129.62
+PROP-10465,2025-12-15,Delhi NCR,Faridabad,Apartment,4,2726.6,2324.9,1,3,8,5,2,Semi-Furnished,North-East,Yes,0.72,19.96,3,63.0,8.9,14180,Owner,Yes,65700,209.21
+PROP-10466,2026-03-26,Hyderabad,Madhapur,Apartment,5,3735.5,2757.9,11,10,10,5,0,Unfurnished,South-East,No,10.9,13.65,10,53.4,6.1,11350,Broker,Yes,110600,224.52
+PROP-10467,2025-09-10,Pune,Hadapsar,Apartment,2,860.4,674.2,8,23,25,2,2,furnished,East,Yes,0.2,25.5,3,35.6,8.9,4610,Builder,Yes,33000,92.01
+PROP-10468,2025-12-29,Delhi NCR,Ghaziabad,Villa,4,2115.0,1478.1,12,1st,2,3,1,Semi-Furnished,North-East,Yes,2.69,17.61,8,39.2,4.5,10860,Owner,Yes,46300,206.96
+PROP-10469,2025-02-24,Chennai,Tambaram,Apartment,4,2726.4,2065.4,11,6,9,4,2,Unfurnished,South-East,Yes,2.72,21.45,8,50.4,6.8,10600,Owner,Yes,47500,183.17
+PROP-10470,2025-07-01,Delhi NCR,Ghaziabad,Apartment,2,1124.2,797.0,17,2nd,12,2,2,Unfurnished,North,No,13.47,1.0,6,24.5,6.4,4110,Broker,Yes,32100,87.23
+PROP-10471,2026-08-05,Delhi NCR,Faridabad,Apartment,2,1103.7,879.1,16,24,29,1,1,Unfurnished,North-East,Yes,0.2,9.77,1,62.2,10,4250,Builder,Yes,23100,112.21
+PROP-10472,2025-10-26,Hyderabad,Manikonda,Apartment,3,1011.5,865.5,19,18,24,3,2,Semi-Furnished,South,Yes,7.66,16.49,9,26.0,9.6,5410,Broker,Yes,25800,97.53
+PROP-10473,2026-05-07,Pune,Hadapsar,Apartment,4,1661.4,1428.0,9,29,30,5,2,Semi-Furnished,North,Yes,7.07,15.6,2,44.0,10,4420,Owner,Yes,61100,162.74
+PROP-10474,2025-10-22,Delhi NCR,Gurugram,Independent House,2,890.7,710.6,18,4,4,2,1,Unfurnished,South,Yes,2.57,8.5,6,30.4,7.6,2110,,Yes,25300,84.71
+PROP-10475,2025-08-08,Chennai,Tambaram,Independent House,2,1387.8,1130.5,18,2nd,2,1,1,Unfurnished,East,Yes,2.35,20.48,10,60.4,4.9,5320,Builder,Yes,46300,109.03
+PROP-10476,2026-03-09,Chennai,OMR,Villa,4,9238.5,1519.8,7,1st,1,4,2,Furnished,East,No,4.15,26.56,5,39.6,7.5,4940,,Yes,45100,176.01
+PROP-10477,2026-05-16,Chennai,Porur,Apartment,4,2173.5,1748.0,3,12,27,4,2,Unfurnished,West,Yes,,14.2,0,36.2,5.1,9390,Builder,Yes,43300,148.87
+PROP-10478,2025-05-27,Chennai,Anna Nagar,Apartment,2,1023.7,853.7,8,1,13,2,1,Semi-Furnished,North,Yes,10.37,17.4,6,49.3,8.6,4940,Builder,Yes,28000,97.95
+PROP-10479,2025-09-09,Chennai,Tambaram,Villa,3,1610.1,1259.7,16,2,3,3,1,Furnished,North,Yes,,18.27,1,45.5,10.0,5110,Broker,Yes,44200,147.6
+PROP-10480,2026-05-03,Pune,Wakad,Apartment,3,1710.7,1289.5,0,11,21,2,1,,South,Yes,3.82,15.93,6,42.1,7.3,4770,Owner,Yes,31100,120.02
+PROP-10481,2026-04-16,Pune,Wakad,Villa,3,1723.7,1324.3,6,3,4,3,1,Furnished,South,Yes,3.47,10.21,6,75.1,7.2,5670,Builder,Yes,34000,170.63
+PROP-10482,2026-02-23,Delhi NCR,Noida,Independent House,2,796.9,677.0,2,3,4,2,1,Semi-Furnished,South-East,Yes,6.43,13.78,9,67.3,8.6,3430,Owner,No,27800,106.53
+PROP-10483,2025-06-09,Bengaluru,Marathahalli,Apartment,2,957.9,795.0,3,1st,27,2,1,Unfurnished,West,No,0.2,20.47,0,36.6,3.8,4150,Builder,Yes,35600,74.96
+PROP-10484,2026-08-21,Hyderabad,Madhapur,Apartment,4,1876.8,1320.3,15,2,34,3,0,Unfurnished,North,Yes,3.6,27.19,5,61.8,7.5,5150,Broker,Yes,74700,129.98
+PROP-10485,2025-02-10,Bengaluru,HSR Layout,Villa,3,1838.0,1547.9,15,Ground,4,4,2,Semi-Furnished,North-East,Yes,0.2,17.31,11,49.0,6.0,4410,Broker,No,44100,181.88
+PROP-10486,2025-11-25,Hyderabad,Gachibowli,Apartment,5,3358.8,2503.0,0,1,2,6,1,Unfurnished,North,No,6.36,16.92,4,45.6,3.7,8020,Broker,No,76300,200.95
+PROP-10487,2026-04-15,Chennai,OMR,Apartment,5,2247.3,1767.0,9,8,24,5,1,Furnished,North,Yes,5.7,12.22,3,38.2,5.7,12330,Builder,Yes,90400,170.72
+PROP-10488,2025-11-23,Delhi NCR,Ghaziabad,Apartment,3,1611.1,1183.3,12,12,18,3,1,Semi-Furnished,West,Yes,8.33,4.34,11,74.0,7.1,4810,Builder,Yes,61600,139.7
+PROP-10489,2025-02-27,Delhi NCR,Gurugram,Independent House,4,2321.8,1734.9,11,Ground,2,3,0,Unfurnished,East,No,3.38,10.75,10,83.2,4.6,9770,Builder,Yes,85000,183.65
+PROP-10490,2025-09-27,Hyderabad,Gachibowli,Villa,2,1347.3,1021.2,7,2,4,2,1,Unfurnished,West,Yes,2.72,15.76,10,54.1,3.9,4780,Owner,Yes,55800,96.57
+PROP-10491,2025-03-05,Pune,Kharadi,Villa,4,2426.5,1790.4,11,1,2,5,1,Semi-Furnished,South-East,Yes,0.2,19.32,11,42.1,7.4,12420,Owner,Yes,48800,195.36
+PROP-10492,2026-08-25,Pune,Baner,Apartment,3,1926.2,1558.1,22,22,24,4,2,Unfurnished,East,No,5.21,10.73,12,55.7,3.4,9000,Builder,No,40000,115.59
+PROP-10493,2025-06-26,Chennai,Anna Nagar,Apartment,3,2028.8,1734.7,2,14,30,3,1,Semi-Furnished,West,No,8.87,4.69,6,64.6,5.5,6890,Builder,Yes,66000,148.22
+PROP-10494,2025-08-29,Hyderabad,Kukatpally,Apartment,2,1006.0,688.0,4,7,18,2,1,,West,Yes,6.56,18.32,10,27.1,10,2250,Builder,Yes,25100,104.34
+PROP-10495,2025-08-28,Bengaluru,Electronic City,Apartment,1,625.5,496.3,13,19,28,1,1,,East,No,,1.0,5,25.4,4.8,1290,Owner,Yes,30000,68.32
+PROP-10496,2025-09-30,Delhi NCR,Faridabad,Villa,4,1877.4,1471.7,6,1,3,5,1,Furnished,West,Yes,6.69,18.19,1,33.2,6.4,5870,Owner,Yes,83300,203.54
+PROP-10497,2025-03-04,Bengaluru,Electronic City,Villa,3,1886.9,1303.2,21,1,1,4,1,Unfurnished,East,No,1.95,14.08,8,51.0,9.2,5020,Broker,Yes,55900,188.61
+PROP-10498,2025-01-18,Bengaluru,Marathahalli,Apartment,4,2867.2,1955.3,45,2,27,4,1,Semi-Furnished,South,Yes,6.64,13.68,4,34.4,5.9,11820,Builder,Yes,87100,161.51
+PROP-10499,2025-06-05,Delhi NCR,Ghaziabad,Apartment,2,1140.1,780.5,2,12,21,2,1,Furnished,North,Yes,2.31,24.02,0,,6.7,5140,Builder,Yes,25100,116.42
+PROP-10500,2026-05-06,Hyderabad,Madhapur,Studio,1,808.3,598.9,0,1,1,1,2,Semi-Furnished,North,No,7.67,10.22,4,44.5,5.8,3550,Builder,Yes,28100,67.97
+PROP-10501,2026-01-12,Hyderabad,Kondapur,Independent House,5,,2479.7,14,Ground,4,6,2,Semi-Furnished,South-East,Yes,3.73,14.84,3,32.7,6.5,13360,Builder,Yes,105700,262.68
+PROP-10502,2025-07-30,Hyderabad,Gachibowli,Independent House,3,1303.2,952.2,0,2nd,2,3,1,Unfurnished,North,Yes,3.43,6.25,10,47.2,5.6,3540,Builder,Yes,26800,104.57
+PROP-10503,2026-05-19,Pune,Wakad,Independent House,3,1939.7,1445.1,45,2,2,3,1,Unfurnished,North,Yes,6.05,19.23,7,57.0,6.5,6100,Broker,Yes,39200,61.0
+PROP-10504,2025-09-27,Pune,Kharadi,Apartment,2,857.8,583.4,33,1,1,3,3,Unfurnished,East,Yes,5.01,16.17,5,57.6,9.0,1780,Broker,No,19900,53.51
+PROP-10505,2026-05-25,Delhi NCR,Noida,Apartment,3,2023.1,1696.2,5,Ground,12,2,0,Unfurnished,North-East,Yes,4.7,14.98,9,16.3,7.6,5130,Builder,Yes,42400,142.61
+PROP-10506,2025-02-18,Hyderabad,Gachibowli,Apartment,5,3071.6,2573.3,6,Ground,18,5,3,Unfurnished,South-East,Yes,0.2,23.64,9,42.3,8.3,16380,Owner,Yes,117800,216.7
+PROP-10507,2025-05-21,Hyderabad,Madhapur,Apartment,3,1760.7,1314.9,19,5,10,3,1,Semi-Furnished,East,Yes,3.22,18.27,10,42.2,4.9,6860,Owner,Yes,57100,107.94
+PROP-10508,2025-12-09,Chennai,Velachery,Independent House,2,1214.4,1026.5,13,2nd,2,2,2,Semi-Furnished,West,No,4.6,22.26,8,40.8,5.8,6400,Owner,Yes,27300,93.4
+PROP-10509,2025-08-03,Bengaluru,HSR Layout,Apartment,2,945.7,741.3,,3,7,2,1,Semi-Furnished,South,Yes,11.62,2.01,12,49.0,7.9,2130,Broker,Yes,31000,114.01
+PROP-10510,2026-05-27,Hyderabad,Gachibowli,Apartment,2,1247.9,1034.4,8,6,8,2,2,Unfurnished,North-East,Yes,3.69,9.86,6,49.1,3.9,5270,Owner,Yes,51700,72.95
+PROP-10511,2026-04-26,Hyderabad,Kukatpally,Independent House,2,966.7,777.2,8,3,3,2,0,Semi-Furnished,North,Yes,,12.71,11,53.0,4.7,2250,Owner,Yes,31400,75.7
+PROP-10512,2026-03-13,Delhi NCR,Noida,Apartment,2,1354.6,1087.9,91,2,29,2,1,Semi-Furnished,North-East,Yes,2.06,22.36,11,48.4,6.0,4850,Broker,Yes,49200,51.51
+PROP-10513,2026-01-11,Hyderabad,Gachibowli,Apartment,3,2032.1,1677.0,9,1st,25,3,1,Semi-Furnished,West,Y,0.2,17.2,1,49.0,7.9,9330,Broker,Yes,57900,133.54
+PROP-10514,2026-01-18,Delhi NCR,Dwarka,Apartment,2,1176.4,900.2,7,Ground,5,2,2,Semi-Furnished,West,Yes,,26.82,2,25.1,8.1,4700,Owner,Yes,55200,103.3
+PROP-10515,2026-05-02,Bengaluru,Electronic City,Apartment,2,1173.2,861.2,10,Ground,26,2,0,Semi-Furnished,North,Yes,4.4,22.07,4,48.3,6.5,6130,Broker,Yes,31200,89.87
+PROP-10516,2026-01-18,Pune,Hadapsar,Independent House,1,720.2,576.2,12,4,4,1,1,Unfurnished,West,No,3.36,10.27,4,50.7,2.9,1550,Builder,Yes,15000,62.15
+PROP-10517,2025-12-16,Pune,Kharadi,Villa,3,1179.8,991.0,0,Ground,2,4,1,Semi-Furnished,North,Yes,6.0,14.0,1,34.2,3.9,5550,Builder,Yes,26900,108.38
+PROP-10518,2025-09-03,Bengaluru,Marathahalli,Apartment,2,1013.0,847.7,4,7,9,2,0,Semi-Furnished,East,Yes,0.2,11.62,10,38.1,7.0,3050,Owner,Yes,47500,112.81
+PROP-10519,2025-10-26,Bengaluru,HSR Layout,Apartment,2,981.6,773.1,3,12,13,3,2,Unfurnished,South-East,Yes,3.6,7.38,8,31.8,6.8,3550,Owner,Yes,40900,114.02
+PROP-10520,2026-08-21,Delhi NCR,Noida,Independent House,4,2872.7,2147.3,0,4,4,4,1,Semi-Furnished,East,Yes,8.1,7.18,6,56.2,8.5,15140,Broker,Yes,134400,244.65
+PROP-10521,2026-08-04,Pune,Baner,Apartment,1,352.6,277.6,19,10,25,1,1,,North,Yes,6.22,14.93,8,38.8,10,1850,Owner,Yes,12800,51.3
+PROP-10522,2026-05-13,Chennai,Porur,Apartment,2,1384.2,1095.3,3,4,16,1,1,Unfurnished,South,Yes,3.68,20.23,8,38.7,3.5,3210,Broker,No,32500,69.22
+PROP-10523,2026-07-09,Hyderabad,Kukatpally,Apartment,3,1637.1,1178.1,13,9,16,3,1,semi furnished,West,Yes,5.51,26.99,6,38.0,5.1,7510,Owner,Yes,44400,117.66
+PROP-10524,2025-03-08,Bengaluru,Yelahanka,Apartment,1,818.1,,2,1,10,1,1,Semi-Furnished,South,Yes,7.11,9.12,4,48.8,8.8,4150,Broker,Yes,30400,76.9
+PROP-10525,2025-08-23,Chennai,Anna Nagar,Apartment,2,1250.7,950.7,10,8,28,2,1,Semi-Furnished,East,Yes,7.97,25.46,10,22.4,6.9,3360,Builder,Yes,23000,88.37
+PROP-10526,2025-07-20,Chennai,OMR,Apartment,3,1488.0,1080.2,,3,12,3,1,Unfurnished,North,Yes,6.27,2.51,11,29.7,8.3,7880,Broker,Yes,53400,125.4
+PROP-10527,2026-01-12,Hyderabad,Gachibowli,Apartment,3,1076.2,839.0,6,2,12,3,1,Unfurnished,South,No,4.13,13.38,8,54.6,4.5,2780,Owner,Yes,25600,86.55
+PROP-10528,2026-06-21,Hyderabad,Gachibowli,Villa,3,1756.0,1385.6,31,3,3,3,2,Semi-Furnished,North-East,No,7.27,19.51,10,30.5,7.5,7230,Owner,Yes,63300,124.15
+PROP-10529,2026-02-10,Hyderabad,Kukatpally,Apartment,1,989.3,822.6,21,12,27,1,1,Unfurnished,West,Yes,,14.25,10,42.0,5.0,4020,Broker,Yes,36700,52.75
+PROP-10530,2026-05-06,Bengaluru,Marathahalli,Apartment,3,1570.6,1173.0,10,4,16,2,1,Unfurnished,West,No,6.47,24.27,1,20.9,4.2,5960,Owner,No,72000,110.75
+PROP-10531,2026-06-11,Bengaluru,HSR Layout,Independent House,2,1156.0,934.1,9,Ground,1,3,1,Semi-Furnished,East,No,0.34,15.91,4,22.6,8.4,4680,Broker,Yes,38700,129.12
+PROP-10532,2025-09-19,Pune,Hinjewadi,Studio,1,464.2,328.5,12,1st,3,1,0,Semi-Furnished,West,Yes,2.17,14.55,2,42.7,8.1,1610,Broker,Yes,13300,51.5
+PROP-10533,2025-06-09,Hyderabad,Gachibowli,Apartment,1,620.7,446.5,0,10,11,1,0,Semi-Furnished,East,Yes,11.18,11.74,4,24.2,6.0,3200,Broker,Yes,16000,56.48
+PROP-10534,2026-01-07,Pune,Hadapsar,Villa,3,1229.8,,3,3,3,3,0,Semi-Furnished,East,Yes,5.86,16.48,12,51.1,8.2,4460,Builder,Yes,35100,148.08
+PROP-10535,2025-10-21,Bengaluru,Yelahanka,Apartment,2,1163.2,985.4,,3,4,2,1,Semi-Furnished,North,Yes,2.86,17.87,7,55.5,5.6,6230,Owner,Yes,52700,66.99
+PROP-10536,2025-12-05,Pune,Hadapsar,Apartment,2,888.9,617.6,9,5,32,2,3,Unfurnished,South,Yes,4.39,10.03,10,71.8,5.7,2890,Owner,Yes,32200,61.82
+PROP-10537,2025-10-18,Delhi NCR,Gurugram,Studio,1,486.5,347.7,0,3rd,4,2,1,Furnished,North,No,,16.01,9,47.6,4.8,2290,Owner,Yes,12700,60.59
+PROP-10538,2025-11-24,Chennai,Anna Nagar,Apartment,3,1219.5,893.7,7,9,16,3,1,Semi-Furnished,South-East,Yes,1.59,21.68,1,52.2,10,2980,Broker,Yes,30400,144.12
+PROP-10539,2025-11-28,Chennai,Anna Nagar,Apartment,4,1909.7,1549.3,0,14,14,4,2,Semi-Furnished,West,Yes,5.56,14.21,12,41.9,8.5,7150,Owner,Yes,64200,170.29
+PROP-10540,2026-01-17,Chennai,Porur,Independent House,3,1127.4,942.8,16,3rd,3,3,1,Furnished,South,Yes,10.89,7.85,3,42.4,6.8,5300,Owner,Yes,40300,90.97
+PROP-10541,2026-08-27,Hyderabad,Manikonda,Apartment,2,891.8,725.9,0,16,26,3,1,Semi-Furnished,West,No,4.69,11.53,11,30.9,4.8,4890,Owner,Yes,16400,96.4
+PROP-10542,2026-07-14,Delhi NCR,Faridabad,Independent House,3,1244.4,897.9,5,Ground,3,3,2,Semi-Furnished,West,Yes,8.85,11.52,7,41.1,7.2,2700,Builder,Yes,43000,135.21
+PROP-10543,2025-10-27,Hyderabad,Madhapur,Villa,4,1678.4,1302.7,9,Ground,1,4,1,Unfurnished,North-East,Yes,8.28,14.16,5,18.6,3.3,3480,Builder,Yes,40600,133.1
+PROP-10544,2025-03-27,Hyderabad,Kondapur,Apartment,3,1856.9,1359.2,21,1,5,2,3,Unfurnished,East,No,4.73,19.3,1,53.5,1.9,7190,Owner,Yes,60800,105.92
+PROP-10545,2026-02-17,Hyderabad,Kondapur,Apartment,2,1335.8,1127.4,5,Ground,6,2,1,Unfurnished,South-East,Yes,0.2,15.63,10,33.3,8.7,4490,Broker,Yes,40500,113.32
+PROP-10546,2025-03-29,Chennai,OMR,Studio,1,805.0,,18,3rd,4,1,1,Unfurnished,West,Yes,0.2,12.33,10,40.7,9.8,2780,Broker,No,29900,46.32
+PROP-10547,2025-06-06,Hyderabad,Manikonda,Apartment,2,1195.2,1027.0,16,3,22,1,2,Semi-Furnished,South,Yes,6.0,8.26,1,54.7,7.8,6420,Builder,Yes,32400,108.81
+PROP-10548,2025-11-15,Delhi NCR,Dwarka,Apartment,2,618.1,453.7,31,6,6,2,2,Semi-Furnished,North,Yes,6.12,18.03,5,49.1,6.8,2480,Owner,Yes,13300,44.63
+PROP-10549,2026-01-05,Pune,Hadapsar,Independent House,1,586.6,490.8,0,Ground,3,1,2,Unfurnished,West,Yes,2.09,23.47,2,77.4,9.2,2380,Builder,Yes,15800,70.76
+PROP-10550,2026-03-17,Delhi NCR,Noida,Apartment,2,1119.2,891.7,,1st,2,2,1,Furnished,South-East,Yes,2.02,14.22,8,41.9,9.1,5100,Broker,Yes,29700,103.88
+PROP-10551,2025-09-12,Pune,Kharadi,Independent House,2,1384.3,1043.8,25,1,3,1,2,Unfurnished,North-East,Yes,8.13,12.51,3,41.5,4.1,5560,Broker,Yes,52500,105.53
+PROP-10552,2025-05-30,Chennai,OMR,Villa,3,1797.3,1292.8,19,Ground,1,3,0,Unfurnished,South,Yes,3.71,11.35,5,35.4,6.3,7740,Owner,Yes,39400,143.78
+PROP-10553,2025-10-10,Bengaluru,Electronic City,Apartment,4,1921.2,1456.2,,3,4,4,1,Furnished,South,Yes,7.3,24.25,7,46.4,4.8,7790,Owner,Yes,65300,162.5
+PROP-10554,2025-09-08,Bengaluru,Marathahalli,Independent House,1,628.9,454.2,3,Ground,2,1,2,Semi-Furnished,South-East,Yes,5.01,18.96,4,27.3,7.2,2510,Broker,Yes,18400,76.59
+PROP-10555,2026-02-16,Pune,Hadapsar,Independent House,3,2110.2,1673.3,1,Ground,1,2,1,,North-East,Yes,2.75,20.23,2,52.6,8.3,9860,Builder,Yes,62300,177.72
+PROP-10556,2026-07-16,Bengaluru,Marathahalli,Apartment,2,990.3,717.1,16,10,16,2,1,Furnished,North,Yes,5.65,25.37,3,62.6,6.7,3600,Owner,Yes,23900,81.4
+PROP-10557,2025-01-07,hyderabad,Kondapur,Apartment,2,1032.8,778.4,27,28,29,2,0,Furnished,North-East,Yes,,1.86,8,41.2,2.5,2940,Owner,Yes,22700,22.29
+PROP-10558,2025-05-16,Chennai,Porur,Apartment,3,1607.1,1159.2,9,14,23,4,2,Unfurnished,North,No,4.78,4.15,3,31.7,,7360,Broker,Yes,35500,136.31
+PROP-10559,2026-03-02,Hyderabad,Kukatpally,Apartment,2,1357.7,973.1,21,13,20,2,2,Furnished,South,Yes,,13.82,8,56.0,10,4710,Builder,Yes,26800,99.19
+PROP-10560,2025-10-30,Hyderabad,Manikonda,Villa,5,,3086.6,18,3rd,3,6,1,Semi-Furnished,West,Yes,2.22,3.95,4,23.7,6.1,20860,Broker,Yes,90400,345.65
+PROP-10561,2025-03-27,Pune,Hinjewadi,Independent House,2,911.2,657.3,0,1,1,3,2,Furnished,North,Yes,2.48,12.27,2,42.3,7.8,4560,Owner,Yes,25900,96.94
+PROP-10562,2025-01-25,Bengaluru,Electronic City,Independent House,1,628.8,483.1,11,Ground,1,2,1,Semi-Furnished,South-East,Yes,3.26,13.03,2,27.9,4.6,2000,Builder,Yes,13800,36.83
+PROP-10563,2025-06-13,Chennai,OMR,Apartment,3,1682.0,1168.8,0,7,7,4,1,Unfurnished,South-East,No,0.64,6.67,5,32.8,8.5,8040,Owner,Yes,40400,147.03
+PROP-10564,2026-01-22,Pune,Baner,Apartment,3,1201.1,982.8,18,2,3,2,1,SEMI-FURNISHED,North,Yes,9.79,18.95,3,42.2,5.2,2780,Broker,Yes,23900,87.34
+PROP-10565,2026-06-23,Hyderabad,Kondapur,Villa,4,2579.7,1777.0,9,2,2,3,1,Unfurnished,West,Yes,5.69,20.44,9,21.3,6.2,12260,Builder,Yes,85800,216.05
+PROP-10566,2025-10-30,Hyderabad,Gachibowli,Independent House,2,1108.8,859.5,,2,3,2,1,Semi-Furnished,South,Yes,0.2,4.93,8,60.8,,3160,Owner,Yes,30600,76.14
+PROP-10567,2025-02-13,Pune,Wakad,Apartment,2,1059.0,856.8,17,27,34,2,0,Furnished,East,Yes,9.09,4.21,4,63.3,6.3,2700,Broker,Yes,24300,71.88
+PROP-10568,2025-05-18,Bengaluru,Yelahanka,Villa,3,1117.2,952.6,10,2,4,3,2,Semi-Furnished,North-East,Yes,4.42,23.98,11,28.5,8.4,4960,Owner,Yes,32400,144.99
+PROP-10569,2026-04-11,Delhi NCR,Gurugram,Apartment,2,983.4,844.5,20,14,14,2,1,Semi-Furnished,East,Yes,0.47,11.97,11,60.6,9.4,4740,Broker,Yes,38600,79.11
+PROP-10570,2026-02-21,Pune,Hadapsar,Studio,1,447.5,323.7,19,1,2,1,0,Semi-Furnished,North,No,7.5,28.57,9,32.3,5.9,2400,Broker,Yes,16900,18
+PROP-10571,2025-01-04,Chennai,Tambaram,Independent House,1,736.3,632.9,28,3rd,3,1,2,Semi-Furnished,North,Yes,2.12,19.02,11,16.1,7.3,3590,Owner,No,28100,51.18
+PROP-10572,2025-09-03,Pune,Wakad,Apartment,1,544.4,400.7,13,3,19,1,1,Semi-Furnished,East,No,5.53,3.43,6,28.1,7.0,1390,Builder,Yes,10800,68.92
+PROP-10573,2025-02-13,Bengaluru,Marathahalli,Apartment,2,1354.7,1099.4,12,26,35,1,2,Semi-Furnished,East,Yes,8.01,10.58,12,41.2,,3160,Broker,Yes,61300,109.19
+PROP-10574,2026-07-29,Delhi NCR,Dwarka,Apartment,4,2105.4,1465.1,10,2nd,30,4,0,Unfurnished,South,Yes,4.24,12.27,6,46.4,5.9,8430,Owner,Yes,66500,161.23
+PROP-10575,2025-05-08,Hyderabad,Kondapur,Studio,1,697.4,595.2,3,Ground,3,2,3,Semi-Furnished,East,Yes,,15.0,8,40.4,4.8,2390,Builder,Yes,22800,66.33
+PROP-10576,2026-04-13,Chennai,Tambaram,Independent House,3,1284.8,1103.4,6,Ground,2,3,3,Semi-Furnished,South,Yes,4.21,6.04,10,30.0,4.7,6200,Broker,Yes,46800,140.69
+PROP-10577,2026-03-17,Pune,Kharadi,Apartment,2,702.5,509.0,22,4,7,1,2,Furnished,North-East,Yes,6.94,12.78,2,47.9,6.6,3470,Broker,Yes,23700,26.81
+PROP-10578,2025-01-18,Bengaluru,Whitefield,Studio,1,548.8,419.9,6,1st,1,1,1,Furnished,South-East,Yes,5.79,8.63,10,33.2,5.7,1570,Broker,Yes,25600,50.48
+PROP-10579,2026-07-30,Delhi NCR,Gurugram,Independent House,5,3205.4,2261.8,6,2nd,4,5,1,Semi-Furnished,North-East,Yes,2.42,15.71,12,,6.4,10280,Owner,No,83300,259.02
+PROP-10580,2026-02-05,Pune,Kharadi,Villa,4,2465.3,1815.6,0,1,2,4,1,Semi-Furnished,East,No,11.2,11.44,0,75.9,6.3,11420,Builder,Yes,68800,195.1
+PROP-10581,2025-07-20,Bengaluru,Whitefield,Apartment,5,2724.6,1892.5,12,Ground,22,4,3,Semi-Furnished,North,Yes,4.3,19.23,9,65.5,8.7,5970,Owner,Yes,106400,237.53
+PROP-10582,2025-02-18,Pune,Hinjewadi,Villa,3,,1040.8,18,3rd,3,3,2,Semi-Furnished,West,Yes,5.21,8.21,8,33.6,8.2,5300,Owner,Yes,35700,113.3
+PROP-10583,2025-06-18,Pune,Hadapsar,Apartment,3,2198.6,1762.0,12,3rd,13,3,0,Unfurnished,East,Yes,6.81,11.51,6,,8.8,5010,Builder,Yes,80100,143.1
+PROP-10584,2025-04-07,Bengaluru,Electronic City,Villa,3,1629.0,1258.2,7,3rd,3,3,1,Furnished,North-East,Yes,3.26,13.3,2,47.1,8.4,4060,Owner,Yes,79500,172.39
+PROP-10585,2026-03-06,Bengaluru,Whitefield,Apartment,2,1049.9,802.9,13,7,10,2,2,Unfurnished,South,Yes,7.17,4.87,7,58.8,5.6,5140,Builder,Yes,37700,66.01
+PROP-10586,2025-05-02,Bengaluru,Yelahanka,Apartment,3,1420.1,1187.2,11,8,8,3,1,furnished,West,Yes,10.9,15.04,11,68.4,10,5770,Owner,Yes,57500,134.52
+PROP-10587,2026-04-04,Chennai,Anna Nagar,Independent House,3,1823.2,1504.8,3,1,1,3,1,,South,yes,2.78,8.97,2,55.7,8.2,9220,Owner,Yes,54100,152.71
+PROP-10588,2025-12-05,HYDERABAD,Gachibowli,Apartment,3,1287.9,916.1,13,24,30,4,3,Semi-Furnished,North-East,No,4.59,12.64,9,58.8,,6490,Broker,Yes,51600,99.58
+PROP-10589,2026-03-28,Delhi NCR,Noida,Apartment,3,1922.1,1546.3,7,4,19,3,2,Unfurnished,South-East,Yes,,12.65,1,38.3,9.3,7520,Owner,Yes,85900,164.89
+PROP-10590,2025-06-07,Pune,Baner,Apartment,2,986.1,807.1,8,12,18,1,3,Unfurnished,South-East,Yes,4.17,4.17,7,47.3,6.3,4120,Broker,Yes,32000,94.19
+PROP-10591,2025-10-14,Hyderabad,Manikonda,Apartment,3,1549.3,1201.9,0,1,1,3,1,Semi-Furnished,North,Yes,8.54,4.82,6,25.7,9.1,6820,Owner,Yes,32500,149.84
+PROP-10592,2025-06-18,Delhi NCR,Dwarka,Apartment,4,2786.2,2091.8,5,5,19,4,1,Unfurnished,North-East,No,3.59,20.56,3,18.8,6.6,14940,Broker,No,81600,203.02
+PROP-10593,2026-01-14,Pune,Wakad,Apartment,3,1438.4,1024.2,0,5,25,4,1,Furnished,South,No,5.5,21.97,12,39.1,4.8,7210,Broker,Yes,46400,128.01
+PROP-10594,2025-08-30,Hyderabad,Kukatpally,Independent House,3,1453.2,992.2,5,1st,3,3,1,Unfurnished,South-East,No,8.25,14.74,1,36.4,8.0,3740,,Yes,37800,119.47
+PROP-10595,2025-06-03,Hyderabad,Madhapur,Apartment,2,955.4,705.8,17,3,7,2,1,Unfurnished,West,Yes,60.29,6.47,3,47.3,5.1,2970,Builder,Yes,39000,62.17
+PROP-10596,2025-12-05,Delhi NCR,Gurugram,Apartment,2,978.8,746.0,0,30,34,3,0,Semi-Furnished,South,No,0.2,20.12,3,42.6,7.1,4890,Owner,Yes,23300,84.28
+PROP-10597,2025-10-22,Delhi NCR,Faridabad,Apartment,5,3469.4,2618.7,1,28,35,5,1,Unfurnished,West,Yes,0.2,12.22,10,37.8,10.0,15840,Owner,Yes,150800,294.36
+PROP-10598,2025-01-06,Delhi NCR,Gurugram,Independent House,2,1394.7,1031.8,19,Ground,1,2,1,Unfurnished,South-East,No,9.66,18.11,10,47.2,8.7,6830,Broker,Yes,30700,82.84
+PROP-10599,2025-01-07,Bengaluru,Yelahanka,Apartment,3,1383.7,965.9,7,33,34,4,1,Semi-Furnished,South-East,Yes,0.2,13.54,3,11.7,9.2,6590,Owner,Yes,45600,168.62
+PROP-10600,2026-07-21,Chennai,Porur,Apartment,4,,870.0,12,2nd,7,3,1,Semi-Furnished,South-East,Yes,10.73,12.46,6,48.6,6.9,4800,Owner,Yes,27600,82.47
+PROP-10601,2026-04-10,Hyderabad,Kondapur,Villa,3,1437.8,1023.5,0,3,3,3,2,Semi-Furnished,South-East,Yes,6.06,16.56,9,55.3,6.6,5990,Owner,Yes,49000,138.52
+PROP-10602,2025-04-14,Hyderabad,Gachibowli,Apartment,2,932.6,707.9,31,7,13,2,2,Semi-Furnished,South,No,7.36,19.06,2,35.6,8.5,4830,Builder,Yes,20600,71.16
+PROP-10603,2026-02-07,Chennai,Tambaram,Apartment,2,950.5,799.7,8,22,24,2,2,Furnished,North-East,Yes,,11.43,6,60.5,9.4,3440,Broker,Yes,20000,114.97
+PROP-10604,2025-05-22,Hyderabad,Madhapur,Apartment,5,2749.2,2115.9,8,Ground,29,5,1,Semi-Furnished,South,Yes,3.2,13.83,7,76.4,7.5,12410,Builder,Yes,103400,179.67
+PROP-10605,2026-01-17,Pune,Hadapsar,Apartment,2,1170.6,816.8,0,23,26,1,1,Unfurnished,North,Yes,0.55,10.31,10,56.5,5.6,4410,Owner,Yes,24800,91.0
+PROP-10606,2025-06-21,Pune,Hinjewadi,Villa,5,3310.0,2721.7,34,1,2,6,2,Semi-Furnished,North,Yes,3.93,5.39,3,68.6,9.0,17380,Builder,Yes,101800,232.03
+PROP-10607,2025-04-29,Chennai,Tambaram,Villa,4,2420.4,1766.6,12,Ground,2,5,2,Furnished,North-East,Yes,2.57,14.4,9,20.1,7.2,5820,Owner,Yes,82600,239.66
+PROP-10608,2025-08-08,Chennai,Anna Nagar,Apartment,3,1837.3,1295.5,,1,8,2,1,Unfurnished,North,Yes,8.55,17.21,5,43.7,4.8,8560,Broker,Yes,58100,80.69
+PROP-10609,2025-05-18,Pune,Baner,Apartment,2,1168.2,931.2,9,16,20,1,1,Semi-Furnished,South,Yes,3.55,25.58,10,26.6,8.7,6110,Broker,Yes,27800,84.69
+PROP-10610,2026-01-11,Delhi NCR,Ghaziabad,Apartment,4,2402.5,2063.8,4,Ground,1,5,1,Unfurnished,South-East,Yes,7.41,18.9,3,17.2,8.2,7120,Owner,Yes,69500,194.77
+PROP-10611,2025-05-10,Chennai,Velachery,Apartment,1,878.5,720.5,40,3rd,4,2,1,Unfurnished,West,Yes,7.1,21.92,7,34.0,,3080,Broker,Yes,19800,18
+PROP-10612,2025-12-23,Hyderabad,Madhapur,Apartment,4,2015.0,1670.5,4,1st,19,3,0,Semi-Furnished,West,No,0.47,2.49,7,31.2,2.8,6200,Builder,Yes,69000,172.51
+PROP-10613,2025-06-15,Bengaluru,Electronic City,Independent House,2,1105.8,913.2,5,Ground,1,1,1,Semi-Furnished,North-East,Yes,6.39,25.72,11,47.4,4.7,2600,,Yes,26300,92.63
+PROP-10614,2026-02-15,Hyderabad,Madhapur,Apartment,2,1058.1,725.3,5,2nd,30,1,1,Unfurnished,North,Yes,0.2,13.87,0,48.5,7.8,5710,Broker,Yes,24100,81.43
+PROP-10615,2026-03-24,Chennai,OMR,Apartment,2,832.0,667.0,22,19,28,2,1,Unfurnished,North-East,Yes,6.35,23.41,12,47.0,9.1,4060,Broker,Yes,19200,42.59
+PROP-10616,2025-09-26,Bengaluru,Whitefield,Apartment,4,2287.0,1843.1,7,13,26,4,0,Furnished,South-East,Yes,4.93,13.9,0,13.5,5.0,8310,Broker,Yes,97100,189.28
+PROP-10617,2026-05-20,Pune,Hadapsar,Apartment,3,1575.2,1250.1,0,1st,1,2,1,Unfurnished,East,Yes,0.2,13.35,4,28.9,5.1,5890,Broker,Yes,44500,122.55
+PROP-10618,2025-10-24,Pune,Hinjewadi,Independent House,2,949.2,740.5,7,Ground,1,2,1,FURNISHED ,West,Yes,8.07,12.98,2,53.6,7.4,2600,Owner,Yes,28100,70.44
+PROP-10619,2026-07-13,Delhi NCR,Ghaziabad,Apartment,1,588.3,417.5,0,Ground,9,1,1,Semi-Furnished,North-East,No,,17.94,2,29.5,3.2,2480,Owner,Yes,25300,58.93
+PROP-10620,2025-05-22,Pune,Hadapsar,Apartment,3,1355.4,1137.5,11,1,8,2,2,Semi-Furnished,South-East,Yes,1.26,10.95,0,64.8,8.8,7310,Broker,No,31500,98.72
+PROP-10621,2025-03-28,Hyderabad,Madhapur,Apartment,3,1634.1,1397.3,32,Ground,1,2,2,Unfurnished,North,Yes,2.71,22.88,2,50.6,5.6,3760,Owner,Yes,54800,74.63
+PROP-10622,2025-09-12,Chennai,Porur,Villa,4,2168.1,1639.6,13,4,4,4,2,Unfurnished,North,Yes,3.73,13.95,12,49.9,9.4,5190,Owner,Yes,65000,200.65
+PROP-10623,2025-06-05,Bengaluru,Yelahanka,Apartment,2,985.5,835.3,12,5,26,2,1,Furnished,West,Yes,3.87,22.9,6,17.6,6.3,5200,Owner,Yes,35200,107.83
+PROP-10624,2026-06-24,Hyderabad,Kondapur,Apartment,4,2237.0,1754.7,9,8,35,3,1,Semi-Furnished,South,Yes,9.45,4.75,3,,4.1,5550,Builder,Yes,93500,137.33
+PROP-10625,2026-06-08,Pune,Baner,Apartment,4,2331.4,2004.5,11,11,16,5,1,Unfurnished,South,Yes,6.58,16.54,11,41.6,7.2,6190,Builder,No,55100,147.01
+PROP-10626,2025-09-22,Hyderabad,Kondapur,Apartment,5,3883.3,3165.2,3,10,28,4,2,Semi-Furnished,East,Yes,4.87,7.02,1,35.3,4.0,19950,Broker,Yes,118000,262.59
+PROP-10627,2025-09-12,Pune,Hadapsar,Apartment,3,1984.4,1658.8,6,1st,10,3,1,Semi-Furnished,North,No,7.26,5.24,6,14.8,2.2,7760,Owner,Yes,68100,123.13
+PROP-10628,2025-03-14,Pune,Wakad,Independent House,2,906.6,667.4,12,2,3,1,0,Semi-Furnished,South-East,Yes,3.9,19.21,12,,5.3,4020,Owner,Yes,22000,62.58
+PROP-10629,2025-09-14,Bengaluru,Whitefield,Apartment,3,1556.0,1168.7,0,13,16,3,0,Semi-Furnished,East,Yes,8.37,16.27,0,65.1,7.7,6230,Broker,Yes,75900,121.48
+PROP-10630,2025-01-30,Bengaluru,HSR Layout,Villa,4,2570.6,2005.7,38,1st,3,4,1,Furnished,West,No,,5.59,9,70.5,1.0,12050,Broker,Yes,91500,206.4
+PROP-10631,2026-04-08,Hyderabad,Madhapur,Apartment,2,976.5,775.4,12,22,22,2,0,Semi-Furnished,East,Yes,0.5,26.57,0,33.8,4.4,2500,Builder,Yes,24500,81.8
+PROP-10632,2025-05-11,Bengaluru,Marathahalli,Apartment,2,852.7,590.2,12,1,7,3,2,Unfurnished,North-East,Yes,5.03,14.27,8,41.9,9.5,3250,Owner,Yes,42100,93.35
+PROP-10633,2025-12-21,Hyderabad,Manikonda,Apartment,4,1547.5,1056.1,14,4,29,4,2,Furnished,South-East,No,9.54,18.72,2,60.5,6.5,4330,Broker,Yes,36300,128.56
+PROP-10634,2025-10-20,Pune,Baner,Apartment,5,1925.5,,5,4,20,4,2,Semi-Furnished,South,Yes,6.7,18.3,12,31.5,8.8,4060,Broker,Yes,59600,161.96
+PROP-10635,2025-06-20,Bengaluru,Electronic City,Independent House,4,2392.7,1710.4,11,2,4,5,2,Semi-Furnished,West,Yes,0.4,4.64,1,9.2,8.5,8120,Builder,Yes,94500,261.78
+PROP-10636,2025-08-24,Pune,Baner,Villa,4,2352.7,1980.0,8,1,1,3,1,Semi-Furnished,South,Yes,5.22,3.87,3,24.1,6.1,11540,Builder,No,56200,215.06
+PROP-10637,2026-07-20,Hyderabad,Gachibowli,Apartment,3,1298.4,949.9,14,11,28,3,1,Unfurnished,South-East,No,4.55,20.87,8,46.9,8.1,4240,Builder,Yes,30100,83.34
+PROP-10638,2026-05-06,Delhi NCR,Dwarka,Apartment,3,1235.2,872.7,0,24,35,4,1,Semi-Furnished,North-East,Yes,5.85,15.9,12,9.2,6.9,6760,Builder,Yes,29300,121.85
+PROP-10639,2026-07-17,Delhi NCR,Noida,Apartment,2,1188.9,1019.6,0,22,25,2,1,Unfurnished,South,No,2.17,5.96,2,30.3,5.5,5670,Builder,Yes,44600,92.97
+PROP-10640,2026-07-26,Delhi NCR,Ghaziabad,Apartment,2,1268.8,1060.8,20,2nd,14,1,2,Unfurnished,South,Yes,2.41,16.03,8,42.1,5.6,3050,Broker,Yes,47100,101.4
+PROP-10641,2025-11-13,Pune,Baner,Apartment,3,1624.7,1217.0,4,1,4,3,2,Semi-Furnished,South-East,No,0.2,7.23,12,25.4,5.9,7520,Broker,Yes,33900,150.62
+PROP-10642,2025-10-03,Pune,Hinjewadi,Apartment,2,,845.2,24,Ground,12,2,2,Unfurnished,East,No,5.46,7.12,1,33.0,3.6,2230,Owner,No,26000,74.19
+PROP-10643,2026-07-16,Hyderabad,Kukatpally,Independent House,2,1120.4,931.4,11,1st,2,2,1,Unfurnished,North-East,No,7.06,10.72,9,22.9,6.2,2300,Broker,Yes,31700,82.86
+PROP-10644,2025-01-24,Chennai,Tambaram,Apartment,2,988.8,780.4,11,7,34,2,1,Semi-Furnished,South-East,Yes,0.85,8.49,5,32.0,7.9,3230,Broker,Yes,37500,86.97
+PROP-10645,2025-04-03,Hyderabad,Gachibowli,Independent House,2,1285.8,,0,1st,2,1,1,Unfurnished,North-East,Yes,5.62,15.59,7,29.7,9.0,6940,Builder,Yes,32100,112.85
+PROP-10646,2025-05-16,Pune,Hinjewadi,Apartment,3,1728.5,1435.1,3,4,26,3,1,Unfurnished,North-East,No,3.95,8.79,7,60.4,8.7,9480,Broker,Yes,42600,129.89
+PROP-10647,2025-05-20,Pune,Wakad,Apartment,4,2606.2,2009.5,43,2,10,4,1,Unfurnished,North-East,Yes,4.68,10.98,6,46.7,10,8330,Builder,Yes,53000,144.57
+PROP-10648,2026-07-30,Bengaluru,Yelahanka,Apartment,4,1275.9,1071.0,8,11,34,4,2,Semi-Furnished,South,Yes,5.92,16.21,8,41.8,10,4220,Owner,Yes,39800,137.27
+PROP-10649,2025-11-18,Chennai,OMR,Apartment,3,1928.3,1604.1,7,1st,7,3,0,Furnished,South-East,Yes,11.01,8.94,7,61.6,8.1,5200,Builder,Yes,52400,143.49
+PROP-10650,2025-05-25,Delhi NCR,Gurugram,Independent House,3,1559.3,1148.0,6,2,2,3,1,Semi-Furnished,West,Yes,0.2,8.82,7,34.7,7.4,7120,Broker,Yes,53000,146.36
+PROP-10651,2025-09-05,Hyderabad,Madhapur,Independent House,2,1297.7,899.0,2,Ground,1,2,2,Semi-Furnished,West,Yes,6.31,20.68,4,49.5,10,6190,Owner,Yes,47200,127.59
+PROP-10652,2025-02-18,Hyderabad,Madhapur,Studio,1,590.0,447.5,9,2,2,1,2,Semi-Furnished,North-East,Yes,,19.07,6,67.7,10,2480,Broker,Yes,12600,51.38
+PROP-10653,2025-08-28,Hyderabad,Kukatpally,Independent House,3,1311.1,970.8,14,1st,4,3,2,Unfurnished,North,Yes,1.99,23.83,1,63.7,7.9,4040,,No,26800,119.02
+PROP-10654,2026-03-25,Chennai,Anna Nagar,Apartment,5,3124.0,2135.1,6,1,25,5,1,Unfurnished,South-East,Yes,7.23,18.83,4,35.2,6.9,8180,Builder,Yes,63700,207.09
+PROP-10655,2025-10-17,Chennai,Tambaram,Apartment,5,4068.3,3322.7,10,Ground,4,5,0,Unfurnished,South-East,No,7.34,9.92,12,28.3,3.2,79595,Owner,Yes,73300,244.77
+PROP-10656,2025-10-12,Bengaluru,Electronic City,Independent House,3,1439.7,1121.7,20,Ground,3,3,2,Furnished,North,Yes,2.62,1.0,9,67.1,7.6,6510,Builder,No,35400,153.11
+PROP-10657,2026-02-22,Delhi NCR,Noida,Apartment,3,1400.7,968.7,0,3,7,3,2,Semi-Furnished,South,No,1.27,22.65,3,62.5,4.1,4470,Builder,Yes,29500,113.94
+PROP-10658,2026-01-19,Pune,Baner,Apartment,4,,1670.7,6,15,29,4,0,Semi-Furnished,South,No,4.42,2.72,2,41.9,4.7,8550,Owner,Yes,58200,123.95
+PROP-10659,2025-06-03,Hyderabad,Kukatpally,Apartment,2,1113.9,823.2,,Ground,23,1,1,Furnished,East,Yes,6.49,10.85,1,30.1,7.6,4500,Owner,Yes,35400,98.38
+PROP-10660,2025-12-09,Hyderabad,Gachibowli,Villa,2,1216.7,836.1,16,1st,3,3,1,Semi-Furnished,East,Yes,2.68,22.27,1,70.1,5.6,5820,Owner,Yes,48100,106.84
+PROP-10661,2025-07-11,Delhi NCR,Faridabad,Apartment,4,1553.8,1208.5,4,1st,12,5,2,Unfurnished,West,Yes,7.14,12.0,10,,6.0,3150,Owner,Yes,46100,135.79
+PROP-10662,2026-01-10,Hyderabad,Manikonda,Apartment,4,2304.6,1614.7,14,Ground,1,4,1,Furnished,North,Yes,0.2,5.49,1,27.2,4.6,10950,Owner,No,81500,200.77
+PROP-10663,2025-08-10,Bengaluru,Whitefield,Apartment,2,884.9,614.7,16,18,21,2,2,Semi-Furnished,South-East,Yes,1.87,19.21,11,89.5,9.1,2820,Builder,Yes,39100,91.37
+PROP-10664,2025-08-05,Hyderabad,Manikonda,Apartment,2,1016.1,784.0,,2nd,7,2,1,Unfurnished,North-East,Yes,10.74,12.49,3,50.0,10,2240,Builder,Yes,42400,112.99
+PROP-10665,2026-01-17,Delhi NCR,Ghaziabad,Villa,2,1517.0,1189.2,6,Ground,1,1,1,Semi-Furnished,North,Yes,4.38,9.62,2,53.7,8.8,4940,Broker,Yes,34800,171.51
+PROP-10666,2026-03-02,Hyderabad,Gachibowli,Apartment,4,2376.5,1790.2,9,2,4,5,1,Furnished,West,Yes,4.95,6.07,9,54.7,6.2,5340,Builder,Yes,76900,177.22
+PROP-10667,2026-03-06,Chennai,OMR,Apartment,2,758.1,537.2,0,13,34,1,3,Unfurnished,South,No,4.49,1.0,1,30.4,4.3,1920,Builder,Yes,29500,69.11
+PROP-10668,2025-07-21,Pune,Wakad,Independent House,2,1048.8,896.2,0,1st,1,2,2,Unfurnished,North-East,No,9.89,11.9,9,46.3,4.9,3030,Owner,Yes,27400,106.96
+PROP-10669,2025-09-30,Pune,Kharadi,Villa,4,2013.3,1588.1,15,Ground,2,4,1,Semi-Furnished,North,Yes,7.29,12.45,12,34.6,7.8,9870,Owner,Yes,64300,179.09
+PROP-10670,2025-10-16,Pune,Hinjewadi,Apartment,3,1749.6,1500.3,20,4,27,3,2,Furnished,South-East,Yes,,4.95,4,27.7,7.7,8430,Broker,Yes,66200,142.77
+PROP-10671,2026-05-27,Delhi NCR,Noida,Independent House,3,1415.0,1024.7,13,Ground,1,2,0,Furnished,South-East,Yes,,17.28,11,38.6,10,6680,Owner,Yes,54200,120.35
+PROP-10672,2025-01-09,Delhi NCR,Dwarka,Villa,5,3206.7,2709.4,6,2,4,5,1,Furnished,North-East,No,6.69,4.12,6,61.6,6.1,7300,Owner,Yes,110800,313.28
+PROP-10673,2025-10-20,Delhi NCR,Ghaziabad,Independent House,2,1197.3,978.1,13,2,3,2,1,Semi-Furnished,North,No,,21.17,4,52.0,7.2,5400,Broker,Yes,36500,99.77
+PROP-10674,2025-12-31,Pune,Kharadi,Apartment,4,,1639.3,12,6,20,3,1,Semi-Furnished,South-East,No,2.25,16.18,10,82.3,6.1,8220,Broker,Yes,54600,130.44
+PROP-10675,2025-01-26,Hyderabad,Gachibowli,Apartment,3,963.4,751.7,15,5,14,3,2,Unfurnished,North-East,No,4.41,26.97,10,56.5,4.2,2310,Builder,No,37400,61.82
+PROP-10676,2025-02-16,Chennai,Velachery,Apartment,2,1141.7,869.5,2,3,13,1,1,Unfurnished,North,No,3.24,8.97,2,31.1,7.5,2530,Broker,Yes,36800,67.96
+PROP-10677,2025-05-05,Delhi NCR,Faridabad,Independent House,2,1162.7,857.6,14,Ground,2,2,0,Unfurnished,North-East,Yes,10.08,24.47,12,18.8,9.4,5150,Owner,Yes,24500,85.85
+PROP-10678,2026-06-19,Hyderabad,Kukatpally,Apartment,3,1369.5,1079.4,,11,16,3,2,,East,No,9.69,20.25,3,23.3,,6060,Broker,Yes,44900,117.62
+PROP-10679,2026-06-02,Hyderabad,Madhapur,Apartment,3,1344.3,1115.4,0,4,15,3,1,Unfurnished,East,No,3.38,14.08,0,25.2,5.0,5100,Owner,Yes,55200,120.15
+PROP-10680,2025-08-10,Hyderabad,Gachibowli,Apartment,2,939.3,655.6,0,5,15,1,3,Semi-Furnished,South-East,Yes,0.2,12.06,4,30.0,7.6,2940,Broker,Yes,21600,91.6
+PROP-10681,2025-02-20,Delhi NCR,Noida,Independent House,4,1638.7,1336.9,8,1,2,5,1,,South-East,Yes,6.96,23.93,5,29.1,8.3,7990,Owner,No,42300,166.92
+PROP-10682,2025-02-28,Chennai,Anna Nagar,Independent House,2,1452.6,,11,2nd,4,2,0,Semi-Furnished,South,No,5.54,24.95,10,33.5,4.7,7420,Builder,Yes,30900,95.56
+PROP-10683,2026-08-07,Bengaluru,Marathahalli,Apartment,4,1827.6,1263.6,10,2,31,4,1,Semi-Furnished,South-East,Yes,2.44,18.95,11,41.3,8.0,8560,Owner,Yes,52900,182.93
+PROP-10684,2026-03-17,Pune,Kharadi,Apartment,3,14533.9,1378.7,10,Ground,9,3,1,Furnished,South-East,Yes,3.71,6.21,1,25.8,9.1,4520,Builder,Yes,39300,154.17
+PROP-10685,2026-05-02,Pune,Baner,Apartment,3,1250.4,968.1,15,6,11,3,2,Unfurnished,North-East,No,6.2,20.4,6,40.3,5.3,111920,Owner,No,35500,84.01
+PROP-10686,2026-01-23,Pune,Kharadi,Independent House,3,1648.5,1388.1,7,1st,1,3,0,Semi-Furnished,South-East,No,2.11,10.61,1,34.3,6.4,6680,Owner,Yes,40000,136.54
+PROP-10687,2025-02-04,Bengaluru,Marathahalli,Villa,3,1639.2,1156.1,,3rd,4,4,2,Semi-Furnished,West,Yes,1.38,15.97,4,47.2,6.6,7960,Owner,Yes,66900,182.92
+PROP-10688,2026-06-26,Hyderabad,Madhapur,Villa,3,1602.7,1100.7,8,1,2,2,2,Semi-Furnished,East,Yes,,11.84,3,31.3,9.0,5820,Builder,Yes,33100,167.99
+PROP-10689,2025-11-09,Bengaluru,Electronic City,Apartment,2,1194.6,874.7,12,19,22,2,1,Unfurnished,South-East,Yes,3.91,19.48,4,68.9,3.8,3610,Builder,Yes,51900,63.38
+PROP-10690,2026-06-30,Pune,Hadapsar,Apartment,3,1940.6,1619.2,8,13,18,3,0,Semi-Furnished,South-East,Yes,8.37,15.87,9,52.0,6.2,7990,Owner,No,74500,134.51
+PROP-10691,2025-05-09,Delhi NCR,Ghaziabad,Independent House,2,1050.5,715.8,13,1st,4,2,0,Semi-Furnished,North,Yes,2.76,26.47,5,49.9,9.8,4980,Owner,Yes,37700,105.25
+PROP-10692,2025-03-22,Pune,Wakad,Apartment,1,656.3,531.8,36,2,7,1,2,Semi-Furnished,West,No,5.89,4.24,3,38.1,4.8,2870,Owner,Yes,24500,28.44
+PROP-10693,2025-07-07,Pune,Hinjewadi,Apartment,2,1006.2,743.5,15,Ground,6,2,2,Semi-Furnished,North,No,4.19,17.77,6,55.1,8.2,2490,Broker,Yes,26800,74.65
+PROP-10694,2026-05-14,Bengaluru,Marathahalli,Villa,3,1678.6,1365.5,4,Ground,1,4,2,Furnished,South-East,Yes,0.5,12.49,4,33.5,5.3,3650,Broker,Yes,66400,208.43
+PROP-10695,2025-01-10,Bengaluru,Marathahalli,Apartment,5,2666.8,1841.5,24,1st,24,6,1,Unfurnished,West,Yes,1.96,15.52,12,50.3,6.6,7210,Owner,Yes,116500,212.39
+PROP-10696,2025-08-04,Delhi NCR,Noida,Apartment,1,738.6,505.2,12,6,8,1,1,Furnished,West,No,8.0,18.51,9,56.2,3.6,2120,Broker,Yes,27600,60.37
+PROP-10697,2025-05-16,Delhi NCR,Noida,Independent House,3,1347.6,1034.6,7,1,2,3,0,Semi-Furnished,West,Yes,9.09,11.89,11,52.4,2.9,2770,Owner,Yes,33100,113.65
+PROP-10698,2025-06-01,Chennai,Anna Nagar,Independent House,2,1005.4,843.5,0,3rd,4,2,1,Semi-Furnished,North-East,No,6.13,15.74,6,53.4,4.1,3900,Broker,Yes,33100,97.7
+PROP-10699,2025-03-30,Delhi NCR,Gurugram,Apartment,2,1507.1,1237.0,14,24,26,3,1,Unfurnished,North-East,No,6.29,17.72,3,,4.1,7070,Builder,Yes,35600,108.66
+PROP-10700,2025-04-23,Pune,Kharadi,Villa,5,3406.9,2655.7,27,Ground,4,5,1,Unfurnished,South-East,No,0.2,8.18,9,33.4,,15090,Builder,Yes,123000,253.31
+PROP-10701,2025-07-20,Hyderabad,Kondapur,Independent House,4,2197.1,1714.5,3,1,1,4,1,Semi-Furnished,West,Yes,3.78,8.51,10,12.2,10,11380,Broker,Yes,68000,196.38
+PROP-10702,2026-02-11,Delhi NCR,Gurugram,Apartment,4,2525.3,1944.1,39,Ground,2,3,2,Semi-Furnished,West,No,0.44,12.42,12,,6.6,11080,Owner,Yes,112300,148.62
+PROP-10703,2026-08-30,Pune,Kharadi,Independent House,3,1467.5,,14,2,4,3,2,Semi-Furnished,North,Yes,7.11,9.23,1,55.7,9.3,3080,Owner,Yes,29400,142.88
+PROP-10704,2025-01-28,Delhi NCR,Faridabad,Apartment,2,1236.0,,10,7,28,2,2,Furnished,South-East,Yes,0.2,18.69,10,19.3,7.3,4340,Builder,Yes,45600,115.8
+PROP-10705,2025-06-07,Pune,Hinjewadi,Apartment,3,1608.5,,43,14,35,3,0,Semi-Furnished,South,No,9.94,20.85,12,65.6,7.2,6100,Broker,Yes,39900,32.44
+PROP-10706,2026-02-02,Delhi NCR,Dwarka,Independent House,2,986.9,774.6,3,2,4,2,2,Semi-Furnished,North,No,,20.55,7,75.0,3.4,2820,Builder,Yes,39400,97.52
+PROP-10707,2026-05-13, Bengaluru,Marathahalli,Villa,4,2510.9,1765.8,,Ground,2,5,1,Furnished,South,Yes,5.01,14.72,11,54.0,7.8,10400,Owner,Yes,61400,265.29
+PROP-10708,2025-01-06,Delhi NCR,Gurugram,Apartment,4,1944.4,1478.4,13,18,18,5,0,Unfurnished,South-East,Yes,1.8,13.37,3,38.8,8.7,4030,Owner,Yes,39300,150.94
+PROP-10709,2025-03-05,Hyderabad,Kondapur,Apartment,2,745.1,507.2,19,5,21,2,1,Semi-Furnished,South,Yes,7.89,13.58,11,50.8,9.0,3600,Builder,Yes,27100,41.73
+PROP-10710,2026-07-20,Hyderabad,Kukatpally,Villa,5,3498.8,2919.4,13,1st,4,5,1,Semi-Furnished,North-East,Yes,8.57,20.95,8,56.8,10,16400,Builder,Yes,83800,277.63
+PROP-10711,2025-01-21,Chennai,OMR,Studio,1,713.7,587.0,20,2,2,1,2,Furnished,South-East,No,3.56,17.15,11,16.5,3.4,2750,Builder,No,24400,51.57
+PROP-10712,2026-08-17,Hyderabad,Gachibowli,Apartment,3,1351.7,1009.3,8,33,35,2,2,Furnished,South,No,4.62,7.81,7,29.6,6.7,7050,Owner,Yes,43600,119.24
+PROP-10713,2025-06-16,Pune,Hadapsar,Villa,3,1095.7,,9,2,2,3,2,Furnished,North-East,Yes,7.98,25.92,9,46.2,6.2,3910,Builder,Yes,31800,112.56
+PROP-10714,2026-07-27,Bengaluru,Whitefield,Villa,4,2511.7,2108.8,0,1,4,4,1,Furnished,East,Yes,2.64,4.51,7,50.5,7.4,11900,Owner,Yes,88800,263.55
+PROP-10715,2025-01-11,Pune,Hadapsar,Apartment,2,1168.7,922.7,7,3,20,2,1,Semi-Furnished,South-East,Yes,1.3,18.99,12,5,5.8,3540,Owner,Yes,26800,107.99
+PROP-10716,2025-02-12,Chennai,OMR,Apartment,2,1284.0,1066.2,14,1,30,2,1,Furnished,North,N,4.63,17.23,4,59.9,5.1,3560,Owner,Yes,38600,84.93
+PROP-10717,2026-09-03,Bengaluru,Yelahanka,Apartment,3,1532.1,,3,13,23,3,0,Furnished,West,No,5.68,12.39,3,56.1,6.2,5160,Owner,Yes,71100,145.26
+PROP-10718,2026-03-14,Delhi NCR,Faridabad,Apartment,3,2137.7,1748.9,12,13,19,3,1,Semi-Furnished,West,No,8.11,22.18,8,29.8,3.7,9080,Builder,Yes,86200,147.78
+PROP-10719,2026-05-05,Pune,Hinjewadi,Apartment,4,1858.8,1308.0,29,3,3,4,3,Semi-Furnished,West,No,2.84,17.71,0,21.7,8.1,4540,Builder,Yes,55300,141.3
+PROP-10720,2026-05-16,Hyderabad,Kondapur,Apartment,1,567.6,410.1,20,1,2,1,2,Unfurnished,East,Yes,2.82,9.18,9,61.2,6.1,2820,Broker,Yes,14500,42.63
+PROP-10721,2025-10-05,Delhi NCR,Dwarka,Apartment,2,1286.0,1074.0,16,Ground,1,2,1,Unfurnished,North,No,9.57,18.11,7,44.3,9.2,3220,Broker,Yes,40600,83.17
+PROP-10722,2025-09-22,Bengaluru,HSR Layout,Villa,3,1490.7,1100.8,14,1,3,3,0,Unfurnished,North-East,Yes,9.25,11.52,1,46.9,10,5740,Owner,Yes,57000,155.35
+PROP-10723,2025-07-19, Bengaluru,Marathahalli,Apartment,2,1121.3,822.5,22,3,19,2,0,Semi-Furnished,South-East,No,2.81,11.48,4,54.5,,2390,Builder,Yes,24800,75.54
+PROP-10724,2025-12-01,Chennai,Velachery,Apartment,3,1663.9,1406.5,40,11,33,4,0,Semi-Furnished,West,Yes,4.37,15.4,8,54.4,5.6,3690,Builder,Yes,40500,73.59
+PROP-10725,2026-02-10,Hyderabad,Madhapur,Villa,4,2362.8,1649.9,0,1,1,4,1,Unfurnished,West,Yes,4.47,5.96,6,61.6,6.1,8010,Broker,No,55300,205.55
+PROP-10726,2025-10-22,Bengaluru,Marathahalli,Apartment,4,2013.5,1388.3,26,Ground,8,5,1,Unfurnished,South,Yes,2.51,8.49,10,39.7,6.9,8990,Owner,Yes,72500,152.93
+PROP-10727,2025-07-03,Bengaluru,HSR Layout,Villa,4,1652.7,1403.2,8,4,4,4,1,Semi-Furnished,East,No,7.07,9.51,11,,4.3,4040,Owner,Yes,62800,166.39
+PROP-10728,2025-07-31,Chennai,Tambaram,Apartment,3,1683.6,1336.1,13,10,13,4,2,Semi-Furnished,North,Yes,5.61,23.94,8,30.1,5.6,8820,Broker,Yes,59900,151.8
+PROP-10729,2026-08-10,Chennai,Velachery,Apartment,2,972.2,788.1,9,8,14,3,1,Semi-Furnished,North-East,Yes,6.96,16.09,7,45.3,6.5,5160,Builder,Yes,35200,79.45
+PROP-10730,2026-08-13,Bengaluru,Whitefield,Apartment,2,1127.3,941.4,18,2,24,2,2,Semi-Furnished,North,No,2.8,2.15,12,47.9,6.6,2750,Owner,Yes,27800,89.35
+PROP-10731,2025-08-06,Pune,Hinjewadi,Apartment,4,2564.1,1962.5,16,11,21,3,1,Semi-Furnished,North-East,Yes,0.2,10.96,12,57.2,8.6,6230,Builder,Yes,50100,168.52
+PROP-10732,2026-04-07,Bengaluru,Yelahanka,Apartment,2,1119.2,842.0,12,25,33,3,1,Semi-Furnished,North-East,Yes,4.12,19.8,5,42.6,10,5530,Owner,Yes,54100,105.39
+PROP-10733,2026-01-23,Hyderabad,Madhapur,Independent House,4,2230.4,1591.3,18,Ground,1,4,1,Semi-Furnished,South-East,Yes,1.43,2.22,3,32.0,7.4,4680,Builder,Yes,93500,182.4
+PROP-10734,2026-05-18,Hyderabad,Gachibowli,Apartment,2,1169.3,809.6,28,30,30,2,1,Unfurnished,North-East,No,1.53,9.59,4,31.9,7.6,2850,Builder,Yes,21100,73.77
+PROP-10735,2025-01-04,Hyderabad,Kondapur,Apartment,2,1297.8,1086.3,21,8,17,2,0,Semi-Furnished,South,Yes,6.87,1.0,9,17.7,9.1,4500,Owner,Yes,50200,95.03
+PROP-10736,2025-10-05,Delhi NCR,Ghaziabad,Apartment,3,1856.5,1553.5,9,10,16,4,2,Semi-Furnished,West,Yes,1.73,13.04,10,,10,9950,Broker,Yes,75200,168.59
+PROP-10737,2025-04-26,Chennai,OMR,Apartment,4,1636.6,1378.3,2,8,14,4,1,Semi-Furnished,North-East,Yes,5.14,20.59,12,,7.3,4710,Builder,Yes,28700,127.26
+PROP-10738,2026-08-29,Pune,Baner,Independent House,2,1234.1,867.5,13,1st,1,2,2,Unfurnished,North,Yes,6.72,12.44,7,27.2,8.3,3680,Builder,Yes,33900,108.53
+PROP-10739,2026-02-21,Hyderabad,Manikonda,Apartment,2,1190.1,927.2,44,19,31,1,3,Furnished,South,No,1.25,11.36,9,39.5,3.2,3010,Owner,Yes,48100,51.72
+PROP-10740,2025-06-05,Bengaluru,HSR Layout,Villa,3,1651.0,1126.9,,1st,2,4,2,Unfurnished,South,Yes,0.39,10.34,6,40.8,7.7,4160,Owner,Yes,43000,193.94
+PROP-10741,2026-04-18,Hyderabad,Madhapur,Villa,3,1776.0,1251.0,4,1,2,4,0,Unfurnished,West,Yes,6.25,14.09,3,68.1,10,7050,Builder,Yes,41200,159.31
+PROP-10742,2025-03-12,Bengaluru,Electronic City,Apartment,2,999.8,826.2,0,5,5,2,1,Unfurnished,North,No,2.6,13.15,11,74.3,6.2,4770,Broker,Yes,26000,74.24
+PROP-10743,2026-04-02,Hyderabad,Madhapur,Apartment,2,1155.1,832.4,9,2,9,1,1,Unfurnished,East,Yes,7.02,10.57,1,58.3,9.7,6100,Broker,Yes,29200,80.12
+PROP-10744,2026-08-12,Pune,Kharadi,Apartment,2,1069.0,847.3,7,2,27,3,2,Semi-Furnished,North,No,6.96,11.04,5,30.6,6.6,4160,Builder,Yes,20200,82.71
+PROP-10745,2025-11-16,Bengaluru,Yelahanka,Apartment,4,2400.5,2013.0,16,19,19,5,2,Unfurnished,North-East,Yes,11.51,1.0,10,32.2,7.9,7990,Builder,Yes,86700,219.18
+PROP-10746,2025-11-30,Bengaluru,Yelahanka,Studio,1,678.8,580.9,11,Ground,2,1,1,Unfurnished,North-East,No,5.34,14.94,12,5,10.0,2290,Broker,Yes,30400,52.22
+PROP-10747,2025-01-02,Hyderabad,Madhapur,Apartment,2,1100.2,779.3,8,26,34,2,1,Unfurnished,South-East,No,10.49,34.88,3,41.2,3.4,5820,,Yes,43600,62.95
+PROP-10748,2025-06-05,Hyderabad,Manikonda,Apartment,2,1038.1,760.4,7,Ground,8,1,1,Semi-Furnished,North-East,No,1.53,16.05,12,47.6,8.3,5190,Builder,Yes,37200,95.83
+PROP-10749,2025-02-21,Hyderabad,Kukatpally,Apartment,3,1754.9,1491.8,0,23,30,4,0,Unfurnished,South-East,Yes,0.2,9.88,1,72.1,5.8,6870,Owner,Yes,41900,120.6
+PROP-10750,2025-09-24,Pune,Wakad,Villa,3,1244.4,872.8,21,Ground,1,4,2,,South-East,Yes,8.38,6.94,5,22.5,3.8,6680,Builder,No,25800,106.87
+PROP-10751,2025-04-04,Pune,Hinjewadi,Apartment,2,1063.3,728.8,17,9,17,3,2,Unfurnished,West,Yes,5.45,15.37,0,30.0,6.7,4520,Builder,Yes,35700,77.92
+PROP-10752,2025-01-18,Hyderabad,Kukatpally,Apartment,3,1674.1,1430.2,19,22,34,4,2,Semi-Furnished,South-East,Yes,10.4,16.8,5,50.7,6.3,5170,Broker,Yes,70100,110.95
+PROP-10753,2026-07-30,hyderabad,Manikonda,Apartment,3,1886.4,1395.5,6,2,27,3,1,Unfurnished,South-East,No,0.2,22.21,0,32.4,6.0,4140,Owner,Yes,37800,144.97
+PROP-10754,2025-02-17,Hyderabad,Kondapur,Apartment,4,2332.1,1824.2,27,Ground,9,4,3,Semi-Furnished,North,Yes,4.51,2.95,3,53.5,10,10630,Broker,Yes,63400,163.87
+PROP-10755,2025-03-27,Bengaluru,Electronic City,Independent House,5,2668.7,2119.3,12,Ground,1,6,0,Unfurnished,East,Yes,4.61,3.69,3,55.4,6.8,13230,Builder,Yes,129300,233.82
+PROP-10756,2025-10-04,Delhi NCR,Gurugram,Villa,3,1641.1,1251.5,17,3,4,3,2,Furnished,West,No,3.83,16.97,1,31.9,,5820,Broker,Yes,52600,162.64
+PROP-10757,2026-03-20,Bengaluru,Marathahalli,Independent House,3,1198.8,893.2,28,3,3,3,1,Unfurnished,East,No,3.8,19.11,6,61.4,3.4,4700,Broker,Yes,36900,75.15
+PROP-10758,2025-10-22,Hyderabad,Madhapur,Apartment,2,857.4,732.7,6,6,6,1,0,Semi-Furnished,West,No,2.56,10.76,2,40.1,5.6,3720,Builder,Yes,29400,73.67
+PROP-10759,2025-05-02,Delhi NCR,Noida,Villa,4,2078.8,1614.5,23,2,4,3,1,Unfurnished,North,No,,17.27,5,33.3,8.4,6190,Broker,Yes,90100,196.04
+PROP-10760,2025-11-01,Delhi NCR,Faridabad,Apartment,4,2371.3,1824.5,19,1,25,4,1,Furnished,South,Yes,7.95,1.09,9,51.9,3.2,5410,Broker,Yes,48600,159.54
+PROP-10761,2026-04-23,Bengaluru,Whitefield,Apartment,3,1422.7,1178.1,9,1,27,2,2,Semi-Furnished,South,No,9.45,9.58,9,90.4,4.8,6440,Builder,Yes,41700,106.95
+PROP-10762,2026-07-20,Hyderabad,Gachibowli,Apartment,5,3452.8,2559.7,6,10,31,6,1,Furnished,West,Yes,6.49,17.31,7,42.2,6.6,9650,Builder,Yes,97500,236.38
+PROP-10763,2026-07-17,Hyderabad,Manikonda,Apartment,4,2382.8,1875.8,13,8,25,4,1,Unfurnished,South,Yes,5.29,11.79,6,35.0,6.9,12300,Builder,Yes,43700,157.68
+PROP-10764,2026-03-30,Bengaluru,Whitefield,Apartment,2,1354.5,1132.7,14,5,26,2,3,Unfurnished,North-East,Yes,10.1,23.0,12,41.1,5.8,4870,Owner,Yes,43700,103.77
+PROP-10765,2025-06-10,Bengaluru,Marathahalli,Apartment,2,575.6,487.9,0,1st,10,1,2,Furnished,South,Yes,12.36,13.94,3,43.6,7.8,3050,Broker,Yes,16400,83.36
+PROP-10766,2025-10-25,Hyderabad,Manikonda,Independent House,3,2000.0,1463.9,15,1,1,3,1,Furnished,North,Yes,1.72,14.03,5,51.0,8.9,9040,Broker,Yes,83500,163.36
+PROP-10767,2025-12-12,Chennai,Velachery,Apartment,4,2387.2,1859.6,5,Ground,21,3,2,Unfurnished,West,Yes,5.02,9.46,8,51.1,4.8,8320,Broker,Yes,54800,164.72
+PROP-10768,2026-01-14,Hyderabad,Gachibowli,Independent House,4,1412.1,1044.0,14,4,4,3,1,Unfurnished,West,No,6.2,5.91,12,21.2,4.7,6450,Builder,Yes,35300,117.48
+PROP-10769,2025-10-31,Bengaluru,Marathahalli,Apartment,1,699.8,533.9,41,3,30,1,2,Semi-Furnished,South-East,No,0.2,14.82,3,,6.7,3800,Owner,Yes,32500,34.4
+PROP-10770,2025-03-11,Bengaluru,Marathahalli,Apartment,2,861.6,611.0,12,25,34,2,2,Unfurnished,North-East,No,7.06,21.14,6,41.7,5.7,3690,Owner,Yes,30000,77.54
+PROP-10771,2025-12-09,Chennai,Porur,Apartment,3,1828.7,1471.2,5,3,9,3,2,Furnished,North-East,Yes,8.83,6.95,12,,10,7010,Owner,Yes,39000,153.2
+PROP-10772,2025-09-18,Bengaluru,Whitefield,Villa,5,2587.4,2040.7,12,1,1,5,1,Unfurnished,North,Yes,6.54,8.74,6,18.2,4.1,9700,Broker,Yes,79800,254.94
+PROP-10773,2025-05-04,Delhi NCR,Ghaziabad,Villa,2,1162.9,821.6,0,1,2,2,1,Unfurnished,North,Yes,6.94,22.47,7,63.6,9.2,5730,Broker,Yes,38800,127.43
+PROP-10774,2025-09-30,Chennai,Velachery,Apartment,3,1653.8,1158.5,8,1,15,2,2,Furnished,North,Yes,8.96,16.23,0,34.1,9.9,9070,Broker,Yes,29100,117.51
+PROP-10775,2026-08-15,Bengaluru,Marathahalli,Independent House,1,424.3,323.0,4,Ground,1,1,1,Unfurnished,North,No,1.69,1.0,4,32.5,5.0,1460,Owner,Yes,12400,77.45
+PROP-10776,2026-05-21,Hyderabad,Madhapur,Villa,3,1880.9,1360.8,0,1,1,3,1,Unfurnished,East,Yes,3.4,1.0,5,11.4,9.3,8620,Builder,Yes,41000,197.39
+PROP-10777,2026-08-24,Delhi NCR,Noida,Independent House,2,917.0,,14,Ground,4,2,2,Semi-Furnished,West,Yes,3.81,17.25,2,29.1,6.6,4970,Owner,Yes,36900,90.57
+PROP-10778,2025-09-01,Delhi NCR,Faridabad,Apartment,1,651.2,530.5,22,Ground,2,1,1,Semi-Furnished,North,Yes,4.58,15.86,0,33.8,8.9,3360,Broker,No,28600,66.75
+PROP-10779,2025-02-04,Hyderabad,Manikonda,Apartment,1,688.9,511.7,26,2nd,14,1,1,Unfurnished,South,No,9.76,6.44,5,45.4,5.1,2870,Broker,No,17100,19.25
+PROP-10780,2025-10-04,Pune,Hadapsar,Apartment,3,1736.1,1375.5,9,7,19,3,2,Semi-Furnished,South,Yes,2.32,7.22,11,38.6,6.7,4870,Builder,No,39100,95.93
+PROP-10781,2025-04-06,Delhi NCR,Gurugram,Apartment,2,916.6,767.5,5,Ground,9,1,1,Furnished,West,Yes,1.98,14.21,5,41.0,7.9,73205,Builder,Yes,25100,99.63
+PROP-10782,2026-04-05,Delhi NCR,Gurugram,Apartment,2,949.9,722.2,8,4,26,2,2,Unfurnished,East,Yes,3.35,19.45,6,24.0,7.2,4910,Owner,No,30000,93.06
+PROP-10783,2026-03-29,Hyderabad,Gachibowli,Apartment,2,1038.0,,0,1st,18,1,0,Semi-Furnished,East,Yes,3.72,18.57,11,43.0,6.3,4400,Builder,Yes,19900,64.67
+PROP-10784,2026-01-27,HYDERABAD,Manikonda,Studio,1,559.5,418.2,8,Ground,1,1,1,Semi-Furnished,South-East,No,0.2,15.9,11,21.3,5.9,2630,Owner,Yes,16700,61.61
+PROP-10785,2025-06-25,Hyderabad,Kondapur,Independent House,3,857.7,649.6,0,Ground,1,3,1,Semi-Furnished,East,No,3.73,27.83,5,23.6,3.0,2790,Owner,Yes,30600,85.33
+PROP-10786,2025-07-07,Chennai,Velachery,Apartment,2,1233.0,1002.6,8,5,11,2,2,Furnished,South-East,No,8.57,13.27,9,35.5,3.7,3210,Broker,Yes,24300,97.85
+PROP-10787,2026-03-31,Chennai,Anna Nagar,Apartment,4,2125.0,1602.3,14,5,17,3,0,Furnished,South,Yes,4.4,19.2,9,43.1,7.5,4350,Owner,Yes,45100,146.02
+PROP-10788,2026-08-30,Delhi NCR,Dwarka,Independent House,1,651.4,511.0,4,Ground,3,1,2,Semi-Furnished,North,No,5.7,17.75,5,47.7,5.9,1710,Builder,Yes,14800,53.72
+PROP-10789,2025-06-27,Delhi NCR,Gurugram,Apartment,1,522.0,416.9,7,12,18,1,2,Semi-Furnished,North,Yes,3.2,14.95,4,45.9,9.6,2760,Builder,Yes,13700,50.98
+PROP-10790,2026-01-06,Bengaluru,Electronic City,Independent House,3,1689.7,1211.5,13,1st,1,2,3,Unfurnished,South,Yes,3.18,9.19,4,50.3,9.7,6100,Owner,Yes,54500,175.73
+PROP-10791,2026-07-28, Bengaluru,Whitefield,Apartment,3,1644.6,1171.6,0,13,18,2,1,Furnished,North,Yes,0.2,22.39,7,26.9,5.4,4280,Owner,Yes,42800,137.91
+PROP-10792,2025-07-22,Hyderabad,Kukatpally,Apartment,2,1353.7,,6,14,17,3,2,Unfurnished,East,No,6.68,14.46,3,26.8,3.3,4690,Owner,Yes,39600,114.04
+PROP-10793,2026-05-16,Chennai,Porur,Apartment,1,801.8,578.0,6,15,21,1,1,Semi-Furnished,East,Yes,5.65,4.15,12,69.3,7.9,2940,Builder,Yes,14800,56.5
+PROP-10794,2025-03-10,Bengaluru,Marathahalli,Apartment,4,1714.2,1246.5,10,4,6,4,2,Furnished,East,No,5.84,13.21,7,58.5,8.5,7960,Owner,No,80200,181.86
+PROP-10795,2025-02-07,Bengaluru,Whitefield,Apartment,4,2188.8,1858.1,0,10,31,5,2,Unfurnished,North-East,Yes,,15.46,8,32.1,8.3,6190,Owner,No,48600,188.25
+PROP-10796,2026-03-18,Bengaluru,Yelahanka,Apartment,1,742.2,569.2,4,7,31,2,2,Unfurnished,South,Yes,5.64,19.56,9,30.2,5.0,3080,Broker,Yes,29400,58.39
+PROP-10797,2025-05-23,Bengaluru,HSR Layout,Apartment,4,2627.6,1883.9,12,5,20,5,2,,North-East,No,5.53,13.38,5,48.9,3.0,13060,Broker,Yes,98300,207.75
+PROP-10798,2026-06-06,Pune,Hadapsar,Apartment,3,1458.8,1012.4,,12,27,3,1,Unfurnished,North,Yes,1.03,21.92,10,73.6,7.5,3900,Broker,Yes,48900,102.02
+PROP-10799,2025-08-29,Hyderabad,Manikonda,Independent House,4,1692.2,1278.2,10,Ground,2,4,0,Semi-Furnished,North,Yes,6.04,8.1,4,52.1,9.5,4320,Builder,Yes,52200,174.29
+PROP-10800,2025-10-12,Delhi NCR,Dwarka,Villa,4,2553.8,2054.9,,3rd,4,4,1,Unfurnished,East,No,6.83,13.09,4,42.4,8.2,13680,Builder,Yes,86700,231.31
+PROP-10801,2025-09-16,Hyderabad,Gachibowli,Villa,4,1945.3,1349.2,0,1,1,3,1,Semi-Furnished,South-East,Yes,5.09,16.89,10,10.5,6.5,9060,Broker,Yes,65400,170.22
+PROP-10802,2026-03-01,Hyderabad,Manikonda,Apartment,1,558.8,474.5,44,6,10,1,0,Furnished,South,Yes,3.19,12.28,10,39.1,10,1250,Builder,Yes,12300,18
+PROP-10803,2025-05-16,Pune,Wakad,Independent House,4,1758.2,1404.6,29,1,3,4,1,Unfurnished,West,Yes,0.89,17.86,1,35.6,3.1,5880,Builder,Yes,44900,118.43
+PROP-10804,2025-05-27,Hyderabad,Manikonda,Apartment,1,662.9,541.2,17,8,17,1,1,Furnished,West,Yes,11.46,15.66,8,,5.5,3410,Builder,Yes,23800,25.2
+PROP-10805,2026-01-20,Pune,Wakad,Apartment,3,983.6,696.5,0,7,24,2,1,Furnished,North-East,Yes,8.14,1.0,0,42.0,9.1,4590,Builder,No,22700,117.07
+PROP-10806,2026-05-26,Bengaluru,HSR Layout,Apartment,3,1062.6,803.9,6,25,29,3,2,Unfurnished,North,No,4.79,22.7,4,20.6,8.0,4160,Builder,Yes,39700,91.95
+PROP-10807,2025-07-10,Bengaluru,Marathahalli,Apartment,5,3379.4,2321.4,8,19,30,6,3,Semi-Furnished,North-East,Yes,2.82,17.83,7,72.8,6.4,14640,Builder,Yes,162800,270.15
+PROP-10808,2026-07-21,Bengaluru,Yelahanka,Apartment,2,1124.2,845.0,28,5,27,2,2,Semi-Furnished,North-East,No,3.12,23.2,2,34.5,2.9,5360,Broker,Yes,34100,65.69
+PROP-10809,2025-01-11,Delhi NCR,Faridabad,Apartment,3,,871.6,9,1st,1,3,1,Unfurnished,East,No,5.37,10.6,3,20.9,3.7,6320,Owner,Yes,27500,110.15
+PROP-10810,2026-07-08,Hyderabad,Kukatpally,Independent House,2,955.6,755.9,9,Ground,2,2,2,Semi-Furnished,South,Yes,3.57,21.89,9,44.0,6.1,4040,Owner,Yes,30800,91.71
+PROP-10811,2026-08-06,Bengaluru,Marathahalli,Apartment,3,1335.4,979.4,44,Ground,10,4,1,Unfurnished,South,Yes,50.79,4.38,6,19.7,4.9,5580,Builder,No,43500,75.82
+PROP-10812,2025-01-07,Delhi NCR,Gurugram,Apartment,4,1760.4,1324.5,10,7,24,3,1,Semi furnished ,North,No,5.03,7.79,7,48.1,7.6,9160,Owner,Yes,75700,161.67
+PROP-10813,2025-12-08,Chennai,Porur,Apartment,2,1120.0,776.2,14,12,21,1,0,Semi-Furnished,West,Yes,6.67,20.67,5,57.4,8.0,5210,Broker,Yes,20500,67.53
+PROP-10814,2025-01-06,Chennai,Tambaram,Apartment,3,1180.8,847.6,16,9,19,3,2,Unfurnished,North-East,Yes,5.5,12.52,7,58.9,7.2,5940,Broker,Yes,22200,85.19
+PROP-10815,2025-12-21,Bengaluru,HSR Layout,Apartment,3,1833.9,1258.3,13,2,23,3,3,Unfurnished,North-East,Yes,,16.58,3,46.3,7.1,8890,Owner,Yes,39000,162.34
+PROP-10816,2026-07-14,Hyderabad,Kukatpally,Apartment,3,,1398.6,6,1,26,3,0,Unfurnished,North-East,Yes,2.62,14.03,4,,6.5,6870,Broker,No,42400,137.83
+PROP-10817,2026-01-27,Hyderabad,Manikonda,Apartment,2,810.5,,18,1,3,3,1,Semi-Furnished,East,Yes,4.56,12.15,7,,7.1,2730,Builder,Yes,16400,61.08
+PROP-10818,2025-04-05,Delhi NCR,Noida,Apartment,2,1148.2,822.1,19,Ground,17,3,2,Furnished,West,Yes,2.95,1.0,8,40.5,2.0,4690,Builder,Yes,26800,99.96
+PROP-10819,2025-06-12,Chennai,Porur,Independent House,1,721.6,509.6,24,Ground,1,1,1,Semi-Furnished,North-East,Yes,6.53,19.54,2,37.8,6.4,3100,Builder,No,25700,30.95
+PROP-10820,2026-02-01,Bengaluru,Whitefield,Apartment,5,3674.1,2738.7,7,4,4,5,2,Furnished,North,Yes,8.51,19.92,1,48.2,8.4,16730,Owner,Yes,160500,269.16
+PROP-10821,2025-08-31,Hyderabad,Kukatpally,Apartment,2,1060.3,721.5,1,Ground,1,2,0,Semi-Furnished,North,Yes,0.61,14.27,7,76.8,7.4,4040,Builder,No,20400,82.61
+PROP-10822,2026-04-17,Hyderabad,Gachibowli,Apartment,3,,1377.0,4,7,35,2,2,Semi-Furnished,North-East,Yes,2.01,19.95,3,66.9,6.5,4280,Owner,Yes,59800,124.81
+PROP-10823,2026-07-25,Pune,Hadapsar,Apartment,4,1540.8,1316.5,44,27,35,3,1,Furnished,East,No,12.09,8.21,10,29.3,9.0,8370,Owner,Yes,36400,80.23
+PROP-10824,2026-02-22,Bengaluru,Yelahanka,Apartment,3,1774.2,1407.9,16,16,23,3,1,Furnished,East,No,7.66,7.77,2,51.8,3.2,4480,Owner,Yes,53500,128.71
+PROP-10825,2025-04-07,Hyderabad,Kukatpally,Apartment,2,,823.3,39,6,10,2,0,Unfurnished,North,Yes,3.96,15.51,3,39.5,6.5,3370,Broker,No,33800,52.6
+PROP-10826,2026-06-22,Pune,Wakad,Apartment,2,,781.5,9,1,17,2,2,Semi-Furnished,North,Yes,7.73,6.46,7,76.2,5.7,4070,Owner,Yes,37500,78.54
+PROP-10827,2026-05-05,Pune,Baner,Independent House,4,2432.1,1747.9,2,Ground,1,4,2,Semi-Furnished,West,Yes,3.05,6.68,8,56.9,6.7,8850,Broker,No,93600,203.66
+PROP-10828,2026-02-09,HYDERABAD,Gachibowli,Independent House,2,972.7,694.0,16,Ground,2,2,2,Semi-Furnished,West,Yes,5.3,11.52,6,32.0,7.1,4900,Broker,Yes,35300,89.92
+PROP-10829,2025-10-28,Delhi NCR,Faridabad,Apartment,4,2024.4,1536.6,4,3,11,4,2,Unfurnished,South,Yes,6.25,13.92,11,47.9,7.2,8420,Builder,Yes,68900,183.28
+PROP-10830,2025-09-09,Hyderabad,Manikonda,Apartment,4,2089.2,,6,2,6,4,1,Semi-Furnished,West,Yes,2.18,4.77,1,32.9,8.7,5090,Builder,Yes,77100,204.98
+PROP-10831,2026-01-23,Hyderabad,Kukatpally,Studio,1,639.4,449.6,4,1st,4,1,1,Semi-Furnished,South-East,No,8.01,11.52,4,41.5,5.2,3080,Builder,Yes,12300,47.68
+PROP-10832,2025-01-15,Pune,Wakad,Apartment,2,1191.0,965.9,18,1,4,2,0,Semi-Furnished,West,Yes,5.67,13.95,6,23.0,6.2,4750,Builder,No,41600,75.96
+PROP-10833,2026-07-09,Hyderabad,Kukatpally,Apartment,3,1943.2,1599.1,8,13,17,2,1,Semi-Furnished,East,Yes,3.42,9.7,8,82.2,4.7,8640,Owner,Yes,61800,142.44
+PROP-10834,2026-07-01,Hyderabad,Manikonda,Independent House,3,1234.6,847.2,8,1,1,3,1,Semi-Furnished,West,Yes,,21.55,9,61.0,,3030,Builder,Yes,43100,133.89
+PROP-10835,2025-12-16,Hyderabad,Gachibowli,Apartment,2,1174.0,801.8,7,10,12,2,1,Semi-Furnished,South,Yes,6.35,22.28,8,38.1,5.6,4390,Builder,No,39100,67.82
+PROP-10836,2026-08-12,Bengaluru,Yelahanka,Villa,4,2313.5,1951.7,15,Ground,4,4,2,Furnished,East,Yes,7.41,6.67,1,39.8,8.5,10480,Owner,Yes,69200,244.03
+PROP-10837,2025-05-16,Delhi NCR,Dwarka,Apartment,3,1416.8,1076.6,17,6,25,4,1,Unfurnished,North-East,No,2.72,15.1,12,64.4,8.3,3130,Broker,Yes,43200,106.63
+PROP-10838,2025-10-26,Bengaluru,Marathahalli,Villa,3,1678.0,1225.0,0,2,3,3,2,Semi-Furnished,South,Yes,4.83,12.82,0,42.7,5.6,6420,Broker,Yes,76300,194.08
+PROP-10839,2026-04-27,Bengaluru,Marathahalli,Apartment,2,1142.0,,12,4,5,3,1,Furnished,North,Yes,6.08,9.66,8,25.5,8.6,3990,Owner,Yes,34500,114.54
+PROP-10840,2026-05-03,Delhi NCR,Faridabad,Apartment,4,1768.6,1297.6,13,1st,27,4,2,Semi-Furnished,South-East,Yes,4.06,22.91,4,46.2,7.2,7670,Builder,Yes,66000,146.39
+PROP-10841,2025-08-17,Delhi NCR,Ghaziabad,Independent House,2,968.3,755.2,33,3,3,3,0,Unfurnished,North,Yes,1.36,23.03,12,37.1,5.6,3660,Broker,Yes,32500,50.75
+PROP-10842,2026-04-16,Pune,Hadapsar,Apartment,3,1026.5,777.9,14,1,3,3,2,Semi-Furnished,South,Yes,8.79,10.95,0,72.2,3.4,2600,Builder,Yes,27000,85.2
+PROP-10843,2025-08-14,Pune,Baner,Apartment,2,1312.0,907.9,5,16,18,2,1,Semi-Furnished,South-East,Yes,0.25,5.87,8,59.3,5.0,6320,Builder,Yes,26300,105.43
+PROP-10844,2025-04-03,Pune,Hadapsar,Apartment,3,1505.8,1099.8,0,13,34,2,2,Semi-Furnished,South-East,Yes,6.4,2.45,3,59.7,5.6,6600,Owner,No,42500,112.28
+PROP-10845,2026-03-15,Bengaluru,HSR Layout,Villa,5,3445.9,2692.5,0,1,1,5,1,Semi-Furnished,South,Yes,8.19,20.17,9,51.0,7.4,8960,Owner,Yes,78700,325.11
+PROP-10846,2026-08-21,Pune,Baner,Apartment,4,2902.6,2120.4,,2,17,4,1,Unfurnished,South,Yes,5.56,24.93,8,55.8,4.3,14370,Broker,Yes,52300,171.83
+PROP-10847,2025-07-04,Bengaluru,Whitefield,Apartment,2,791.7,639.8,8,26,26,3,1,Unfurnished,North-East,Yes,,14.95,2,65.5,6.4,2690,Builder,Yes,32100,59.88
+PROP-10848,2025-08-13,Hyderabad,Madhapur,Villa,4,1767.4,1458.6,24,Ground,4,5,2,Furnished,North,Yes,9.25,1.0,6,44.6,6.4,7220,Broker,Yes,56700,147.01
+PROP-10849,2025-07-15,Hyderabad,Manikonda,Apartment,3,1705.8,1437.9,5,21,28,3,1,Semi-Furnished,North,Yes,3.41,20.19,5,20.6,7.9,8560,Broker,Yes,71500,139.94
+PROP-10850,2026-01-12,Bengaluru,Electronic City,Villa,4,2139.7,1778.5,0,2,3,4,1,Furnished,East,Yes,0.2,20.14,9,52.1,5.7,8150,Owner,Yes,48200,216.1
+PROP-10851,2026-04-07,Pune,Hinjewadi,Studio,1,612.2,469.6,28,Ground,2,1,2,Unfurnished,North-East,No,8.3,19.95,6,53.7,2.6,2510,Broker,Yes,16100,18
+PROP-10852,2025-05-02,Hyderabad,Madhapur,Independent House,3,1416.7,1054.4,3,Ground,3,3,2,Semi-Furnished,West,No,4.6,14.52,3,36.5,8.2,5210,Broker,Yes,32600,133.95
+PROP-10853,2025-04-03,Delhi NCR,Dwarka,Apartment,4,1703.8,1203.8,2,6,7,5,2,Unfurnished,North,Yes,6.22,7.99,5,62.8,5.8,7240,Broker,Yes,42400,166.68
+PROP-10854,2025-04-28,Pune,Wakad,Apartment,3,1537.6,1266.2,18,12,19,3,2,Semi-Furnished,South-East,Yes,5.35,13.1,8,21.2,7.0,6450,Builder,No,57000,116.69
+PROP-10855,2025-05-12,Bengaluru,HSR Layout,Apartment,2,1164.8,811.8,17,5,5,2,2,Unfurnished,East,No,3.19,7.49,0,38.6,4.2,4620,Owner,Yes,34200,93.85
+PROP-10856,2025-03-21,Bengaluru,Electronic City,Studio,1,590.6,483.5,14,Ground,3,2,2,Semi-Furnished,South-East,No,5.14,24.45,6,64.5,4.1,2420,Owner,Yes,19800,46.43
+PROP-10857,2026-04-09,Delhi NCR,Faridabad,Independent House,2,1210.3,852.3,0,Ground,2,2,1,Semi-Furnished,North,Yes,10.09,12.69,6,10.2,5.8,4490,Owner,Yes,39800,111.91
+PROP-10858,2026-01-01,Hyderabad,Kukatpally,Apartment,2,1287.4,1018.4,,9,30,2,2,Semi-Furnished,East,Yes,10.35,18.15,1,14.7,5.8,5960,Owner,Yes,41200,94.24
+PROP-10859,2025-10-23,Pune,Hadapsar,Apartment,2,1063.4,816.2,0,2nd,17,1,0,Furnished,North-East,Yes,,11.54,5,27.7,9.9,5770,Broker,Yes,24000,96.03
+PROP-10860,2026-08-27,Bengaluru,Electronic City,Apartment,3,1902.0,1489.4,5,2,5,3,1,Semi-Furnished,North,Yes,10.06,4.33,3,44.4,7.7,5540,Broker,Yes,68300,163.1
+PROP-10861,2025-09-14,Hyderabad,Kondapur,Independent House,1,752.8,544.9,10,3rd,4,1,0,Semi-Furnished,East,Yes,9.72,17.61,8,30.1,7.4,2330,Owner,Yes,30500,41.86
+PROP-10862,2026-01-17,Pune,Hinjewadi,Apartment,3,1583.6,1233.3,18,20,34,3,1,Unfurnished,West,No,7.42,6.16,0,53.2,7.0,6370,Builder,No,51500,107.83
+PROP-10863,2025-09-20,Hyderabad,Kondapur,Apartment,1,665.6,567.5,11,20,22,1,2,Unfurnished,East,No,6.56,17.9,1,65.2,7.7,80976,Owner,Yes,17000,40.95
+PROP-10864,2025-08-01,Hyderabad,Kukatpally,Apartment,2,994.7,,5,1st,18,2,1,FURNISHED ,South,Yes,4.59,16.53,2,55.8,6.7,4300,Owner,Yes,19700,85.57
+PROP-10865,2025-09-28,Bengaluru,Electronic City,Apartment,2,937.0,724.3,3,3rd,8,3,1,Furnished,West,Yes,3.65,17.74,2,28.5,7.2,4510,Owner,Yes,20000,96.82
+PROP-10866,2026-07-31,Hyderabad,Gachibowli,Villa,4,2310.5,1719.4,1,1,2,5,1,Semi-Furnished,North-East,Yes,,14.3,12,58.2,9.8,12690,Broker,Yes,86700,224.43
+PROP-10867,2025-08-27,Hyderabad,Kukatpally,Independent House,2,1056.3,729.8,20,2nd,4,2,2,Semi-Furnished,South,Yes,2.03,10.19,4,62.0,4.8,5620,Broker,Yes,37300,72.32
+PROP-10868,2025-11-28,Chennai,Anna Nagar,Apartment,3,1387.9,1135.1,2,6,19,3,1,Semi-Furnished,East,Yes,3.85,9.46,7,43.5,9.2,4810,Builder,Yes,53800,115.06
+PROP-10869,2025-03-27,Delhi NCR,Dwarka,Apartment,2,1049.2,822.6,3,6,7,3,1,Semi-Furnished,North-East,Yes,0.69,5.72,12,19.6,6.4,3620,Owner,Yes,47800,123.06
+PROP-10870,2025-07-21,Hyderabad,Kukatpally,Apartment,2,912.8,702.4,30,Ground,1,2,1,Semi-Furnished,West,No,6.49,14.63,2,40.2,4.5,2490,Builder,Yes,22700,51.23
+PROP-10871,2026-06-02,Bengaluru,Marathahalli,Apartment,2,1031.6,,13,6,11,2,1,Semi-Furnished,South,Yes,0.2,16.39,9,55.7,5.2,5310,Builder,Yes,38600,107.69
+PROP-10872,2025-10-06,Hyderabad,Kukatpally,Villa,3,1749.4,1281.6,0,1,1,4,1,Unfurnished,North-East,Yes,5.94,19.0,2,51.7,5.2,3670,Owner,Yes,55300,174.4
+PROP-10873,2025-09-15,Hyderabad,Gachibowli,Apartment,2,1179.6,997.0,8,13,31,2,1,Unfurnished,North,No,0.2,10.47,1,36.6,0.8,5930,Owner,Yes,23300,92.19
+PROP-10874,2025-05-05,Delhi NCR,Ghaziabad,Apartment,3,1702.9,1359.6,9,Ground,11,3,1,Furnished,West,No,3.78,19.86,8,34.7,9.0,3840,Owner,Yes,47700,153.55
+PROP-10875,2025-03-30,Chennai,Porur,Apartment,3,1381.0,1159.9,18,5,14,3,0,Unfurnished,West,Yes,2.99,6.39,9,71.2,9.8,4610,Builder,Yes,27000,118.29
+PROP-10876,2026-03-23,Chennai,OMR,Apartment,2,1307.7,1088.7,13,Ground,1,3,1,Semi-Furnished,East,Yes,4.98,19.32,10,56.6,6.9,4830,Owner,Yes,40900,91.56
+PROP-10877,2025-02-22,Pune,Baner,Apartment,4,2258.5,1761.0,12,3rd,3,3,2,Semi-Furnished,North-East,No,7.09,22.26,1,23.0,9.0,5120,Builder,No,48300,143.26
+PROP-10878,2026-02-04,Hyderabad,Gachibowli,Apartment,2,629.7,467.3,13,19,32,1,0,Semi-Furnished,East,Yes,7.33,19.39,7,7.2,4.9,2610,Owner,No,16800,35.22
+PROP-10879,2026-01-06,Bengaluru,Yelahanka,Apartment,1,12715.3,431.1,17,14,28,1,2,Furnished,South,Yes,5.29,7.72,2,48.1,6.2,2300,Builder,Yes,17800,70.13
+PROP-10880,2025-04-13,Hyderabad,Gachibowli,Apartment,2,1080.1,901.5,5,1,1,2,2,Unfurnished,South-East,Yes,2.62,14.07,0,34.7,10,5230,Owner,Yes,36900,99.42
+PROP-10881,2025-02-09,Pune,Hinjewadi,Apartment,2,958.2,712.1,9,2nd,11,3,1,Unfurnished,South,Yes,1.17,11.73,2,27.1,6.9,3950,Owner,Yes,21600,72.91
+PROP-10882,2025-02-11,Chennai,Velachery,Apartment,3,1447.7,1168.0,35,5,13,3,2,Unfurnished,South-East,Yes,3.61,22.38,12,64.0,8.7,6140,Broker,Yes,41300,70.18
+PROP-10883,2026-07-18,Bengaluru,Electronic City,Apartment,4,2353.1,1979.1,,10,19,4,1,Semi-Furnished,South,No,0.2,12.49,10,40.6,7.9,8080,Owner,Yes,91900,209.42
+PROP-10884,2026-08-13,Pune,Hadapsar,Apartment,2,1164.9,950.7,0,2,2,2,1,Semi-Furnished,South-East,Yes,4.9,15.31,11,65.2,9.0,6130,Broker,Yes,29600,91.1
+PROP-10885,2025-02-19,Chennai,Tambaram,Apartment,2,867.8,679.5,9,2,2,2,1,Semi-Furnished,West,Yes,0.55,17.75,11,31.9,,3310,Broker,Yes,22500,85.89
+PROP-10886,2025-10-30,Bengaluru,HSR Layout,Apartment,4,2340.9,,5,13,15,5,0,semi furnished,North-East,Yes,8.05,7.28,8,59.7,6.8,7950,Owner,Yes,106000,200.74
+PROP-10887,2026-07-02,Bengaluru,Marathahalli,Independent House,2,9481.3,901.5,0,2nd,2,2,1,Unfurnished,North,No,4.26,21.12,2,32.9,8.7,3720,Broker,Yes,28200,99.6
+PROP-10888,2025-10-14,Pune,Hinjewadi,Apartment,4,,1873.1,6,1st,29,4,1,Unfurnished,East,Yes,6.15,12.37,3,51.8,8.2,9310,Broker,Yes,51700,149.79
+PROP-10889,2025-08-03,Chennai,Tambaram,Apartment,2,1242.9,865.4,1,18,32,2,1,Furnished,North,Yes,1.36,18.31,12,45.6,8.1,5460,Owner,No,32400,114.84
+PROP-10890,2025-01-03,Hyderabad,Kondapur,Independent House,3,1548.3,1323.5,13,1,1,3,0,Unfurnished,West,Yes,6.45,10.64,3,38.1,6.3,6450,Owner,Yes,50300,109.14
+PROP-10891,2025-08-11,Hyderabad,Manikonda,Apartment,2,963.8,714.4,13,15,18,1,1,Semi-Furnished,North-East,Yes,4.18,4.38,9,45.4,6.2,1930,Broker,Yes,35900,83.75
+PROP-10892,2026-03-15,Pune,Baner,Apartment,3,2261.1,1850.3,7,7,19,3,0,Semi-Furnished,North-East,Yes,7.93,13.7,9,31.4,6.9,5160,Owner,Yes,85800,137.56
+PROP-10893,2026-05-05,Bengaluru,Marathahalli,Apartment,3,1609.0,1260.8,10,15,21,4,0,Semi-Furnished,South-East,Yes,6.18,17.87,10,55.8,8.7,6300,Broker,Yes,62800,139.1
+PROP-10894,2026-08-07,Hyderabad,Kukatpally,Apartment,2,1186.3,839.8,14,16,19,2,1,Furnished,North,Yes,2.44,18.91,3,24.0,7.7,5470,Owner,Yes,47200,100.84
+PROP-10895,2026-06-21,Pune,Kharadi,Independent House,3,1689.0,1281.5,11,3,4,3,3,Semi-Furnished,North-East,Yes,8.66,19.71,3,48.0,5.0,5400,Builder,No,61400,140.03
+PROP-10896,2026-02-25,Pune,Hinjewadi,Independent House,4,2584.0,1833.3,3,1st,2,4,1,furnished,East,No,6.0,15.83,3,70.6,1.9,11250,Builder,Yes,77800,178.96
+PROP-10897,2026-03-08,Bengaluru,HSR Layout,Apartment,2,989.0,723.8,23,Ground,8,2,1,Unfurnished,North,No,0.2,4.68,6,32.8,7.9,3130,Builder,Yes,22500,87.8
+PROP-10898,2025-01-07, Chennai,Velachery,Apartment,2,664.0,489.7,18,8,17,2,0,Semi-Furnished,East,Yes,5.29,14.87,0,26.9,8.6,2010,Owner,Yes,24600,69.73
+PROP-10899,2025-10-04,Bengaluru,Marathahalli,Villa,3,1743.5,1456.7,4,1st,1,3,1,Semi-Furnished,North,Yes,0.2,8.91,2,43.6,5.9,7420,Broker,Yes,82800,190.15
+PROP-10900,2025-09-17,Bengaluru,Marathahalli,Apartment,2,864.5,685.9,2,27,34,2,0,,South,No,0.2,14.25,0,38.7,8.2,3300,Owner,Yes,27900,84.98
+PROP-10901,2025-01-25,Delhi NCR,Noida,Apartment,3,1279.5,1002.8,41,11,11,4,1,Semi-Furnished,South-East,Yes,3.75,7.01,5,34.2,6.0,6670,Broker,Yes,46400,65.67
+PROP-10902,2025-02-19,Pune,Hinjewadi,Apartment,2,1193.2,867.6,0,5,14,1,2,Furnished,North,Yes,9.65,18.18,1,34.1,3.7,4600,Owner,Yes,21300,85.29
+PROP-10411,2026-03-03,Delhi NCR,Dwarka,Apartment,3,1270.2,896.1,17,12,14,4,3,Semi-Furnished,North-East,Yes,,17.3,11,,3.4,3140,Owner,Yes,25900,85.37
+PROP-10904,2026-02-03,Hyderabad,Kukatpally,Apartment,2,1300.0,950.0,21,1st,17,3,0,Furnished,South-East,Yes,8.83,20.35,8,30.2,6.4,5790,Owner,Yes,39500,75.64
+PROP-10905,2026-03-27,Chennai,Anna Nagar,Apartment,3,1032.7,783.7,12,12,34,3,1,Unfurnished,North,Yes,6.76,8.77,8,44.7,8.5,3350,Owner,Yes,27900,86.13
+PROP-10906,2026-06-12,Delhi NCR,Noida,Apartment,3,1490.8,1218.0,11,1,10,3,1,Unfurnished,South-East,Yes,6.46,19.84,6,8.2,4.6,4070,Broker,Yes,30300,108.15
+PROP-10907,2025-01-08,Hyderabad,Kukatpally,Apartment,3,1226.4,976.9,13,5,5,3,2,Semi-Furnished,South,Yes,7.04,8.73,4,5,9.5,2470,Owner,Yes,49800,108.64
+PROP-10908,2025-03-04,Delhi NCR,Gurugram,Apartment,3,1426.1,1027.2,19,30,31,3,2,Furnished,North,Yes,,13.86,5,28.7,9.4,6110,Broker,Yes,58700,142.67
+PROP-10909,2026-05-02,Delhi NCR,Noida,Apartment,4,2132.8,1524.6,3,13,32,3,1,Semi-Furnished,South-East,Yes,6.26,13.22,9,56.1,4.2,11010,Broker,Yes,76400,151.57
+PROP-10910,2025-07-25,Bengaluru,Marathahalli,Apartment,3,1837.5,1347.4,0,6,16,3,2,Unfurnished,North-East,Yes,1.5,22.96,4,72.7,10,6120,Owner,Yes,62900,156.17
+PROP-10911,2025-01-10,Hyderabad,Gachibowli,Apartment,3,1565.0,1067.9,34,15,31,3,0,Unfurnished,West,No,3.63,11.99,5,66.2,6.4,3370,Owner,Yes,33900,80.46
+PROP-10647,2025-05-20,Pune,Wakad,Apartment,4,2606.2,2009.5,43,2,10,4,1,Unfurnished,North-East,Yes,4.68,10.98,6,46.7,10,8330,Builder,Yes,53000,144.57
+PROP-10913,2025-05-25,Bengaluru,HSR Layout,Apartment,2,1265.8,881.6,23,8,32,2,1,Unfurnished,North-East,Yes,2.48,17.43,9,81.0,3.7,4740,Builder,Yes,56000,71.15
+PROP-10914,2025-07-25,Bengaluru,Marathahalli,Villa,3,1606.3,1262.6,2,1,2,3,3,Unfurnished,North,No,3.71,11.95,3,32.0,4.8,6900,Builder,Yes,68800,193.27
+PROP-10656,2025-10-12,Bengaluru,Electronic City,Independent House,3,1439.7,1121.7,20,Ground,3,3,2,Furnished,North,Yes,2.62,1.0,9,67.1,7.6,6510,Builder,No,35400,153.11
+PROP-10916,2025-12-22,Chennai,Anna Nagar,Apartment,2,1475.2,1207.6,1,5,33,2,3,Semi-Furnished,West,Yes,7.32,1.78,12,79.5,4.1,7570,Broker,Yes,54300,107.56
+PROP-10917,2025-12-31,Hyderabad,Gachibowli,Apartment,2,925.5,759.2,7,15,28,2,1,Semi-Furnished,East,No,8.42,18.7,1,41.8,4.6,3220,Builder,No,33000,65.8
+PROP-10918,2026-08-30,Chennai,Anna Nagar,Apartment,4,2014.8,1554.7,77,34,34,4,1,Unfurnished,North-East,Yes,5.69,10.14,1,29.1,6.9,9500,Owner,Yes,53500,147.84
+PROP-10919,2025-11-28,Bengaluru,Marathahalli,Apartment,4,1687.8,1356.7,8,2,26,4,1,Semi-Furnished,South-East,Yes,7.99,8.04,9,55.3,7.2,6820,Broker,Yes,40900,142.29
+PROP-10920,2025-12-27,Bengaluru,Yelahanka,Independent House,2,1080.9,739.9,,1st,1,1,2,Furnished,East,Yes,0.2,1.0,12,54.3,5.5,4370,Owner,No,27200,125.51
+PROP-10843,2025-08-14,Pune,Baner,Apartment,2,1312.0,907.9,5,16,18,2,1,Semi-Furnished,South-East,Yes,0.25,5.87,8,59.3,5.0,6320,Builder,Yes,26300,105.43
+PROP-10922,2025-01-14,Hyderabad,Kondapur,Apartment,1,638.1,507.8,0,9,11,1,1,Semi-Furnished,East,Yes,7.72,15.61,3,52.4,6.0,1540,Owner,Yes,25100,56.13
+PROP-10923,2026-01-12,Bengaluru,Electronic City,Apartment,2,1041.5,780.4,14,4,9,3,1,Unfurnished,South-East,Yes,9.9,13.1,5,14.1,7.3,2420,,Yes,33700,79.05
+PROP-10924,2025-08-23,Hyderabad,Kukatpally,Apartment,3,1001.0,718.2,5,10,17,2,1,Semi-Furnished,North-East,No,2.8,9.7,8,27.8,6.8,2940,Builder,Yes,35800,121.67
+PROP-10925,2025-09-15,Delhi NCR,Ghaziabad,Independent House,3,1872.2,1345.8,0,2nd,3,2,2,Furnished,West,Yes,0.2,16.38,9,39.6,8.3,9540,Owner,Yes,66000,201.65
+PROP-10926,2026-04-03,Delhi NCR,Dwarka,Independent House,1,513.3,351.2,8,Ground,3,2,1,Unfurnished,West,Yes,2.02,14.5,3,37.3,6.4,2390,Broker,Yes,20000,82.96
+PROP-10927,2026-07-30,Chennai,Velachery,Independent House,3,1489.5,,23,Ground,1,4,2,Unfurnished,South,Yes,6.39,13.35,0,31.1,4.5,6290,Builder,Yes,48300,106.89
+PROP-10410,2025-10-29,Delhi NCR,Gurugram,Independent House,2,830.4,576.2,10,Ground,1,2,1,Furnished,North,No,5.19,3.68,8,42.7,2.4,3250,Owner,Yes,26500,84.04
+PROP-10929,2025-11-17,Pune,Kharadi,Independent House,2,967.8,744.5,0,2nd,3,1,1,Semi-Furnished,North,No,6.87,4.72,9,42.8,6.6,3550,Broker,Yes,33700,90.71
+PROP-10930,2026-06-23,hyderabad,Kukatpally,Apartment,2,1254.1,1043.6,4,3,25,2,2,,West,YES ,5.91,3.58,11,53.9,8.3,6380,Builder,Yes,38000,121.05
+PROP-10931,2025-05-27,Delhi NCR,Faridabad,Apartment,1,620.5,485.7,7,7,28,1,2,Unfurnished,North-East,Yes,8.16,11.18,7,54.9,6.6,1310,Builder,Yes,22400,69.54
+PROP-10932,2025-09-01,Chennai,Anna Nagar,Apartment,4,2621.2,2229.5,14,33,34,3,1,Unfurnished,North,YES ,4.12,12.09,5,37.6,6.0,7970,Builder,Yes,78700,162.78
+PROP-10933,2025-02-09, Hyderabad,Kukatpally,Apartment,2,962.7,760.2,13,9,22,3,0,Unfurnished,East,Yes,10.34,20.46,3,34.7,6.0,4900,Owner,No,19300,75.72
+PROP-10934,2026-05-16,Pune,Baner,Apartment,3,1225.4,904.0,0,19,30,3,1,,East,No,7.53,17.59,2,,1.9,3060,Owner,Yes,40100,92.18
+PROP-10935,2025-07-21,Pune,Kharadi,Apartment,3,1072.3,881.0,19,13,30,3,0,Unfurnished,South,Yes,3.23,6.13,7,32.8,5.8,4380,Owner,Yes,26600,75.34
+PROP-10936,2025-10-07,Chennai,Velachery,Apartment,3,1639.3,1226.1,11,1,3,3,1,Furnished,South,Yes,2.49,5.82,6,41.7,10.0,3550,Builder,Yes,58100,142.26
+PROP-10937,2025-01-03,Pune,Wakad,Apartment,1,634.0,,5,Ground,7,1,2,Furnished,South-East,Yes,5.29,15.45,12,37.3,8.6,1890,Builder,Yes,12700,53.74
+PROP-10550,2026-03-17,Delhi NCR,Noida,Apartment,2,1119.2,891.7,,1st,2,2,1,Furnished,South-East,Yes,2.02,14.22,8,41.9,9.1,5100,Broker,Yes,29700,103.88
+PROP-10939,2026-06-26,Pune,Wakad,Apartment,2,1072.4,797.5,11,Ground,7,2,2,Semi-Furnished,West,Yes,0.2,8.23,0,48.6,4.3,5290,Builder,Yes,28600,91.54
+PROP-10940,2025-05-25,Pune,Hinjewadi,Apartment,4,1384.6,1017.3,9,9,10,4,1,Semi-Furnished,North,Yes,7.93,5.62,3,47.4,4.2,6700,Owner,Yes,38200,116.22
+PROP-10941,2025-10-23,hyderabad,Madhapur,Apartment,2,760.3,643.4,18,Ground,15,2,1,Unfurnished,North,Yes,7.08,6.47,11,30.6,10,1960,Builder,Yes,30600,76.3
+PROP-10942,2025-01-28,Chennai,Anna Nagar,Apartment,2,1011.5,820.3,29,13,30,1,2,Unfurnished,South-East,Yes,4.84,16.8,1,59.6,2.3,4630,Builder,No,23600,23.16
+PROP-10943,2026-09-01,Bengaluru,Marathahalli,Apartment,3,1048.3,887.8,0,Ground,15,2,1,,South-East,Yes,2.68,8.01,3,39.6,6.4,3360,Broker,Yes,26600,105.12
+PROP-10818,2025-04-05,Delhi NCR,Noida,Apartment,2,1148.2,822.1,19,Ground,17,3,2,Furnished,West,Yes,2.95,1.0,8,40.5,2.0,4690,Builder,Yes,26800,99.96
+PROP-10145,2025-12-06,Hyderabad,Kondapur,Apartment,2,1465.5,1200.6,21,1,5,2,2,Semi furnished ,North,Yes,8.02,1.0,11,45.6,4.4,7750,Broker,Yes,42500,94.75
+PROP-10946,2026-02-25,Delhi NCR,Gurugram,Apartment,3,,1208.2,1,27,27,3,0,Semi-Furnished,North,Yes,0.2,1.0,5,51.7,6.0,7660,Owner,Yes,43200,138.51
+PROP-10947,2025-07-19,Delhi NCR,Ghaziabad,Apartment,3,1814.7,,3,3,4,3,2,Unfurnished,South,Yes,6.12,13.73,7,25.5,10,8050,Builder,Yes,84600,176.87
+PROP-10948,2026-07-16,Hyderabad,Manikonda,Independent House,2,1297.6,1017.4,9,Ground,1,2,2,Semi-Furnished,South-East,Yes,3.79,7.23,3,40.6,6.1,6990,Broker,Yes,51900,131.47
+PROP-10949,2025-07-03,Hyderabad,Kukatpally,Independent House,5,3153.3,2226.8,20,Ground,3,5,2,Unfurnished,North-East,Yes,6.49,21.69,1,20.8,4.4,16280,Broker,Yes,122400,241.2
+PROP-10701,2025-07-20,Hyderabad,Kondapur,Independent House,4,2197.1,1714.5,3,1,1,4,1,Semi-Furnished,West,Yes,3.78,8.51,10,12.2,10,11380,Broker,Yes,68000,196.38
+PROP-10951,2026-03-16,Bengaluru,HSR Layout,Apartment,3,1403.7,1024.7,8,11,12,2,1,semi furnished,South,Yes,11.89,8.16,6,37.3,7.6,7120,Builder,Yes,37500,118.25
+PROP-10952,2025-11-14,Bengaluru,Electronic City,Villa,5,3039.8,2453.6,11,2,2,5,0,SEMI-FURNISHED,South-East,Yes,6.39,16.13,3,26.7,7.8,9410,Broker,Yes,111400,296.7
+PROP-10953,2025-10-19,Hyderabad,Manikonda,Independent House,2,913.8,647.3,0,Ground,3,3,1,Semi-Furnished,South-East,No,8.93,19.12,8,36.8,6.0,2900,Broker,Yes,34100,84.77
+PROP-10954,2025-02-06,Pune,Hinjewadi,Independent House,3,1555.7,1147.5,11,Ground,1,4,2,Unfurnished,North,Yes,3.25,14.67,10,36.5,7.8,6470,Builder,Yes,59800,140.8
+PROP-10955,2025-11-09,Hyderabad,Kukatpally,Apartment,2,665.3,503.1,0,9,11,2,1,Semi-Furnished,North,Yes,5.81,14.92,8,44.1,5.9,2910,Broker,Yes,24500,59.33
+PROP-10956,2025-10-22,Bengaluru,Marathahalli,Apartment,2,742.5,604.4,8,34,34,3,1,Unfurnished,South,yes,6.93,27.54,8,66.1,4.0,2150,Builder,Yes,32800,74.5
+PROP-10957,2026-03-14,Hyderabad,Manikonda,Apartment,4,2673.5,1983.3,6,5,14,3,1,Unfurnished,North-East,Yes,10.31,8.53,5,16.5,4.6,13970,Broker,Yes,64100,162.87
+PROP-10958,2026-06-13,Bengaluru,Electronic City,Apartment,2,755.8,631.2,7,12,34,1,0,Semi-Furnished,North-East,Yes,5.36,18.96,7,56.4,7.6,2260,Broker,Yes,30300,75.23
+PROP-10959,2026-01-03,Bengaluru,Yelahanka,Apartment,3,1274.4,891.0,11,1,2,2,2,Semi-Furnished,North,Yes,7.03,12.39,8,39.4,10,5740,Broker,Yes,41200,127.04
+PROP-10960,2025-12-10,Bengaluru,Yelahanka,Villa,3,1547.2,1057.7,17,Ground,2,3,2,Furnished,East,Yes,6.98,8.72,8,28.9,5.3,8470,Builder,Yes,33600,186.89
+PROP-10961,2026-07-06,Bengaluru,Yelahanka,Villa,3,1502.9,1245.1,11,1,3,3,0,Furnished,North-East,Yes,9.59,6.07,1,40.7,7.7,3690,Builder,Yes,68500,159.54
+PROP-10962,2026-01-22,Chennai,Anna Nagar,Independent House,2,838.9,720.4,,1,3,2,2,Furnished,South-East,Yes,6.27,10.62,0,55.3,7.0,3940,Broker,Yes,25100,78.59
+PROP-10963,2025-09-22,Hyderabad,Manikonda,Apartment,1,578.2,482.6,26,29,32,1,1,Semi-Furnished,North,No,2.2,18.21,0,67.0,4.6,1590,Builder,Yes,19100,29.57
+PROP-10964,2026-04-01,Chennai,Velachery,Apartment,3,1283.4,1028.5,12,2,27,2,1,Unfurnished,North,No,6.7,9.04,7,72.4,3.6,5600,Broker,Yes,50100,84.15
+PROP-10965,2025-01-29,Chennai,Tambaram,Apartment,4,2664.6,2202.2,3,23,32,5,1,Unfurnished,South,No,7.57,4.14,2,15.5,3.7,9490,Owner,Yes,96700,193.23
+PROP-10966,2025-10-12,Bengaluru,Yelahanka,Apartment,1,520.0,435.2,25,2nd,23,1,1,Unfurnished,North,Yes,5.73,8.8,12,44.0,7.9,1150,Builder,Yes,19500,52.36
+PROP-10967,2025-02-07,Chennai,Porur,Apartment,3,1821.0,1475.1,20,21,34,3,1,Unfurnished,South,No,5.95,10.73,6,38.3,5.9,8000,Broker,Yes,67600,152.13
+PROP-10968,2025-10-11,Chennai,OMR,Apartment,2,1183.8,870.6,21,Ground,5,3,2,Semi-Furnished,North-East,Yes,4.48,8.6,1,50.2,8.0,6040,Owner,Yes,32700,87.57
+PROP-10969,2025-03-11,Hyderabad,Madhapur,Apartment,2,1276.2,1016.7,,1,1,3,1,Semi-Furnished,West,Yes,7.54,21.22,11,36.0,8.0,4360,Broker,Yes,23500,92.52
+PROP-10388,2025-10-01,Hyderabad,Kukatpally,Apartment,1,690.0,512.7,6,15,26,1,2,Unfurnished,North-East,Yes,2.76,9.94,3,13.8,5.6,2270,Owner,Yes,16500,72.35
+PROP-10971,2026-02-21,Hyderabad,Manikonda,Apartment,2,1001.2,703.9,15,9,17,1,0,Furnished,South-East,Yes,3.79,1.45,7,23.3,4.2,5480,Owner,Yes,34800,100.87
+PROP-10972,2026-07-18,Bengaluru,Whitefield,Apartment,5,2513.9,2125.1,36,23,33,5,1,Furnished,West,No,7.08,10.74,3,40.6,10,11850,Owner,Yes,61900,171.47
+PROP-10973,2025-11-15,Bengaluru,Yelahanka,Independent House,1,562.0,471.8,6,Ground,1,2,3,Unfurnished,North-East,No,6.37,12.93,7,29.5,8.0,1550,Builder,Yes,21300,85.19
+PROP-10974,2025-11-18,Delhi NCR,Gurugram,Villa,5,2933.3,2501.8,15,1,3,5,1,Unfurnished,South-East,Yes,5.81,8.15,3,55.0,10,14490,Broker,Yes,64100,267.58
+PROP-10975,2026-02-22,Delhi NCR,Dwarka,Apartment,2,1036.7,751.5,,11,23,2,2,Furnished,East,Yes,7.02,25.33,4,59.2,7.3,2390,Owner,No,38100,77.16
+PROP-10976,2025-01-24,Bengaluru,Marathahalli,Apartment,4,2022.7,1532.8,9,3,20,4,1,Unfurnished,West,No,1.98,19.42,5,25.2,6.9,8890,Broker,No,89000,184.07
+PROP-10977,2026-01-26,Hyderabad,Kukatpally,Studio,1,531.6,363.2,17,Ground,2,1,1,Semi-Furnished,West,Yes,1.41,17.61,2,45.9,7.9,2570,Owner,Yes,11700,37.62
+PROP-10978,2026-05-21,Hyderabad,Manikonda,Apartment,2,972.7,761.8,36,4,15,2,1,Semi-Furnished,North-East,Yes,4.22,17.97,2,45.3,10,4200,,Yes,25400,58.6
+PROP-10979,2025-07-06,Hyderabad,Kondapur,Apartment,4,2425.6,1778.3,15,2,3,5,2,Furnished,North,Yes,7.6,21.41,8,18.6,9.3,5220,Owner,Yes,98100,170.47
+PROP-10980,2026-07-27,Bengaluru,Marathahalli,Apartment,5,,2443.0,43,1,2,6,3,Semi-Furnished,East,Yes,3.71,18.78,0,39.1,8.9,13630,Owner,Yes,89300,226.31
+PROP-10981,2025-10-11,Bengaluru,Yelahanka,Apartment,4,1847.7,1559.5,19,2nd,16,3,1,Unfurnished,South,No,6.2,13.93,1,51.8,1.9,7290,Builder,Yes,82700,113.88
+PROP-10982,2026-07-29,Chennai,Tambaram,Apartment,3,1737.9,1246.6,18,20,34,3,1,Furnished,North-East,Yes,,23.38,1,53.2,7.0,7920,Broker,Yes,47700,132.47
+PROP-10983,2026-01-12,Bengaluru,Whitefield,Independent House,2,1064.0,831.6,12,2,2,2,0,Semi-Furnished,North-East,No,0.98,19.07,11,45.8,1.9,3360,Owner,Yes,49400,98.18
+PROP-10984,2026-07-19,Hyderabad,Kondapur,Apartment,2,962.9,747.8,23,3,10,1,1,Semi-Furnished,East,Yes,4.86,12.01,6,18.0,5.2,3590,,No,23800,59.18
+PROP-10985,2025-10-26,Delhi NCR,Dwarka,Apartment,4,1979.8,1428.6,10,3rd,6,4,2,Semi-Furnished,North-East,Yes,9.34,8.49,7,38.1,,10650,Builder,Yes,77500,159.89
+PROP-10986,2025-01-09,Delhi NCR,Faridabad,Apartment,3,1933.4,1606.7,1,8,28,3,1,Semi-Furnished,East,No,0.2,19.43,10,48.6,1.9,8000,Owner,Yes,51300,162.79
+PROP-10987,2026-02-25,Hyderabad,Kondapur,Apartment,3,1764.4,,23,Ground,3,3,1,Semi-Furnished,South,Yes,4.47,17.07,4,43.7,3.7,4860,Broker,Yes,52100,92.83
+PROP-10988,2025-01-17,Hyderabad,Gachibowli,Independent House,4,2002.0,1676.4,15,1,2,3,2,Unfurnished,South,Yes,4.32,14.12,8,70.4,2.5,7410,Broker,Yes,49100,161.1
+PROP-10989,2026-04-01,Pune,Baner,Apartment,4,1889.1,1538.9,10,7,9,4,0,Unfurnished,South,Yes,2.88,1.76,9,,6.8,8350,Owner,Yes,45800,151.35
+PROP-10990,2025-10-01,Bengaluru,Whitefield,Apartment,2,1000.8,,5,8,14,2,2,Semi-Furnished,West,Yes,7.07,11.87,2,49.9,5.6,2760,Owner,Yes,39400,96.58
+PROP-10991,2026-06-17,Bengaluru,Marathahalli,Apartment,3,1866.2,1384.3,10,1,7,3,1,Unfurnished,South-East,Yes,3.03,25.35,9,44.8,5.4,8120,Owner,Yes,68300,144.95
+PROP-10992,2025-05-25,Pune,Hadapsar,Apartment,2,822.3,623.5,4,1,31,2,2,Unfurnished,South-East,Yes,6.79,16.04,12,32.2,5.1,3060,Builder,Yes,23900,80.87
+PROP-10993,2025-03-15,Delhi NCR,Dwarka,Villa,4,2580.7,2195.9,12,1st,1,5,1,Unfurnished,North,Yes,11.03,24.4,10,41.7,9.4,7230,Builder,No,68700,227.5
+PROP-10994,2026-08-20,Bengaluru,Electronic City,Apartment,2,805.1,686.8,6,15,18,2,0,Semi-Furnished,South-East,Yes,6.96,15.82,2,65.1,7.3,2640,Owner,Yes,36100,77.15
+PROP-10995,2025-04-15,Delhi NCR,Faridabad,Villa,3,911.9,636.2,10,Ground,1,4,2,Unfurnished,South-East,Yes,,17.48,3,40.8,4.3,4900,Builder,Yes,18800,121.69
+PROP-10996,2026-02-02,Bengaluru,Whitefield,Apartment,5,1271.0,1017.5,0,9,16,4,1,Semi-Furnished,North-East,Yes,5.21,24.18,7,48.6,9.0,5950,Builder,Yes,33900,133.25
+PROP-10997,2025-08-31,Hyderabad,Madhapur,Apartment,1,762.2,578.4,37,18,30,1,1,Semi-Furnished,West,Yes,6.57,21.23,5,35.1,5.4,3400,Builder,Yes,24300,18
+PROP-10998,2025-01-08,Bengaluru,Marathahalli,Apartment,2,625.2,447.4,0,22,23,3,1,Unfurnished,North,Yes,10.84,19.34,4,56.7,8.1,1750,Owner,Yes,16700,44.58
+PROP-10999,2025-01-12,Hyderabad,Manikonda,Apartment,4,2486.4,2127.4,19,21,26,4,1,,South-East,Yes,0.2,18.15,1,54.0,6.7,13360,Builder,Yes,102800,188.11
+PROP-11000,2025-05-10,Hyderabad,Madhapur,Villa,3,1335.6,995.9,30,1,3,3,1,Semi-Furnished,North-East,No,1.78,10.19,2,14.3,8.7,5120,Owner,Yes,26900,105.91
