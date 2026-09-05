@@ -1,0 +1,4 @@
+Regression Example:
+Business Objective: Develop a machine-learning regression model that predicts the selling price of a residential property in lakhs of INR using property characteristics, location, accessibility, amenities, and market-related attributes.
+
+Learning Objective: By the end of the exercise, learners should be able to clean and prepare imperfect real-world data, perform exploratory analysis and feature engineering, build and evaluate regression models, identify issues such as multicollinearity and outliers, and create a reusable preprocessing-and-model pipeline suitable for deployment.
